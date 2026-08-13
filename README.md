@@ -30,7 +30,7 @@ of governed data.**
 All data in this repo is **synthetic and generated locally** — no real patient, trial, or company
 data is used anywhere.
 
-**[→ View the live KPI dashboard](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/dashboard.html)** —
+**[→ View the live KPI dashboard](https://VigneshDerangula.github.io/pharma-safety-supply-ai-platform/dashboard.html)** —
 adverse-event severity, monthly trends, top drugs, and the demand forecast, built from this repo's
 own pipeline output (`docs/dashboard.html`).
 
