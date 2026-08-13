@@ -30,6 +30,10 @@ of governed data.**
 All data in this repo is **synthetic and generated locally** — no real patient, trial, or company
 data is used anywhere.
 
+**[→ View the live KPI dashboard](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/dashboard.html)** —
+adverse-event severity, monthly trends, top drugs, and the demand forecast, built from this repo's
+own pipeline output (`docs/dashboard.html`).
+
 ## The architecture, at a glance
 
 <img width="1760" height="1000" alt="architecture_diagram" src="https://github.com/user-attachments/assets/e23e189c-606f-4297-b4e3-0e74f10fdc1e" />
