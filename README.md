@@ -22,11 +22,6 @@ dbt → score them with two AI models → hand them to BI tools.** Everything is
 end to end, from the Terraform that provisions the AWS resources down to the CI pipeline that
 validates every change.
 
-It's designed to demonstrate the specific skill set behind pharma data engineering roles (the kind
-referenced in Merck & Co.–style Data Engineer job postings): **AWS (S3, Glue, Lambda, Redshift,
-IAM), Airflow orchestration, dbt-based transformation, Terraform IaC, CI/CD, and applied ML on top
-of governed data.**
-
 All data in this repo is **synthetic and generated locally** — no real patient, trial, or company
 data is used anywhere.
 
