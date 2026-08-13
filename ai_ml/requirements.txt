@@ -1,0 +1,7 @@
+pandas>=2.0
+scikit-learn>=1.3
+statsmodels>=0.14
+joblib>=1.3
+numpy>=1.24
+anthropic>=0.30  # optional, only needed for --use-llm zero-shot classification
+pytest>=7.4
