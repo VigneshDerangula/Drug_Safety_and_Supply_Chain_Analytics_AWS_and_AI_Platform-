@@ -36,7 +36,7 @@ Pharma data platforms live under three constraints that shaped every design deci
 
 ## Architecture
 
-<img width="1760" height="1000" alt="architecture_diagram" src="https://github.com/user-attachments/assets/ba407e5e-c1cf-478d-a020-f8599c38c000" />
+<img width="1760" height="1000" alt="architecture_diagram" src="https://github.com/user-attachments/assets/e23e189c-606f-4297-b4e3-0e74f10fdc1e" />
 
 
 Two paths, one warehouse:
