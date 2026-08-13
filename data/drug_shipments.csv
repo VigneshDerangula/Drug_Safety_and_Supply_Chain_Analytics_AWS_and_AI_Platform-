@@ -1,0 +1,1501 @@
+shipment_id,drug_code,drug_name,origin_facility,destination_country,region,ship_date,quantity_units,batch_id,cold_chain_required,delivery_status
+SHP300000,MRK-1005,Neuroplex,NJ-Plant-01,India,APAC,2025-09-07,39513,BATCH-61563,False,Customs Hold
+SHP300001,MRK-1005,Neuroplex,Ireland-Plant-02,South Korea,APAC,2025-07-26,26771,BATCH-31605,False,Delayed
+SHP300002,MRK-1001,Cardiozin,NJ-Plant-01,Brazil,Latin America,2026-03-17,8760,BATCH-52415,False,Delayed
+SHP300003,MRK-1007,Pulmocare,NJ-Plant-01,Brazil,Latin America,2024-11-18,28383,BATCH-34148,False,In Transit
+SHP300004,MRK-1002,Oncavera,Singapore-Plant-03,Canada,North America,2024-08-29,14620,BATCH-94871,False,Delayed
+SHP300005,MRK-1008,Dermalyx,Ireland-Plant-02,Canada,North America,2025-05-25,20639,BATCH-60960,False,Delayed
+SHP300006,MRK-1005,Neuroplex,Singapore-Plant-03,Australia,APAC,2025-09-03,15103,BATCH-67288,False,Delayed
+SHP300007,MRK-1003,Immunext,Ireland-Plant-02,USA,North America,2025-07-01,15260,BATCH-10800,True,Customs Hold
+SHP300008,MRK-1002,Oncavera,Ireland-Plant-02,France,EMEA,2024-12-07,48253,BATCH-38594,False,Delivered
+SHP300009,MRK-1003,Immunext,Ireland-Plant-02,USA,North America,2026-01-28,16827,BATCH-26741,True,In Transit
+SHP300010,MRK-1002,Oncavera,NJ-Plant-01,Mexico,North America,2026-03-08,31452,BATCH-93898,False,In Transit
+SHP300011,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2025-03-11,18240,BATCH-94218,False,In Transit
+SHP300012,MRK-1006,Vaxishield,NJ-Plant-01,Australia,APAC,2025-07-21,21781,BATCH-33716,True,Delayed
+SHP300013,MRK-1003,Immunext,NJ-Plant-01,India,APAC,2025-12-30,20988,BATCH-63225,True,Delivered
+SHP300014,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2025-09-21,6007,BATCH-18724,True,Delivered
+SHP300015,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2026-05-22,42228,BATCH-57614,True,Delayed
+SHP300016,MRK-1002,Oncavera,Ireland-Plant-02,South Korea,APAC,2025-04-10,20636,BATCH-71815,False,In Transit
+SHP300017,MRK-1006,Vaxishield,Ireland-Plant-02,France,EMEA,2026-03-01,9750,BATCH-67456,True,Delayed
+SHP300018,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2024-12-30,38548,BATCH-84852,False,Customs Hold
+SHP300019,MRK-1004,Glucostat,NJ-Plant-01,Australia,APAC,2026-05-17,40020,BATCH-14803,False,Delayed
+SHP300020,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2025-07-01,2484,BATCH-35589,False,Delivered
+SHP300021,MRK-1004,Glucostat,Singapore-Plant-03,Brazil,Latin America,2026-06-13,4998,BATCH-36350,False,In Transit
+SHP300022,MRK-1003,Immunext,Singapore-Plant-03,Brazil,Latin America,2025-06-09,31592,BATCH-80116,True,In Transit
+SHP300023,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2025-05-06,36106,BATCH-35729,False,Delivered
+SHP300024,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2024-11-19,45344,BATCH-51085,False,In Transit
+SHP300025,MRK-1002,Oncavera,Ireland-Plant-02,Chile,Latin America,2024-11-09,27277,BATCH-96624,False,In Transit
+SHP300026,MRK-1006,Vaxishield,NJ-Plant-01,South Africa,EMEA,2026-04-11,34045,BATCH-23307,True,Delivered
+SHP300027,MRK-1006,Vaxishield,Ireland-Plant-02,Chile,Latin America,2025-05-04,12820,BATCH-46597,True,Customs Hold
+SHP300028,MRK-1008,Dermalyx,Singapore-Plant-03,Mexico,North America,2025-05-05,29512,BATCH-59663,False,In Transit
+SHP300029,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2024-08-17,14256,BATCH-27898,False,Delayed
+SHP300030,MRK-1007,Pulmocare,NJ-Plant-01,Argentina,Latin America,2026-07-16,22877,BATCH-89900,False,Delivered
+SHP300031,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2025-06-29,39531,BATCH-54601,False,Customs Hold
+SHP300032,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2026-07-16,15832,BATCH-54614,False,In Transit
+SHP300033,MRK-1002,Oncavera,Singapore-Plant-03,Mexico,North America,2025-08-31,27343,BATCH-78428,False,Delayed
+SHP300034,MRK-1005,Neuroplex,Singapore-Plant-03,France,EMEA,2025-02-03,18649,BATCH-77449,False,Delayed
+SHP300035,MRK-1008,Dermalyx,Ireland-Plant-02,South Korea,APAC,2024-06-23,37268,BATCH-74261,False,Delayed
+SHP300036,MRK-1006,Vaxishield,NJ-Plant-01,Germany,EMEA,2026-05-12,39319,BATCH-33481,True,In Transit
+SHP300037,MRK-1002,Oncavera,Singapore-Plant-03,Chile,Latin America,2025-08-20,30827,BATCH-80623,False,Delivered
+SHP300038,MRK-1003,Immunext,Ireland-Plant-02,India,APAC,2025-10-16,40374,BATCH-20741,True,Customs Hold
+SHP300039,MRK-1001,Cardiozin,Ireland-Plant-02,Australia,APAC,2026-07-26,17715,BATCH-22960,False,Delayed
+SHP300040,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2026-02-17,10977,BATCH-61277,False,Delivered
+SHP300041,MRK-1002,Oncavera,NJ-Plant-01,UK,EMEA,2025-10-15,2445,BATCH-79227,False,Delayed
+SHP300042,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2025-08-14,16606,BATCH-74446,False,Delivered
+SHP300043,MRK-1005,Neuroplex,Singapore-Plant-03,Japan,APAC,2026-06-27,1985,BATCH-90897,False,In Transit
+SHP300044,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2025-08-13,3579,BATCH-51369,False,In Transit
+SHP300045,MRK-1007,Pulmocare,Ireland-Plant-02,Chile,Latin America,2024-07-31,14984,BATCH-21721,False,Delayed
+SHP300046,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2024-01-13,44339,BATCH-35579,False,In Transit
+SHP300047,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2026-02-01,8465,BATCH-85454,False,In Transit
+SHP300048,MRK-1002,Oncavera,NJ-Plant-01,USA,North America,2026-05-28,35406,BATCH-85170,False,Customs Hold
+SHP300049,MRK-1005,Neuroplex,NJ-Plant-01,France,EMEA,2024-12-23,8447,BATCH-65914,False,Delivered
+SHP300050,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2026-05-26,33417,BATCH-26124,False,Delivered
+SHP300051,MRK-1005,Neuroplex,Ireland-Plant-02,Japan,APAC,2026-06-19,9388,BATCH-37810,False,Customs Hold
+SHP300052,MRK-1004,Glucostat,Singapore-Plant-03,Brazil,Latin America,2026-07-16,22995,BATCH-79590,False,Customs Hold
+SHP300053,MRK-1004,Glucostat,NJ-Plant-01,Argentina,Latin America,2024-05-23,29327,BATCH-38446,False,Delayed
+SHP300054,MRK-1007,Pulmocare,Singapore-Plant-03,UK,EMEA,2024-12-27,16359,BATCH-17910,False,Delivered
+SHP300055,MRK-1006,Vaxishield,Singapore-Plant-03,South Korea,APAC,2024-04-02,24533,BATCH-48259,True,Customs Hold
+SHP300056,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2024-12-08,25786,BATCH-41379,False,Customs Hold
+SHP300057,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2026-03-19,8081,BATCH-59785,True,Delayed
+SHP300058,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2025-09-20,3291,BATCH-27566,False,In Transit
+SHP300059,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2025-04-12,2346,BATCH-81395,False,Customs Hold
+SHP300060,MRK-1007,Pulmocare,Ireland-Plant-02,Brazil,Latin America,2024-12-17,16842,BATCH-33211,False,Delivered
+SHP300061,MRK-1007,Pulmocare,Singapore-Plant-03,Australia,APAC,2024-03-11,46689,BATCH-64029,False,Delivered
+SHP300062,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2025-12-14,30766,BATCH-93179,False,In Transit
+SHP300063,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2026-04-28,17906,BATCH-58929,True,Delivered
+SHP300064,MRK-1001,Cardiozin,NJ-Plant-01,Germany,EMEA,2024-05-18,32639,BATCH-11084,False,Delayed
+SHP300065,MRK-1003,Immunext,NJ-Plant-01,Argentina,Latin America,2024-08-01,28170,BATCH-76730,True,Delivered
+SHP300066,MRK-1005,Neuroplex,Singapore-Plant-03,Australia,APAC,2025-04-09,8106,BATCH-85892,False,In Transit
+SHP300067,MRK-1006,Vaxishield,Singapore-Plant-03,Germany,EMEA,2025-08-12,27485,BATCH-15885,True,Customs Hold
+SHP300068,MRK-1008,Dermalyx,Singapore-Plant-03,Argentina,Latin America,2025-12-12,43706,BATCH-92142,False,Delivered
+SHP300069,MRK-1003,Immunext,Ireland-Plant-02,France,EMEA,2025-09-20,33867,BATCH-45339,True,Delayed
+SHP300070,MRK-1006,Vaxishield,Singapore-Plant-03,Mexico,North America,2024-08-30,22038,BATCH-69464,True,In Transit
+SHP300071,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2024-09-29,13380,BATCH-94122,False,Customs Hold
+SHP300072,MRK-1002,Oncavera,Singapore-Plant-03,Canada,North America,2026-05-09,18259,BATCH-14602,False,In Transit
+SHP300073,MRK-1005,Neuroplex,NJ-Plant-01,Germany,EMEA,2025-06-03,32836,BATCH-81876,False,Customs Hold
+SHP300074,MRK-1008,Dermalyx,NJ-Plant-01,India,APAC,2026-01-19,15837,BATCH-63045,False,Delayed
+SHP300075,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2026-04-29,16954,BATCH-40480,False,Delivered
+SHP300076,MRK-1001,Cardiozin,Singapore-Plant-03,Canada,North America,2024-07-16,34097,BATCH-64936,False,Delivered
+SHP300077,MRK-1003,Immunext,Ireland-Plant-02,South Africa,EMEA,2024-05-16,23351,BATCH-31870,True,Delivered
+SHP300078,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2026-05-17,11666,BATCH-21140,False,Delivered
+SHP300079,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2024-05-17,979,BATCH-46634,True,Delivered
+SHP300080,MRK-1001,Cardiozin,Singapore-Plant-03,Mexico,North America,2025-12-07,32923,BATCH-87537,False,Delayed
+SHP300081,MRK-1002,Oncavera,NJ-Plant-01,UK,EMEA,2024-10-04,24829,BATCH-82199,False,Delivered
+SHP300082,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2025-09-22,20787,BATCH-93137,False,In Transit
+SHP300083,MRK-1003,Immunext,Singapore-Plant-03,South Korea,APAC,2024-01-29,38994,BATCH-83140,True,Customs Hold
+SHP300084,MRK-1003,Immunext,Ireland-Plant-02,Argentina,Latin America,2026-06-05,38139,BATCH-36828,True,In Transit
+SHP300085,MRK-1003,Immunext,NJ-Plant-01,Japan,APAC,2025-05-22,20065,BATCH-34316,True,Delayed
+SHP300086,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2024-06-25,27973,BATCH-24140,False,Delivered
+SHP300087,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2025-01-26,34961,BATCH-23004,False,Customs Hold
+SHP300088,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2024-01-13,10285,BATCH-62344,False,Customs Hold
+SHP300089,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2026-03-08,2803,BATCH-87929,True,Delayed
+SHP300090,MRK-1004,Glucostat,NJ-Plant-01,Argentina,Latin America,2026-01-08,9382,BATCH-84873,False,Delayed
+SHP300091,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2025-08-20,2543,BATCH-54428,False,Customs Hold
+SHP300092,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2024-03-02,6777,BATCH-41902,False,In Transit
+SHP300093,MRK-1006,Vaxishield,NJ-Plant-01,USA,North America,2026-03-28,30737,BATCH-90653,True,Customs Hold
+SHP300094,MRK-1002,Oncavera,NJ-Plant-01,Germany,EMEA,2025-11-01,30087,BATCH-31003,False,Delivered
+SHP300095,MRK-1002,Oncavera,Singapore-Plant-03,South Africa,EMEA,2025-08-02,3203,BATCH-76757,False,Customs Hold
+SHP300096,MRK-1002,Oncavera,NJ-Plant-01,Argentina,Latin America,2024-05-25,12665,BATCH-13270,False,Delayed
+SHP300097,MRK-1006,Vaxishield,Ireland-Plant-02,South Korea,APAC,2026-03-22,7831,BATCH-24543,True,In Transit
+SHP300098,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2025-04-10,17331,BATCH-42096,False,Customs Hold
+SHP300099,MRK-1001,Cardiozin,Ireland-Plant-02,UK,EMEA,2026-02-16,20261,BATCH-27268,False,In Transit
+SHP300100,MRK-1006,Vaxishield,NJ-Plant-01,Germany,EMEA,2025-10-25,26538,BATCH-28883,True,Delayed
+SHP300101,MRK-1003,Immunext,NJ-Plant-01,France,EMEA,2026-02-12,5892,BATCH-97073,True,Delivered
+SHP300102,MRK-1005,Neuroplex,NJ-Plant-01,South Korea,APAC,2026-03-27,31594,BATCH-59260,False,Delivered
+SHP300103,MRK-1004,Glucostat,Ireland-Plant-02,South Africa,EMEA,2025-10-18,41493,BATCH-51393,False,Delivered
+SHP300104,MRK-1004,Glucostat,Singapore-Plant-03,South Africa,EMEA,2025-02-22,5670,BATCH-71029,False,Delayed
+SHP300105,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2024-12-19,45853,BATCH-86591,False,Delayed
+SHP300106,MRK-1002,Oncavera,NJ-Plant-01,Brazil,Latin America,2024-05-14,7431,BATCH-85362,False,Delivered
+SHP300107,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2026-04-04,28671,BATCH-63032,True,Delayed
+SHP300108,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2025-07-23,28546,BATCH-98403,False,Customs Hold
+SHP300109,MRK-1003,Immunext,NJ-Plant-01,South Africa,EMEA,2025-01-23,4352,BATCH-75562,True,Delayed
+SHP300110,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2024-01-25,34000,BATCH-40241,False,Customs Hold
+SHP300111,MRK-1002,Oncavera,Ireland-Plant-02,Mexico,North America,2024-02-03,32658,BATCH-91226,False,In Transit
+SHP300112,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2024-02-14,3799,BATCH-84878,False,In Transit
+SHP300113,MRK-1007,Pulmocare,NJ-Plant-01,UK,EMEA,2026-03-15,21867,BATCH-46516,False,Delayed
+SHP300114,MRK-1007,Pulmocare,NJ-Plant-01,South Korea,APAC,2024-02-10,33541,BATCH-25370,False,In Transit
+SHP300115,MRK-1007,Pulmocare,NJ-Plant-01,Australia,APAC,2025-03-18,12787,BATCH-11275,False,In Transit
+SHP300116,MRK-1002,Oncavera,Ireland-Plant-02,UK,EMEA,2026-01-31,48135,BATCH-99957,False,In Transit
+SHP300117,MRK-1001,Cardiozin,NJ-Plant-01,Australia,APAC,2024-01-02,14140,BATCH-10259,False,Delivered
+SHP300118,MRK-1001,Cardiozin,NJ-Plant-01,Mexico,North America,2025-06-15,25200,BATCH-48232,False,Customs Hold
+SHP300119,MRK-1008,Dermalyx,NJ-Plant-01,Germany,EMEA,2025-09-18,816,BATCH-77653,False,Delivered
+SHP300120,MRK-1002,Oncavera,NJ-Plant-01,Japan,APAC,2025-02-19,673,BATCH-85975,False,Delivered
+SHP300121,MRK-1007,Pulmocare,Ireland-Plant-02,UK,EMEA,2024-05-22,45425,BATCH-36416,False,Customs Hold
+SHP300122,MRK-1008,Dermalyx,Singapore-Plant-03,Canada,North America,2024-01-10,36005,BATCH-54150,False,Delayed
+SHP300123,MRK-1002,Oncavera,NJ-Plant-01,Argentina,Latin America,2024-09-21,25961,BATCH-15325,False,Delivered
+SHP300124,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2024-09-12,28979,BATCH-22685,False,In Transit
+SHP300125,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2025-06-19,6081,BATCH-22119,False,Delayed
+SHP300126,MRK-1005,Neuroplex,Ireland-Plant-02,India,APAC,2026-02-16,38073,BATCH-29671,False,Delivered
+SHP300127,MRK-1004,Glucostat,NJ-Plant-01,Japan,APAC,2024-03-11,24290,BATCH-52459,False,In Transit
+SHP300128,MRK-1005,Neuroplex,Ireland-Plant-02,Argentina,Latin America,2024-01-31,29760,BATCH-59160,False,Delayed
+SHP300129,MRK-1005,Neuroplex,NJ-Plant-01,South Korea,APAC,2025-03-18,29441,BATCH-17034,False,Delivered
+SHP300130,MRK-1001,Cardiozin,Singapore-Plant-03,France,EMEA,2026-06-21,42702,BATCH-12101,False,In Transit
+SHP300131,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2025-10-30,15081,BATCH-68554,False,Delayed
+SHP300132,MRK-1001,Cardiozin,Singapore-Plant-03,South Africa,EMEA,2024-05-24,2707,BATCH-55436,False,Delivered
+SHP300133,MRK-1008,Dermalyx,Ireland-Plant-02,Australia,APAC,2026-07-15,9409,BATCH-39805,False,Delayed
+SHP300134,MRK-1004,Glucostat,Ireland-Plant-02,Argentina,Latin America,2024-06-12,15066,BATCH-69563,False,Delivered
+SHP300135,MRK-1001,Cardiozin,NJ-Plant-01,Japan,APAC,2024-06-12,41116,BATCH-83402,False,In Transit
+SHP300136,MRK-1006,Vaxishield,Ireland-Plant-02,Mexico,North America,2024-04-28,45498,BATCH-19102,True,In Transit
+SHP300137,MRK-1006,Vaxishield,Ireland-Plant-02,Japan,APAC,2024-10-20,44118,BATCH-24997,True,Delivered
+SHP300138,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2024-06-26,14856,BATCH-44668,False,Customs Hold
+SHP300139,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2024-03-28,8874,BATCH-41759,False,In Transit
+SHP300140,MRK-1008,Dermalyx,Singapore-Plant-03,USA,North America,2024-04-01,47909,BATCH-33039,False,In Transit
+SHP300141,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2024-12-25,6370,BATCH-13848,True,Delayed
+SHP300142,MRK-1006,Vaxishield,Ireland-Plant-02,Canada,North America,2026-01-23,28640,BATCH-52611,True,In Transit
+SHP300143,MRK-1005,Neuroplex,Ireland-Plant-02,South Korea,APAC,2026-01-12,3514,BATCH-95864,False,In Transit
+SHP300144,MRK-1003,Immunext,Ireland-Plant-02,Argentina,Latin America,2024-08-12,42050,BATCH-60176,True,Delivered
+SHP300145,MRK-1002,Oncavera,Ireland-Plant-02,Canada,North America,2024-08-30,948,BATCH-75433,False,In Transit
+SHP300146,MRK-1005,Neuroplex,Ireland-Plant-02,Brazil,Latin America,2024-09-22,15892,BATCH-83181,False,Customs Hold
+SHP300147,MRK-1002,Oncavera,NJ-Plant-01,Argentina,Latin America,2025-07-01,11580,BATCH-51661,False,Delivered
+SHP300148,MRK-1003,Immunext,Ireland-Plant-02,Chile,Latin America,2024-07-06,26336,BATCH-10497,True,Customs Hold
+SHP300149,MRK-1007,Pulmocare,NJ-Plant-01,Argentina,Latin America,2025-12-16,26726,BATCH-27042,False,Delayed
+SHP300150,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2026-05-22,36268,BATCH-76930,False,Delayed
+SHP300151,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2026-04-29,5776,BATCH-30924,False,Delivered
+SHP300152,MRK-1004,Glucostat,NJ-Plant-01,Japan,APAC,2024-02-07,27552,BATCH-76880,False,Delayed
+SHP300153,MRK-1008,Dermalyx,Ireland-Plant-02,India,APAC,2024-05-08,15920,BATCH-45635,False,In Transit
+SHP300154,MRK-1005,Neuroplex,Singapore-Plant-03,Canada,North America,2026-01-13,27977,BATCH-59598,False,In Transit
+SHP300155,MRK-1002,Oncavera,Ireland-Plant-02,Germany,EMEA,2024-12-10,42259,BATCH-43132,False,Delayed
+SHP300156,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2025-08-11,11776,BATCH-62385,True,Delayed
+SHP300157,MRK-1005,Neuroplex,Singapore-Plant-03,USA,North America,2024-04-13,44447,BATCH-90276,False,Customs Hold
+SHP300158,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2024-05-30,30882,BATCH-10330,False,Customs Hold
+SHP300159,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2024-12-11,44878,BATCH-47683,False,In Transit
+SHP300160,MRK-1002,Oncavera,Ireland-Plant-02,South Korea,APAC,2025-07-03,2020,BATCH-63104,False,Delayed
+SHP300161,MRK-1001,Cardiozin,NJ-Plant-01,Japan,APAC,2026-04-16,7103,BATCH-33821,False,Delivered
+SHP300162,MRK-1003,Immunext,Singapore-Plant-03,Australia,APAC,2024-07-19,43525,BATCH-46564,True,Delivered
+SHP300163,MRK-1003,Immunext,Ireland-Plant-02,Germany,EMEA,2024-05-01,46914,BATCH-16679,True,Delayed
+SHP300164,MRK-1007,Pulmocare,NJ-Plant-01,USA,North America,2025-05-23,9824,BATCH-94129,False,Customs Hold
+SHP300165,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2024-06-16,4594,BATCH-36429,False,Delivered
+SHP300166,MRK-1008,Dermalyx,NJ-Plant-01,USA,North America,2024-04-01,18589,BATCH-11730,False,In Transit
+SHP300167,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2024-09-03,7508,BATCH-75061,False,Delivered
+SHP300168,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2026-03-10,49600,BATCH-92620,False,Customs Hold
+SHP300169,MRK-1003,Immunext,Ireland-Plant-02,Japan,APAC,2026-01-09,33748,BATCH-22913,True,Delayed
+SHP300170,MRK-1008,Dermalyx,Singapore-Plant-03,Australia,APAC,2026-08-01,1117,BATCH-25791,False,Delivered
+SHP300171,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2024-08-16,22631,BATCH-31711,False,Delivered
+SHP300172,MRK-1001,Cardiozin,Singapore-Plant-03,Brazil,Latin America,2025-07-25,35134,BATCH-68148,False,Delivered
+SHP300173,MRK-1008,Dermalyx,Singapore-Plant-03,South Africa,EMEA,2025-09-05,4185,BATCH-39713,False,Customs Hold
+SHP300174,MRK-1002,Oncavera,Singapore-Plant-03,Brazil,Latin America,2025-03-12,2301,BATCH-77106,False,Delivered
+SHP300175,MRK-1008,Dermalyx,Singapore-Plant-03,UK,EMEA,2026-07-04,13790,BATCH-88082,False,Customs Hold
+SHP300176,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2026-03-04,8404,BATCH-35947,False,Customs Hold
+SHP300177,MRK-1006,Vaxishield,Singapore-Plant-03,Germany,EMEA,2025-04-03,27974,BATCH-23899,True,Delivered
+SHP300178,MRK-1003,Immunext,Singapore-Plant-03,Japan,APAC,2025-11-20,47869,BATCH-81963,True,Delayed
+SHP300179,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2024-02-02,1465,BATCH-95371,True,Delayed
+SHP300180,MRK-1005,Neuroplex,NJ-Plant-01,UK,EMEA,2024-08-06,26403,BATCH-31268,False,Delivered
+SHP300181,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2025-09-08,44336,BATCH-82284,False,Delayed
+SHP300182,MRK-1008,Dermalyx,NJ-Plant-01,South Korea,APAC,2025-11-13,31443,BATCH-60978,False,Customs Hold
+SHP300183,MRK-1006,Vaxishield,NJ-Plant-01,Canada,North America,2025-09-26,45725,BATCH-42231,True,Delayed
+SHP300184,MRK-1003,Immunext,NJ-Plant-01,Canada,North America,2024-02-26,48721,BATCH-63290,True,Delayed
+SHP300185,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2024-01-05,31979,BATCH-38519,True,In Transit
+SHP300186,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2025-06-19,17410,BATCH-46971,True,In Transit
+SHP300187,MRK-1002,Oncavera,Ireland-Plant-02,UK,EMEA,2024-10-22,36009,BATCH-75980,False,Delivered
+SHP300188,MRK-1004,Glucostat,Singapore-Plant-03,USA,North America,2024-11-04,7521,BATCH-65716,False,Delivered
+SHP300189,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2024-02-17,10157,BATCH-58273,False,Delivered
+SHP300190,MRK-1007,Pulmocare,Singapore-Plant-03,Chile,Latin America,2025-01-08,47312,BATCH-60873,False,Delayed
+SHP300191,MRK-1007,Pulmocare,Ireland-Plant-02,UK,EMEA,2025-11-14,40769,BATCH-40496,False,Delayed
+SHP300192,MRK-1002,Oncavera,NJ-Plant-01,USA,North America,2024-11-29,1619,BATCH-46193,False,Customs Hold
+SHP300193,MRK-1007,Pulmocare,Singapore-Plant-03,India,APAC,2025-05-17,33632,BATCH-65638,False,Delivered
+SHP300194,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2025-07-19,22583,BATCH-24570,True,In Transit
+SHP300195,MRK-1002,Oncavera,NJ-Plant-01,Argentina,Latin America,2024-12-03,6954,BATCH-40698,False,Delayed
+SHP300196,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2025-01-05,17512,BATCH-59332,False,Delivered
+SHP300197,MRK-1008,Dermalyx,NJ-Plant-01,UK,EMEA,2026-01-21,25623,BATCH-30120,False,Delayed
+SHP300198,MRK-1005,Neuroplex,Ireland-Plant-02,Chile,Latin America,2026-05-12,24735,BATCH-65423,False,Customs Hold
+SHP300199,MRK-1008,Dermalyx,Ireland-Plant-02,Germany,EMEA,2025-01-01,4737,BATCH-23336,False,Delivered
+SHP300200,MRK-1008,Dermalyx,Ireland-Plant-02,Germany,EMEA,2026-04-26,33270,BATCH-26056,False,Delayed
+SHP300201,MRK-1007,Pulmocare,NJ-Plant-01,South Korea,APAC,2025-06-28,42522,BATCH-73065,False,Delivered
+SHP300202,MRK-1004,Glucostat,NJ-Plant-01,Canada,North America,2024-11-21,20612,BATCH-79478,False,Delivered
+SHP300203,MRK-1003,Immunext,Ireland-Plant-02,Argentina,Latin America,2026-04-21,5277,BATCH-75962,True,Delayed
+SHP300204,MRK-1008,Dermalyx,Singapore-Plant-03,South Africa,EMEA,2024-02-21,11116,BATCH-32643,False,Delayed
+SHP300205,MRK-1005,Neuroplex,NJ-Plant-01,Chile,Latin America,2025-06-24,26899,BATCH-69096,False,In Transit
+SHP300206,MRK-1005,Neuroplex,Ireland-Plant-02,Canada,North America,2025-03-02,28589,BATCH-27839,False,Delivered
+SHP300207,MRK-1008,Dermalyx,Ireland-Plant-02,Chile,Latin America,2024-07-30,9925,BATCH-18860,False,In Transit
+SHP300208,MRK-1006,Vaxishield,Singapore-Plant-03,South Africa,EMEA,2025-05-02,27865,BATCH-28135,True,Delayed
+SHP300209,MRK-1003,Immunext,Ireland-Plant-02,South Africa,EMEA,2026-01-09,33526,BATCH-89610,True,Delivered
+SHP300210,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2025-06-13,34796,BATCH-87505,False,In Transit
+SHP300211,MRK-1003,Immunext,NJ-Plant-01,Mexico,North America,2024-12-08,24782,BATCH-44040,True,Delivered
+SHP300212,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2025-06-21,40082,BATCH-72162,True,In Transit
+SHP300213,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2025-09-02,29950,BATCH-43734,False,Delivered
+SHP300214,MRK-1006,Vaxishield,NJ-Plant-01,France,EMEA,2025-02-25,30006,BATCH-72087,True,Customs Hold
+SHP300215,MRK-1008,Dermalyx,Ireland-Plant-02,Australia,APAC,2024-09-17,10906,BATCH-20089,False,Delivered
+SHP300216,MRK-1004,Glucostat,Ireland-Plant-02,India,APAC,2026-05-15,12357,BATCH-37532,False,Customs Hold
+SHP300217,MRK-1003,Immunext,NJ-Plant-01,Chile,Latin America,2024-07-30,12313,BATCH-33077,True,In Transit
+SHP300218,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2024-04-18,5415,BATCH-58626,True,Customs Hold
+SHP300219,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2024-04-19,28217,BATCH-17498,False,Delayed
+SHP300220,MRK-1003,Immunext,Singapore-Plant-03,Japan,APAC,2024-10-22,18077,BATCH-62972,True,In Transit
+SHP300221,MRK-1001,Cardiozin,Singapore-Plant-03,India,APAC,2024-04-16,28341,BATCH-11030,False,In Transit
+SHP300222,MRK-1003,Immunext,Singapore-Plant-03,Germany,EMEA,2026-07-09,12308,BATCH-64160,True,Delivered
+SHP300223,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2025-11-25,26551,BATCH-74940,False,Delivered
+SHP300224,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2024-01-26,5182,BATCH-70889,False,Delivered
+SHP300225,MRK-1004,Glucostat,NJ-Plant-01,Canada,North America,2024-07-17,29706,BATCH-54883,False,Delivered
+SHP300226,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2024-08-01,12607,BATCH-70140,False,In Transit
+SHP300227,MRK-1005,Neuroplex,NJ-Plant-01,South Korea,APAC,2025-08-14,15171,BATCH-67746,False,In Transit
+SHP300228,MRK-1005,Neuroplex,NJ-Plant-01,Argentina,Latin America,2024-09-04,36886,BATCH-80769,False,In Transit
+SHP300229,MRK-1001,Cardiozin,NJ-Plant-01,Argentina,Latin America,2024-09-23,4488,BATCH-55848,False,Delayed
+SHP300230,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2024-05-10,30778,BATCH-30709,False,Customs Hold
+SHP300231,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2026-07-05,38025,BATCH-60805,True,In Transit
+SHP300232,MRK-1006,Vaxishield,Ireland-Plant-02,Canada,North America,2026-03-01,37410,BATCH-17798,True,In Transit
+SHP300233,MRK-1007,Pulmocare,Ireland-Plant-02,Argentina,Latin America,2025-02-08,42828,BATCH-32497,False,Customs Hold
+SHP300234,MRK-1003,Immunext,Ireland-Plant-02,Australia,APAC,2024-07-29,39042,BATCH-44704,True,Delayed
+SHP300235,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2024-01-01,33639,BATCH-66996,False,Delayed
+SHP300236,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2025-05-22,24314,BATCH-12844,False,In Transit
+SHP300237,MRK-1001,Cardiozin,Singapore-Plant-03,Mexico,North America,2026-01-02,7268,BATCH-32512,False,Delivered
+SHP300238,MRK-1003,Immunext,Ireland-Plant-02,Germany,EMEA,2026-07-14,24840,BATCH-41220,True,Delivered
+SHP300239,MRK-1005,Neuroplex,NJ-Plant-01,Japan,APAC,2025-08-21,15256,BATCH-30562,False,Delayed
+SHP300240,MRK-1004,Glucostat,NJ-Plant-01,UK,EMEA,2024-06-26,929,BATCH-42070,False,Delayed
+SHP300241,MRK-1002,Oncavera,Singapore-Plant-03,USA,North America,2026-04-09,25026,BATCH-53435,False,Delayed
+SHP300242,MRK-1001,Cardiozin,NJ-Plant-01,Mexico,North America,2026-06-24,48301,BATCH-54255,False,Delayed
+SHP300243,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2026-05-25,27030,BATCH-76098,True,Delayed
+SHP300244,MRK-1004,Glucostat,Ireland-Plant-02,UK,EMEA,2024-07-16,11130,BATCH-42281,False,Customs Hold
+SHP300245,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2024-01-08,35719,BATCH-55458,True,In Transit
+SHP300246,MRK-1002,Oncavera,NJ-Plant-01,France,EMEA,2026-02-09,18209,BATCH-31193,False,Delivered
+SHP300247,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2024-11-16,40590,BATCH-90581,False,In Transit
+SHP300248,MRK-1001,Cardiozin,Ireland-Plant-02,USA,North America,2024-09-05,33032,BATCH-35963,False,Delivered
+SHP300249,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2025-08-25,24859,BATCH-30978,False,Delivered
+SHP300250,MRK-1001,Cardiozin,Singapore-Plant-03,Brazil,Latin America,2025-09-01,18076,BATCH-22177,False,In Transit
+SHP300251,MRK-1008,Dermalyx,NJ-Plant-01,Japan,APAC,2025-08-23,9179,BATCH-61842,False,Customs Hold
+SHP300252,MRK-1002,Oncavera,NJ-Plant-01,Germany,EMEA,2025-05-08,24904,BATCH-62531,False,In Transit
+SHP300253,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2024-11-22,10405,BATCH-76675,False,Customs Hold
+SHP300254,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2026-07-07,9797,BATCH-13329,False,Customs Hold
+SHP300255,MRK-1002,Oncavera,Singapore-Plant-03,Brazil,Latin America,2024-01-28,795,BATCH-87737,False,In Transit
+SHP300256,MRK-1005,Neuroplex,NJ-Plant-01,India,APAC,2024-10-03,4503,BATCH-31786,False,Delivered
+SHP300257,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2026-05-30,22249,BATCH-11301,False,Delayed
+SHP300258,MRK-1002,Oncavera,NJ-Plant-01,India,APAC,2026-01-07,9647,BATCH-86269,False,Delivered
+SHP300259,MRK-1005,Neuroplex,Ireland-Plant-02,Germany,EMEA,2025-06-13,29441,BATCH-87500,False,Customs Hold
+SHP300260,MRK-1003,Immunext,Ireland-Plant-02,South Korea,APAC,2025-09-11,8813,BATCH-42941,True,In Transit
+SHP300261,MRK-1003,Immunext,Singapore-Plant-03,Mexico,North America,2025-07-12,15983,BATCH-43341,True,Delayed
+SHP300262,MRK-1002,Oncavera,Ireland-Plant-02,Germany,EMEA,2024-11-05,36068,BATCH-74571,False,Delivered
+SHP300263,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2025-01-26,38155,BATCH-37390,False,In Transit
+SHP300264,MRK-1003,Immunext,Singapore-Plant-03,Argentina,Latin America,2024-04-07,23959,BATCH-17492,True,In Transit
+SHP300265,MRK-1006,Vaxishield,Ireland-Plant-02,Chile,Latin America,2025-07-09,44115,BATCH-66792,True,Delayed
+SHP300266,MRK-1001,Cardiozin,Singapore-Plant-03,Australia,APAC,2026-01-22,35056,BATCH-35179,False,In Transit
+SHP300267,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2026-03-23,31814,BATCH-63022,True,In Transit
+SHP300268,MRK-1001,Cardiozin,Singapore-Plant-03,South Korea,APAC,2025-05-08,8713,BATCH-86611,False,In Transit
+SHP300269,MRK-1006,Vaxishield,Ireland-Plant-02,India,APAC,2026-06-01,42288,BATCH-58920,True,Delivered
+SHP300270,MRK-1007,Pulmocare,Ireland-Plant-02,UK,EMEA,2024-06-25,12530,BATCH-11130,False,Delivered
+SHP300271,MRK-1003,Immunext,Ireland-Plant-02,South Korea,APAC,2024-06-21,20152,BATCH-32557,True,Customs Hold
+SHP300272,MRK-1004,Glucostat,NJ-Plant-01,India,APAC,2025-10-23,1333,BATCH-32220,False,In Transit
+SHP300273,MRK-1004,Glucostat,Singapore-Plant-03,Japan,APAC,2024-10-21,37837,BATCH-32938,False,Delivered
+SHP300274,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2024-06-23,45957,BATCH-15211,False,In Transit
+SHP300275,MRK-1007,Pulmocare,NJ-Plant-01,Brazil,Latin America,2024-09-25,22958,BATCH-86115,False,Delayed
+SHP300276,MRK-1007,Pulmocare,Ireland-Plant-02,UK,EMEA,2024-03-09,31774,BATCH-94805,False,Delivered
+SHP300277,MRK-1001,Cardiozin,NJ-Plant-01,Germany,EMEA,2024-02-21,48821,BATCH-85356,False,In Transit
+SHP300278,MRK-1004,Glucostat,NJ-Plant-01,India,APAC,2025-07-05,41079,BATCH-27625,False,In Transit
+SHP300279,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2024-03-29,39289,BATCH-60111,False,Delivered
+SHP300280,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2025-06-25,9908,BATCH-73681,False,Delivered
+SHP300281,MRK-1006,Vaxishield,Singapore-Plant-03,Argentina,Latin America,2025-02-13,7767,BATCH-64786,True,Delivered
+SHP300282,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2025-02-04,18940,BATCH-78907,False,Delayed
+SHP300283,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2024-11-29,15459,BATCH-32736,False,In Transit
+SHP300284,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2025-03-31,28392,BATCH-29216,False,In Transit
+SHP300285,MRK-1002,Oncavera,NJ-Plant-01,UK,EMEA,2026-03-16,27393,BATCH-11629,False,Delayed
+SHP300286,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2024-11-02,9492,BATCH-22994,False,Customs Hold
+SHP300287,MRK-1006,Vaxishield,NJ-Plant-01,Australia,APAC,2024-04-29,49577,BATCH-70262,True,In Transit
+SHP300288,MRK-1008,Dermalyx,Singapore-Plant-03,Chile,Latin America,2026-07-05,25951,BATCH-57449,False,Customs Hold
+SHP300289,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2026-05-29,45886,BATCH-42900,False,Delayed
+SHP300290,MRK-1003,Immunext,NJ-Plant-01,Canada,North America,2026-06-20,28586,BATCH-72047,True,Delayed
+SHP300291,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2025-07-17,29426,BATCH-21343,True,Customs Hold
+SHP300292,MRK-1004,Glucostat,NJ-Plant-01,France,EMEA,2025-12-15,12476,BATCH-32111,False,Delayed
+SHP300293,MRK-1004,Glucostat,NJ-Plant-01,Argentina,Latin America,2024-09-30,18019,BATCH-75039,False,In Transit
+SHP300294,MRK-1004,Glucostat,NJ-Plant-01,Australia,APAC,2025-03-14,22470,BATCH-75664,False,Customs Hold
+SHP300295,MRK-1005,Neuroplex,NJ-Plant-01,Chile,Latin America,2026-02-18,1206,BATCH-57046,False,Delayed
+SHP300296,MRK-1006,Vaxishield,Ireland-Plant-02,South Africa,EMEA,2026-05-12,9466,BATCH-83323,True,Delivered
+SHP300297,MRK-1005,Neuroplex,Ireland-Plant-02,Brazil,Latin America,2024-07-21,34298,BATCH-44894,False,Delivered
+SHP300298,MRK-1001,Cardiozin,Singapore-Plant-03,Mexico,North America,2024-12-13,15385,BATCH-54199,False,Delayed
+SHP300299,MRK-1008,Dermalyx,Singapore-Plant-03,India,APAC,2024-04-03,26112,BATCH-46507,False,In Transit
+SHP300300,MRK-1006,Vaxishield,Ireland-Plant-02,USA,North America,2025-08-18,14942,BATCH-79944,True,Delivered
+SHP300301,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2024-11-08,32529,BATCH-93242,False,Customs Hold
+SHP300302,MRK-1002,Oncavera,Singapore-Plant-03,India,APAC,2025-04-11,33608,BATCH-44330,False,Delayed
+SHP300303,MRK-1004,Glucostat,Ireland-Plant-02,Brazil,Latin America,2025-02-09,48193,BATCH-20794,False,Customs Hold
+SHP300304,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2026-07-06,27638,BATCH-27219,True,Customs Hold
+SHP300305,MRK-1004,Glucostat,Ireland-Plant-02,Chile,Latin America,2026-04-08,4900,BATCH-96392,False,Delayed
+SHP300306,MRK-1002,Oncavera,Ireland-Plant-02,Japan,APAC,2024-03-02,10274,BATCH-72308,False,In Transit
+SHP300307,MRK-1002,Oncavera,NJ-Plant-01,Mexico,North America,2024-11-11,22423,BATCH-69562,False,Customs Hold
+SHP300308,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2025-01-07,27494,BATCH-14360,False,Delayed
+SHP300309,MRK-1001,Cardiozin,Ireland-Plant-02,UK,EMEA,2025-03-30,17998,BATCH-87612,False,In Transit
+SHP300310,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2025-05-09,42745,BATCH-97277,False,In Transit
+SHP300311,MRK-1001,Cardiozin,Singapore-Plant-03,Argentina,Latin America,2025-12-18,8380,BATCH-27778,False,In Transit
+SHP300312,MRK-1003,Immunext,Singapore-Plant-03,Argentina,Latin America,2026-06-28,31654,BATCH-94197,True,Delayed
+SHP300313,MRK-1002,Oncavera,Singapore-Plant-03,Mexico,North America,2025-04-07,33797,BATCH-76462,False,Customs Hold
+SHP300314,MRK-1006,Vaxishield,NJ-Plant-01,France,EMEA,2025-11-23,39677,BATCH-60752,True,Customs Hold
+SHP300315,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2024-11-07,45047,BATCH-77506,False,Customs Hold
+SHP300316,MRK-1007,Pulmocare,Singapore-Plant-03,Mexico,North America,2026-05-14,21138,BATCH-52290,False,Delivered
+SHP300317,MRK-1005,Neuroplex,Singapore-Plant-03,UK,EMEA,2026-04-28,8229,BATCH-69691,False,Delivered
+SHP300318,MRK-1005,Neuroplex,Singapore-Plant-03,Chile,Latin America,2026-02-22,5595,BATCH-62621,False,Customs Hold
+SHP300319,MRK-1001,Cardiozin,NJ-Plant-01,Argentina,Latin America,2024-07-29,12743,BATCH-19139,False,Customs Hold
+SHP300320,MRK-1003,Immunext,Singapore-Plant-03,Canada,North America,2024-07-15,38525,BATCH-33240,True,Delivered
+SHP300321,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2025-07-29,10587,BATCH-52317,True,In Transit
+SHP300322,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2025-04-13,48835,BATCH-79978,False,Customs Hold
+SHP300323,MRK-1005,Neuroplex,Ireland-Plant-02,India,APAC,2025-02-18,38990,BATCH-30674,False,Delivered
+SHP300324,MRK-1004,Glucostat,Ireland-Plant-02,Germany,EMEA,2025-11-21,16058,BATCH-49647,False,Delivered
+SHP300325,MRK-1002,Oncavera,Singapore-Plant-03,Australia,APAC,2026-03-04,37565,BATCH-64859,False,Customs Hold
+SHP300326,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2024-07-02,4662,BATCH-54561,False,Customs Hold
+SHP300327,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2024-09-21,40297,BATCH-31286,False,Delayed
+SHP300328,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2026-04-11,4058,BATCH-29228,False,Delivered
+SHP300329,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2025-04-27,33398,BATCH-60641,False,Customs Hold
+SHP300330,MRK-1005,Neuroplex,Singapore-Plant-03,Germany,EMEA,2024-12-17,42783,BATCH-86008,False,Delivered
+SHP300331,MRK-1002,Oncavera,Singapore-Plant-03,Chile,Latin America,2026-05-21,17054,BATCH-96267,False,In Transit
+SHP300332,MRK-1002,Oncavera,NJ-Plant-01,Japan,APAC,2024-07-23,29910,BATCH-24999,False,Customs Hold
+SHP300333,MRK-1001,Cardiozin,NJ-Plant-01,South Africa,EMEA,2025-10-07,20052,BATCH-68493,False,Delivered
+SHP300334,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2025-10-06,35851,BATCH-77840,False,Delivered
+SHP300335,MRK-1008,Dermalyx,NJ-Plant-01,South Africa,EMEA,2024-06-02,35148,BATCH-88726,False,Customs Hold
+SHP300336,MRK-1003,Immunext,Ireland-Plant-02,Australia,APAC,2026-05-12,35009,BATCH-13957,True,Delivered
+SHP300337,MRK-1008,Dermalyx,Singapore-Plant-03,France,EMEA,2025-08-01,12548,BATCH-94783,False,Customs Hold
+SHP300338,MRK-1005,Neuroplex,NJ-Plant-01,USA,North America,2025-03-05,35878,BATCH-65441,False,Delivered
+SHP300339,MRK-1007,Pulmocare,Ireland-Plant-02,USA,North America,2026-03-30,31449,BATCH-61368,False,In Transit
+SHP300340,MRK-1001,Cardiozin,NJ-Plant-01,Mexico,North America,2024-05-16,1597,BATCH-91906,False,Delivered
+SHP300341,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2026-02-14,11983,BATCH-35509,False,Delayed
+SHP300342,MRK-1005,Neuroplex,Ireland-Plant-02,India,APAC,2024-11-29,39484,BATCH-92603,False,In Transit
+SHP300343,MRK-1005,Neuroplex,NJ-Plant-01,South Korea,APAC,2026-07-10,884,BATCH-33415,False,Delivered
+SHP300344,MRK-1005,Neuroplex,Ireland-Plant-02,France,EMEA,2024-06-15,43598,BATCH-38173,False,Customs Hold
+SHP300345,MRK-1001,Cardiozin,Ireland-Plant-02,USA,North America,2024-08-16,30550,BATCH-42590,False,Delivered
+SHP300346,MRK-1003,Immunext,NJ-Plant-01,South Korea,APAC,2025-02-18,46651,BATCH-42758,True,Customs Hold
+SHP300347,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2026-07-29,49928,BATCH-41756,False,Customs Hold
+SHP300348,MRK-1006,Vaxishield,Ireland-Plant-02,France,EMEA,2024-02-13,23564,BATCH-39138,True,Customs Hold
+SHP300349,MRK-1005,Neuroplex,Ireland-Plant-02,Mexico,North America,2025-06-29,29310,BATCH-46488,False,Delivered
+SHP300350,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2024-10-05,33924,BATCH-29250,False,Delivered
+SHP300351,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2024-09-11,34432,BATCH-46234,True,Customs Hold
+SHP300352,MRK-1007,Pulmocare,Ireland-Plant-02,UK,EMEA,2024-05-10,15627,BATCH-15038,False,Customs Hold
+SHP300353,MRK-1007,Pulmocare,Singapore-Plant-03,Chile,Latin America,2026-03-05,41455,BATCH-63444,False,Delayed
+SHP300354,MRK-1002,Oncavera,Singapore-Plant-03,France,EMEA,2025-08-18,20843,BATCH-73517,False,In Transit
+SHP300355,MRK-1003,Immunext,Singapore-Plant-03,Canada,North America,2024-07-09,40138,BATCH-60718,True,In Transit
+SHP300356,MRK-1003,Immunext,NJ-Plant-01,Chile,Latin America,2025-09-26,8941,BATCH-60309,True,Customs Hold
+SHP300357,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2025-08-05,38734,BATCH-33189,False,In Transit
+SHP300358,MRK-1006,Vaxishield,Singapore-Plant-03,Chile,Latin America,2025-08-27,39875,BATCH-30227,True,In Transit
+SHP300359,MRK-1004,Glucostat,Singapore-Plant-03,South Korea,APAC,2026-06-04,26702,BATCH-77471,False,Customs Hold
+SHP300360,MRK-1008,Dermalyx,Ireland-Plant-02,Chile,Latin America,2024-07-10,24890,BATCH-11619,False,Delayed
+SHP300361,MRK-1002,Oncavera,NJ-Plant-01,France,EMEA,2025-06-21,11815,BATCH-78584,False,Delayed
+SHP300362,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2024-07-23,40026,BATCH-34851,False,Delivered
+SHP300363,MRK-1003,Immunext,NJ-Plant-01,South Africa,EMEA,2024-01-11,2422,BATCH-18716,True,Delayed
+SHP300364,MRK-1005,Neuroplex,Ireland-Plant-02,Mexico,North America,2025-11-05,46270,BATCH-62284,False,In Transit
+SHP300365,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2026-05-23,2712,BATCH-83927,False,Delivered
+SHP300366,MRK-1004,Glucostat,Singapore-Plant-03,Japan,APAC,2024-01-18,13877,BATCH-85354,False,Customs Hold
+SHP300367,MRK-1006,Vaxishield,Singapore-Plant-03,South Africa,EMEA,2024-05-15,2673,BATCH-90333,True,Customs Hold
+SHP300368,MRK-1006,Vaxishield,Singapore-Plant-03,Argentina,Latin America,2024-06-12,49146,BATCH-27751,True,Delayed
+SHP300369,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2024-02-26,34486,BATCH-40609,False,Delayed
+SHP300370,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2025-05-11,28459,BATCH-89774,False,Delivered
+SHP300371,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2026-07-26,37749,BATCH-14450,False,Delayed
+SHP300372,MRK-1007,Pulmocare,Singapore-Plant-03,Germany,EMEA,2024-03-28,31554,BATCH-57775,False,In Transit
+SHP300373,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2025-02-22,27306,BATCH-78969,False,Customs Hold
+SHP300374,MRK-1006,Vaxishield,Singapore-Plant-03,Brazil,Latin America,2026-02-14,43205,BATCH-94142,True,Delayed
+SHP300375,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2026-03-25,20642,BATCH-43767,False,Delivered
+SHP300376,MRK-1003,Immunext,NJ-Plant-01,India,APAC,2024-03-15,43534,BATCH-73197,True,Delayed
+SHP300377,MRK-1007,Pulmocare,Ireland-Plant-02,USA,North America,2024-02-23,33019,BATCH-74994,False,In Transit
+SHP300378,MRK-1003,Immunext,NJ-Plant-01,Canada,North America,2024-12-24,4570,BATCH-64924,True,Delivered
+SHP300379,MRK-1003,Immunext,Singapore-Plant-03,USA,North America,2025-12-12,22357,BATCH-86523,True,Delivered
+SHP300380,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2024-08-03,30621,BATCH-34887,False,Delayed
+SHP300381,MRK-1003,Immunext,Ireland-Plant-02,Australia,APAC,2024-10-08,29896,BATCH-82083,True,Delivered
+SHP300382,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2024-01-27,29593,BATCH-80063,False,Customs Hold
+SHP300383,MRK-1003,Immunext,Singapore-Plant-03,France,EMEA,2024-03-08,836,BATCH-71660,True,Customs Hold
+SHP300384,MRK-1006,Vaxishield,Singapore-Plant-03,Mexico,North America,2024-03-14,31381,BATCH-14471,True,Delayed
+SHP300385,MRK-1002,Oncavera,NJ-Plant-01,Chile,Latin America,2024-09-01,43584,BATCH-80544,False,Delayed
+SHP300386,MRK-1002,Oncavera,Ireland-Plant-02,Australia,APAC,2025-01-27,13121,BATCH-14854,False,Delivered
+SHP300387,MRK-1006,Vaxishield,Singapore-Plant-03,Canada,North America,2024-12-20,36191,BATCH-20361,True,Delivered
+SHP300388,MRK-1006,Vaxishield,Singapore-Plant-03,Argentina,Latin America,2024-10-04,47575,BATCH-61432,True,Delayed
+SHP300389,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2024-02-18,42876,BATCH-71970,False,Delivered
+SHP300390,MRK-1001,Cardiozin,NJ-Plant-01,Japan,APAC,2025-08-24,16610,BATCH-50826,False,Delayed
+SHP300391,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2024-10-09,1704,BATCH-89194,False,In Transit
+SHP300392,MRK-1003,Immunext,NJ-Plant-01,Mexico,North America,2024-01-25,45128,BATCH-87144,True,Customs Hold
+SHP300393,MRK-1007,Pulmocare,Ireland-Plant-02,Germany,EMEA,2024-09-01,34168,BATCH-81301,False,Customs Hold
+SHP300394,MRK-1005,Neuroplex,Singapore-Plant-03,Mexico,North America,2025-03-31,35507,BATCH-11631,False,In Transit
+SHP300395,MRK-1007,Pulmocare,Ireland-Plant-02,India,APAC,2025-09-14,46231,BATCH-21867,False,Customs Hold
+SHP300396,MRK-1005,Neuroplex,NJ-Plant-01,Chile,Latin America,2025-09-06,14042,BATCH-41028,False,Delayed
+SHP300397,MRK-1007,Pulmocare,Singapore-Plant-03,UK,EMEA,2024-02-26,12943,BATCH-71397,False,Delayed
+SHP300398,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2026-07-18,33741,BATCH-66623,False,Customs Hold
+SHP300399,MRK-1001,Cardiozin,NJ-Plant-01,Brazil,Latin America,2025-09-02,11522,BATCH-99063,False,Delivered
+SHP300400,MRK-1002,Oncavera,NJ-Plant-01,India,APAC,2024-03-21,6521,BATCH-99227,False,In Transit
+SHP300401,MRK-1007,Pulmocare,Singapore-Plant-03,Brazil,Latin America,2024-04-08,22473,BATCH-46133,False,Delayed
+SHP300402,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2026-03-30,26671,BATCH-34441,False,Delivered
+SHP300403,MRK-1002,Oncavera,Singapore-Plant-03,Brazil,Latin America,2024-10-29,30307,BATCH-98111,False,In Transit
+SHP300404,MRK-1003,Immunext,Ireland-Plant-02,Canada,North America,2024-08-19,39862,BATCH-98882,True,Delivered
+SHP300405,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2025-01-07,47107,BATCH-48832,False,Customs Hold
+SHP300406,MRK-1001,Cardiozin,NJ-Plant-01,UK,EMEA,2024-03-22,29584,BATCH-47915,False,Customs Hold
+SHP300407,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2025-08-13,18345,BATCH-73690,False,Customs Hold
+SHP300408,MRK-1007,Pulmocare,Ireland-Plant-02,South Africa,EMEA,2024-07-03,16765,BATCH-85526,False,Customs Hold
+SHP300409,MRK-1001,Cardiozin,Singapore-Plant-03,India,APAC,2024-01-14,9535,BATCH-60379,False,Delivered
+SHP300410,MRK-1005,Neuroplex,Singapore-Plant-03,USA,North America,2025-01-17,32361,BATCH-68775,False,Delivered
+SHP300411,MRK-1004,Glucostat,Ireland-Plant-02,Chile,Latin America,2025-02-14,3673,BATCH-16793,False,Customs Hold
+SHP300412,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2025-02-09,16143,BATCH-11096,False,Delayed
+SHP300413,MRK-1001,Cardiozin,Ireland-Plant-02,Germany,EMEA,2025-10-24,42003,BATCH-44862,False,Delivered
+SHP300414,MRK-1002,Oncavera,Singapore-Plant-03,USA,North America,2025-08-23,3370,BATCH-25501,False,In Transit
+SHP300415,MRK-1001,Cardiozin,NJ-Plant-01,Germany,EMEA,2024-05-26,24409,BATCH-13054,False,Delayed
+SHP300416,MRK-1006,Vaxishield,Ireland-Plant-02,UK,EMEA,2026-02-24,30651,BATCH-84504,True,Customs Hold
+SHP300417,MRK-1006,Vaxishield,NJ-Plant-01,Germany,EMEA,2025-08-11,43050,BATCH-61435,True,Delivered
+SHP300418,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2024-05-16,30873,BATCH-74618,False,Delayed
+SHP300419,MRK-1006,Vaxishield,NJ-Plant-01,Australia,APAC,2025-10-07,39201,BATCH-15746,True,Delayed
+SHP300420,MRK-1005,Neuroplex,Singapore-Plant-03,Australia,APAC,2024-12-03,15254,BATCH-21870,False,Delivered
+SHP300421,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2025-07-15,39509,BATCH-55594,False,Delayed
+SHP300422,MRK-1004,Glucostat,Ireland-Plant-02,Australia,APAC,2026-02-19,22138,BATCH-63234,False,In Transit
+SHP300423,MRK-1003,Immunext,Singapore-Plant-03,India,APAC,2024-05-06,32830,BATCH-74886,True,Delivered
+SHP300424,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2024-01-13,15883,BATCH-23441,True,Customs Hold
+SHP300425,MRK-1003,Immunext,NJ-Plant-01,South Korea,APAC,2024-02-01,29836,BATCH-48840,True,Customs Hold
+SHP300426,MRK-1003,Immunext,NJ-Plant-01,Argentina,Latin America,2024-01-17,9090,BATCH-56310,True,Delivered
+SHP300427,MRK-1006,Vaxishield,NJ-Plant-01,Japan,APAC,2024-03-13,25040,BATCH-99246,True,Delivered
+SHP300428,MRK-1002,Oncavera,Singapore-Plant-03,Brazil,Latin America,2025-11-26,48068,BATCH-21818,False,Customs Hold
+SHP300429,MRK-1008,Dermalyx,Ireland-Plant-02,Canada,North America,2025-03-09,4036,BATCH-79017,False,Customs Hold
+SHP300430,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2024-07-02,17254,BATCH-19837,False,In Transit
+SHP300431,MRK-1004,Glucostat,Ireland-Plant-02,Australia,APAC,2025-03-28,37669,BATCH-17420,False,Customs Hold
+SHP300432,MRK-1005,Neuroplex,Ireland-Plant-02,India,APAC,2024-04-09,45065,BATCH-71281,False,Delivered
+SHP300433,MRK-1006,Vaxishield,NJ-Plant-01,Brazil,Latin America,2025-08-09,48691,BATCH-94277,True,Customs Hold
+SHP300434,MRK-1007,Pulmocare,Ireland-Plant-02,South Korea,APAC,2025-08-17,14577,BATCH-53266,False,Customs Hold
+SHP300435,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2026-06-21,21620,BATCH-89596,False,Customs Hold
+SHP300436,MRK-1005,Neuroplex,Ireland-Plant-02,Argentina,Latin America,2025-07-14,953,BATCH-71434,False,Delivered
+SHP300437,MRK-1003,Immunext,Singapore-Plant-03,South Africa,EMEA,2026-05-17,31567,BATCH-21626,True,Delayed
+SHP300438,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2024-04-12,37440,BATCH-31488,False,Delivered
+SHP300439,MRK-1006,Vaxishield,NJ-Plant-01,Argentina,Latin America,2024-09-04,14722,BATCH-28829,True,Customs Hold
+SHP300440,MRK-1004,Glucostat,Ireland-Plant-02,UK,EMEA,2025-08-02,27033,BATCH-43957,False,Delivered
+SHP300441,MRK-1003,Immunext,Ireland-Plant-02,France,EMEA,2024-09-02,11239,BATCH-70317,True,Customs Hold
+SHP300442,MRK-1003,Immunext,NJ-Plant-01,India,APAC,2025-03-25,31524,BATCH-91520,True,In Transit
+SHP300443,MRK-1004,Glucostat,NJ-Plant-01,India,APAC,2024-02-17,9456,BATCH-99916,False,In Transit
+SHP300444,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2025-12-06,508,BATCH-65480,False,In Transit
+SHP300445,MRK-1004,Glucostat,NJ-Plant-01,France,EMEA,2024-10-27,9563,BATCH-48918,False,Customs Hold
+SHP300446,MRK-1002,Oncavera,Ireland-Plant-02,Germany,EMEA,2026-03-29,44583,BATCH-53437,False,Delayed
+SHP300447,MRK-1002,Oncavera,NJ-Plant-01,Australia,APAC,2025-12-07,22919,BATCH-60987,False,Delivered
+SHP300448,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2025-08-05,45701,BATCH-91570,False,Delivered
+SHP300449,MRK-1004,Glucostat,Singapore-Plant-03,Germany,EMEA,2024-01-31,747,BATCH-61556,False,Delayed
+SHP300450,MRK-1004,Glucostat,Singapore-Plant-03,UK,EMEA,2024-07-07,28844,BATCH-29732,False,In Transit
+SHP300451,MRK-1008,Dermalyx,NJ-Plant-01,Argentina,Latin America,2025-04-23,14809,BATCH-19887,False,Customs Hold
+SHP300452,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2024-11-01,48348,BATCH-13706,False,Customs Hold
+SHP300453,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2024-02-23,16100,BATCH-14528,False,Delayed
+SHP300454,MRK-1006,Vaxishield,Ireland-Plant-02,France,EMEA,2024-05-18,41799,BATCH-21116,True,Delivered
+SHP300455,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2024-05-15,33009,BATCH-12425,False,Customs Hold
+SHP300456,MRK-1008,Dermalyx,Ireland-Plant-02,India,APAC,2025-03-14,30216,BATCH-28051,False,Delayed
+SHP300457,MRK-1001,Cardiozin,NJ-Plant-01,Brazil,Latin America,2024-01-15,3122,BATCH-63062,False,In Transit
+SHP300458,MRK-1006,Vaxishield,NJ-Plant-01,Argentina,Latin America,2025-02-25,48271,BATCH-47057,True,Customs Hold
+SHP300459,MRK-1005,Neuroplex,NJ-Plant-01,South Korea,APAC,2025-10-23,38917,BATCH-23695,False,In Transit
+SHP300460,MRK-1008,Dermalyx,Singapore-Plant-03,Japan,APAC,2024-09-20,39739,BATCH-76333,False,Customs Hold
+SHP300461,MRK-1001,Cardiozin,Singapore-Plant-03,Australia,APAC,2024-01-15,18987,BATCH-96748,False,In Transit
+SHP300462,MRK-1003,Immunext,NJ-Plant-01,Argentina,Latin America,2024-10-30,14687,BATCH-27273,True,In Transit
+SHP300463,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2024-05-13,7108,BATCH-81834,False,Delivered
+SHP300464,MRK-1002,Oncavera,NJ-Plant-01,Australia,APAC,2025-07-29,22745,BATCH-42961,False,Delivered
+SHP300465,MRK-1001,Cardiozin,Ireland-Plant-02,USA,North America,2025-12-02,30019,BATCH-31410,False,In Transit
+SHP300466,MRK-1004,Glucostat,Singapore-Plant-03,South Korea,APAC,2024-11-03,11813,BATCH-31183,False,Delayed
+SHP300467,MRK-1007,Pulmocare,Ireland-Plant-02,Chile,Latin America,2025-05-31,46118,BATCH-18416,False,In Transit
+SHP300468,MRK-1003,Immunext,Singapore-Plant-03,South Africa,EMEA,2025-06-22,42637,BATCH-95056,True,Customs Hold
+SHP300469,MRK-1001,Cardiozin,Singapore-Plant-03,Australia,APAC,2024-03-10,25923,BATCH-16484,False,Customs Hold
+SHP300470,MRK-1002,Oncavera,Ireland-Plant-02,France,EMEA,2025-08-12,42602,BATCH-62535,False,Delayed
+SHP300471,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2024-01-26,49851,BATCH-52541,False,Customs Hold
+SHP300472,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2024-07-16,44951,BATCH-41646,False,Delivered
+SHP300473,MRK-1008,Dermalyx,NJ-Plant-01,UK,EMEA,2025-02-08,8320,BATCH-81172,False,Delivered
+SHP300474,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2025-01-28,26765,BATCH-10971,True,Delivered
+SHP300475,MRK-1007,Pulmocare,Singapore-Plant-03,Australia,APAC,2026-07-11,21383,BATCH-68932,False,Customs Hold
+SHP300476,MRK-1005,Neuroplex,Ireland-Plant-02,South Korea,APAC,2025-11-12,34758,BATCH-52267,False,Delayed
+SHP300477,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2024-04-12,11781,BATCH-71637,True,Customs Hold
+SHP300478,MRK-1005,Neuroplex,Singapore-Plant-03,USA,North America,2024-02-23,25824,BATCH-68511,False,Delayed
+SHP300479,MRK-1007,Pulmocare,Ireland-Plant-02,France,EMEA,2025-11-30,4267,BATCH-19344,False,Customs Hold
+SHP300480,MRK-1007,Pulmocare,NJ-Plant-01,Australia,APAC,2024-11-28,7480,BATCH-32953,False,Delayed
+SHP300481,MRK-1005,Neuroplex,Singapore-Plant-03,Japan,APAC,2026-02-27,34073,BATCH-90166,False,Customs Hold
+SHP300482,MRK-1005,Neuroplex,NJ-Plant-01,USA,North America,2026-03-31,13719,BATCH-79374,False,Customs Hold
+SHP300483,MRK-1007,Pulmocare,Ireland-Plant-02,Mexico,North America,2026-03-05,15794,BATCH-71597,False,Delivered
+SHP300484,MRK-1002,Oncavera,NJ-Plant-01,Brazil,Latin America,2024-09-08,27252,BATCH-15974,False,Delayed
+SHP300485,MRK-1005,Neuroplex,Ireland-Plant-02,UK,EMEA,2025-06-08,42638,BATCH-17964,False,In Transit
+SHP300486,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2025-07-07,40572,BATCH-80080,False,In Transit
+SHP300487,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2024-08-05,18136,BATCH-85810,False,Delivered
+SHP300488,MRK-1007,Pulmocare,Ireland-Plant-02,Mexico,North America,2025-05-02,39584,BATCH-85478,False,Customs Hold
+SHP300489,MRK-1003,Immunext,Ireland-Plant-02,Australia,APAC,2024-06-05,36888,BATCH-24354,True,In Transit
+SHP300490,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2024-10-03,35013,BATCH-49167,True,Delayed
+SHP300491,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2024-12-28,49882,BATCH-74506,False,Delayed
+SHP300492,MRK-1001,Cardiozin,NJ-Plant-01,South Korea,APAC,2025-10-17,42387,BATCH-85109,False,Delayed
+SHP300493,MRK-1001,Cardiozin,Ireland-Plant-02,Japan,APAC,2024-05-23,43613,BATCH-10142,False,In Transit
+SHP300494,MRK-1005,Neuroplex,NJ-Plant-01,India,APAC,2025-10-28,3402,BATCH-21799,False,Delayed
+SHP300495,MRK-1003,Immunext,Ireland-Plant-02,Australia,APAC,2025-09-17,1650,BATCH-35062,True,Delayed
+SHP300496,MRK-1003,Immunext,Singapore-Plant-03,USA,North America,2024-04-08,37430,BATCH-67674,True,Customs Hold
+SHP300497,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2025-04-16,24261,BATCH-57880,False,Delivered
+SHP300498,MRK-1005,Neuroplex,Singapore-Plant-03,Mexico,North America,2026-07-09,28376,BATCH-45036,False,In Transit
+SHP300499,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2025-06-18,49954,BATCH-26926,False,Delayed
+SHP300500,MRK-1007,Pulmocare,NJ-Plant-01,Japan,APAC,2025-08-07,28043,BATCH-42072,False,In Transit
+SHP300501,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2026-01-24,42628,BATCH-81910,True,Customs Hold
+SHP300502,MRK-1005,Neuroplex,Ireland-Plant-02,South Africa,EMEA,2025-03-06,31994,BATCH-77679,False,In Transit
+SHP300503,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2025-12-17,663,BATCH-62803,False,In Transit
+SHP300504,MRK-1004,Glucostat,NJ-Plant-01,Canada,North America,2024-04-04,35209,BATCH-71438,False,In Transit
+SHP300505,MRK-1005,Neuroplex,Ireland-Plant-02,South Africa,EMEA,2026-04-23,24211,BATCH-83810,False,Delayed
+SHP300506,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2024-06-05,15938,BATCH-70315,False,In Transit
+SHP300507,MRK-1004,Glucostat,Singapore-Plant-03,Brazil,Latin America,2025-04-06,41438,BATCH-85926,False,Delivered
+SHP300508,MRK-1003,Immunext,Singapore-Plant-03,UK,EMEA,2025-04-27,45019,BATCH-17420,True,Delivered
+SHP300509,MRK-1007,Pulmocare,Singapore-Plant-03,Australia,APAC,2026-06-12,47323,BATCH-92272,False,Customs Hold
+SHP300510,MRK-1001,Cardiozin,Ireland-Plant-02,South Korea,APAC,2025-04-02,38571,BATCH-44011,False,Delivered
+SHP300511,MRK-1008,Dermalyx,NJ-Plant-01,Argentina,Latin America,2024-11-17,21070,BATCH-87771,False,Delivered
+SHP300512,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2024-08-03,30828,BATCH-18691,False,Delayed
+SHP300513,MRK-1002,Oncavera,Singapore-Plant-03,South Korea,APAC,2025-09-08,4306,BATCH-86156,False,Delayed
+SHP300514,MRK-1006,Vaxishield,NJ-Plant-01,Brazil,Latin America,2025-02-18,36540,BATCH-76260,True,Delayed
+SHP300515,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2025-06-21,1997,BATCH-12214,False,Customs Hold
+SHP300516,MRK-1007,Pulmocare,Ireland-Plant-02,USA,North America,2024-08-31,39407,BATCH-99293,False,Delivered
+SHP300517,MRK-1003,Immunext,Singapore-Plant-03,Mexico,North America,2026-03-16,44271,BATCH-13651,True,Delayed
+SHP300518,MRK-1002,Oncavera,Singapore-Plant-03,USA,North America,2025-08-03,42904,BATCH-78549,False,Customs Hold
+SHP300519,MRK-1002,Oncavera,NJ-Plant-01,Germany,EMEA,2025-10-26,32511,BATCH-62663,False,Customs Hold
+SHP300520,MRK-1001,Cardiozin,NJ-Plant-01,USA,North America,2025-04-10,38913,BATCH-38763,False,Customs Hold
+SHP300521,MRK-1003,Immunext,NJ-Plant-01,South Africa,EMEA,2025-07-20,40260,BATCH-39347,True,Delayed
+SHP300522,MRK-1007,Pulmocare,NJ-Plant-01,South Korea,APAC,2026-08-01,3529,BATCH-51442,False,Delivered
+SHP300523,MRK-1007,Pulmocare,Singapore-Plant-03,Argentina,Latin America,2025-04-16,33991,BATCH-64233,False,In Transit
+SHP300524,MRK-1004,Glucostat,NJ-Plant-01,Australia,APAC,2025-12-08,29735,BATCH-73810,False,Customs Hold
+SHP300525,MRK-1004,Glucostat,NJ-Plant-01,USA,North America,2026-05-10,43635,BATCH-23126,False,Delayed
+SHP300526,MRK-1006,Vaxishield,Ireland-Plant-02,Japan,APAC,2025-11-28,21359,BATCH-98620,True,Delivered
+SHP300527,MRK-1006,Vaxishield,Singapore-Plant-03,Germany,EMEA,2025-06-21,31855,BATCH-89102,True,In Transit
+SHP300528,MRK-1005,Neuroplex,Ireland-Plant-02,Australia,APAC,2024-02-15,20893,BATCH-76728,False,In Transit
+SHP300529,MRK-1002,Oncavera,Ireland-Plant-02,Canada,North America,2024-03-06,20722,BATCH-16737,False,Delivered
+SHP300530,MRK-1003,Immunext,NJ-Plant-01,France,EMEA,2026-05-21,3725,BATCH-62506,True,Customs Hold
+SHP300531,MRK-1002,Oncavera,Singapore-Plant-03,South Korea,APAC,2026-04-18,35484,BATCH-19784,False,Delivered
+SHP300532,MRK-1008,Dermalyx,NJ-Plant-01,Chile,Latin America,2025-04-02,35740,BATCH-28628,False,In Transit
+SHP300533,MRK-1005,Neuroplex,Ireland-Plant-02,Australia,APAC,2025-03-12,34079,BATCH-44524,False,Customs Hold
+SHP300534,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2026-07-25,15697,BATCH-66003,False,Delayed
+SHP300535,MRK-1001,Cardiozin,Singapore-Plant-03,Canada,North America,2024-08-11,9328,BATCH-51851,False,Customs Hold
+SHP300536,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2025-11-08,14151,BATCH-56539,False,Customs Hold
+SHP300537,MRK-1006,Vaxishield,Singapore-Plant-03,Chile,Latin America,2026-07-28,10996,BATCH-97734,True,In Transit
+SHP300538,MRK-1008,Dermalyx,Singapore-Plant-03,Germany,EMEA,2025-06-05,26288,BATCH-37312,False,Delivered
+SHP300539,MRK-1003,Immunext,Singapore-Plant-03,Canada,North America,2025-07-26,24636,BATCH-96755,True,Delayed
+SHP300540,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2024-06-28,20166,BATCH-59271,True,Delayed
+SHP300541,MRK-1002,Oncavera,Singapore-Plant-03,Australia,APAC,2025-07-04,16716,BATCH-66735,False,Customs Hold
+SHP300542,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2024-11-03,19612,BATCH-71727,False,Delayed
+SHP300543,MRK-1007,Pulmocare,Singapore-Plant-03,Germany,EMEA,2024-12-19,49193,BATCH-85012,False,Delayed
+SHP300544,MRK-1005,Neuroplex,Singapore-Plant-03,Mexico,North America,2025-05-13,18046,BATCH-89922,False,Delivered
+SHP300545,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2024-01-04,22564,BATCH-31176,False,In Transit
+SHP300546,MRK-1002,Oncavera,NJ-Plant-01,Canada,North America,2025-08-01,36663,BATCH-94610,False,Delayed
+SHP300547,MRK-1002,Oncavera,Singapore-Plant-03,France,EMEA,2026-05-07,18421,BATCH-72850,False,Customs Hold
+SHP300548,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2025-12-11,32406,BATCH-47722,False,Delivered
+SHP300549,MRK-1003,Immunext,Singapore-Plant-03,South Africa,EMEA,2024-10-22,44044,BATCH-41636,True,In Transit
+SHP300550,MRK-1001,Cardiozin,Ireland-Plant-02,South Africa,EMEA,2026-05-23,42077,BATCH-13875,False,Customs Hold
+SHP300551,MRK-1003,Immunext,Ireland-Plant-02,Mexico,North America,2026-07-01,12860,BATCH-59428,True,Customs Hold
+SHP300552,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2026-02-03,25243,BATCH-64245,False,Customs Hold
+SHP300553,MRK-1002,Oncavera,Ireland-Plant-02,USA,North America,2024-11-16,49429,BATCH-41524,False,Delayed
+SHP300554,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2026-03-23,8888,BATCH-99135,True,In Transit
+SHP300555,MRK-1005,Neuroplex,Singapore-Plant-03,USA,North America,2026-07-10,14181,BATCH-67372,False,Customs Hold
+SHP300556,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2025-01-01,40948,BATCH-12116,False,Delivered
+SHP300557,MRK-1008,Dermalyx,NJ-Plant-01,Chile,Latin America,2024-03-14,21956,BATCH-93317,False,Delayed
+SHP300558,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2024-10-07,19752,BATCH-90842,False,In Transit
+SHP300559,MRK-1004,Glucostat,Ireland-Plant-02,France,EMEA,2024-03-05,30510,BATCH-61832,False,Delayed
+SHP300560,MRK-1007,Pulmocare,NJ-Plant-01,India,APAC,2026-06-08,25200,BATCH-24423,False,Customs Hold
+SHP300561,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2025-01-23,14798,BATCH-84397,False,Delayed
+SHP300562,MRK-1007,Pulmocare,Singapore-Plant-03,Australia,APAC,2025-08-19,10851,BATCH-33947,False,Customs Hold
+SHP300563,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2026-04-11,6573,BATCH-89672,False,Delivered
+SHP300564,MRK-1001,Cardiozin,Singapore-Plant-03,France,EMEA,2024-01-03,12224,BATCH-53846,False,Delayed
+SHP300565,MRK-1002,Oncavera,Singapore-Plant-03,France,EMEA,2026-03-09,19410,BATCH-43530,False,Customs Hold
+SHP300566,MRK-1008,Dermalyx,NJ-Plant-01,UK,EMEA,2025-06-30,35623,BATCH-85060,False,Delivered
+SHP300567,MRK-1005,Neuroplex,Ireland-Plant-02,Brazil,Latin America,2024-08-27,4832,BATCH-57342,False,Delayed
+SHP300568,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2025-12-04,32101,BATCH-86055,False,In Transit
+SHP300569,MRK-1003,Immunext,Singapore-Plant-03,Japan,APAC,2024-04-27,17586,BATCH-87117,True,Customs Hold
+SHP300570,MRK-1008,Dermalyx,Singapore-Plant-03,India,APAC,2024-03-06,9282,BATCH-11058,False,Delayed
+SHP300571,MRK-1001,Cardiozin,Ireland-Plant-02,Australia,APAC,2024-09-06,29389,BATCH-95279,False,Customs Hold
+SHP300572,MRK-1007,Pulmocare,Singapore-Plant-03,Mexico,North America,2024-07-17,3892,BATCH-79250,False,Delayed
+SHP300573,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2026-01-10,46159,BATCH-72970,False,In Transit
+SHP300574,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2025-08-19,6025,BATCH-22071,False,Delivered
+SHP300575,MRK-1005,Neuroplex,Ireland-Plant-02,South Africa,EMEA,2025-05-07,35552,BATCH-32391,False,Delivered
+SHP300576,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2024-03-20,36465,BATCH-22755,False,Delivered
+SHP300577,MRK-1007,Pulmocare,Ireland-Plant-02,South Korea,APAC,2024-11-04,8945,BATCH-69525,False,Delivered
+SHP300578,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2026-06-03,28537,BATCH-96054,False,In Transit
+SHP300579,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2024-09-26,12244,BATCH-35713,False,Delivered
+SHP300580,MRK-1007,Pulmocare,NJ-Plant-01,USA,North America,2024-07-08,13295,BATCH-34250,False,Customs Hold
+SHP300581,MRK-1006,Vaxishield,NJ-Plant-01,Japan,APAC,2025-11-22,21893,BATCH-32046,True,Delayed
+SHP300582,MRK-1002,Oncavera,NJ-Plant-01,Canada,North America,2026-03-18,10553,BATCH-62915,False,Customs Hold
+SHP300583,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2024-11-18,5440,BATCH-51911,False,In Transit
+SHP300584,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2025-03-10,16874,BATCH-78066,False,In Transit
+SHP300585,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2024-10-11,2948,BATCH-51879,True,In Transit
+SHP300586,MRK-1003,Immunext,Ireland-Plant-02,UK,EMEA,2024-02-18,24908,BATCH-28328,True,Delivered
+SHP300587,MRK-1002,Oncavera,Ireland-Plant-02,USA,North America,2024-04-26,14114,BATCH-80016,False,Delayed
+SHP300588,MRK-1004,Glucostat,Singapore-Plant-03,Germany,EMEA,2024-07-16,15430,BATCH-32847,False,Delayed
+SHP300589,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2026-03-26,14569,BATCH-41884,True,Delayed
+SHP300590,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2024-10-17,22340,BATCH-38387,True,Delayed
+SHP300591,MRK-1003,Immunext,Singapore-Plant-03,Argentina,Latin America,2026-03-02,20026,BATCH-68027,True,Customs Hold
+SHP300592,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2025-08-20,34054,BATCH-66282,False,In Transit
+SHP300593,MRK-1005,Neuroplex,Ireland-Plant-02,Germany,EMEA,2026-01-17,38729,BATCH-42442,False,Customs Hold
+SHP300594,MRK-1008,Dermalyx,Ireland-Plant-02,Chile,Latin America,2026-07-15,16392,BATCH-96752,False,Delayed
+SHP300595,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2024-12-30,27026,BATCH-53857,True,In Transit
+SHP300596,MRK-1007,Pulmocare,Singapore-Plant-03,Argentina,Latin America,2026-04-13,22291,BATCH-18694,False,Delayed
+SHP300597,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2025-01-13,16640,BATCH-76964,False,Delivered
+SHP300598,MRK-1007,Pulmocare,Ireland-Plant-02,Argentina,Latin America,2024-04-17,17971,BATCH-58427,False,In Transit
+SHP300599,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2025-12-15,24805,BATCH-47819,False,Customs Hold
+SHP300600,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2026-01-06,21326,BATCH-40582,False,Delayed
+SHP300601,MRK-1004,Glucostat,Singapore-Plant-03,Brazil,Latin America,2026-02-19,42036,BATCH-82278,False,Delayed
+SHP300602,MRK-1004,Glucostat,Ireland-Plant-02,France,EMEA,2024-07-26,46838,BATCH-74730,False,In Transit
+SHP300603,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2025-05-01,5860,BATCH-94011,False,Customs Hold
+SHP300604,MRK-1007,Pulmocare,NJ-Plant-01,UK,EMEA,2024-11-27,18289,BATCH-96422,False,Delayed
+SHP300605,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2024-09-09,44327,BATCH-13425,False,Customs Hold
+SHP300606,MRK-1002,Oncavera,Ireland-Plant-02,Chile,Latin America,2025-07-05,10141,BATCH-84122,False,Customs Hold
+SHP300607,MRK-1004,Glucostat,NJ-Plant-01,Canada,North America,2024-04-08,23731,BATCH-98317,False,Delivered
+SHP300608,MRK-1002,Oncavera,Singapore-Plant-03,Chile,Latin America,2025-11-02,13393,BATCH-70542,False,Delivered
+SHP300609,MRK-1001,Cardiozin,Ireland-Plant-02,Germany,EMEA,2025-05-24,14145,BATCH-27144,False,Customs Hold
+SHP300610,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2024-06-19,766,BATCH-45896,False,Customs Hold
+SHP300611,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2026-07-06,9670,BATCH-46057,False,In Transit
+SHP300612,MRK-1002,Oncavera,NJ-Plant-01,Germany,EMEA,2024-10-19,26598,BATCH-87614,False,Delayed
+SHP300613,MRK-1008,Dermalyx,Ireland-Plant-02,Brazil,Latin America,2024-11-27,42603,BATCH-28894,False,In Transit
+SHP300614,MRK-1007,Pulmocare,NJ-Plant-01,Australia,APAC,2026-02-07,27072,BATCH-35068,False,Delivered
+SHP300615,MRK-1008,Dermalyx,Ireland-Plant-02,France,EMEA,2024-01-12,14605,BATCH-85059,False,Delayed
+SHP300616,MRK-1002,Oncavera,Singapore-Plant-03,USA,North America,2025-10-19,27606,BATCH-60235,False,Delayed
+SHP300617,MRK-1008,Dermalyx,Singapore-Plant-03,Mexico,North America,2025-02-23,30089,BATCH-13352,False,Customs Hold
+SHP300618,MRK-1004,Glucostat,NJ-Plant-01,France,EMEA,2024-08-13,39826,BATCH-14307,False,Delivered
+SHP300619,MRK-1007,Pulmocare,NJ-Plant-01,USA,North America,2024-12-24,37935,BATCH-24888,False,Customs Hold
+SHP300620,MRK-1004,Glucostat,NJ-Plant-01,Japan,APAC,2026-02-18,49937,BATCH-35518,False,In Transit
+SHP300621,MRK-1004,Glucostat,Singapore-Plant-03,Australia,APAC,2024-08-08,31710,BATCH-64953,False,Customs Hold
+SHP300622,MRK-1004,Glucostat,Singapore-Plant-03,Japan,APAC,2024-10-15,3487,BATCH-81499,False,Delayed
+SHP300623,MRK-1002,Oncavera,Ireland-Plant-02,USA,North America,2026-06-04,28953,BATCH-88708,False,In Transit
+SHP300624,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2026-07-19,36178,BATCH-23596,False,Customs Hold
+SHP300625,MRK-1001,Cardiozin,NJ-Plant-01,Japan,APAC,2026-03-01,2132,BATCH-50835,False,In Transit
+SHP300626,MRK-1001,Cardiozin,NJ-Plant-01,South Africa,EMEA,2026-05-23,27828,BATCH-62979,False,Delivered
+SHP300627,MRK-1002,Oncavera,NJ-Plant-01,USA,North America,2024-10-25,9962,BATCH-36289,False,Delayed
+SHP300628,MRK-1006,Vaxishield,NJ-Plant-01,Australia,APAC,2026-06-28,10719,BATCH-37463,True,Delayed
+SHP300629,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2024-03-03,46071,BATCH-84117,False,Delivered
+SHP300630,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2026-07-31,36121,BATCH-17701,False,Delivered
+SHP300631,MRK-1006,Vaxishield,NJ-Plant-01,Brazil,Latin America,2026-05-25,46499,BATCH-74947,True,Delivered
+SHP300632,MRK-1004,Glucostat,Ireland-Plant-02,Germany,EMEA,2025-08-19,45185,BATCH-12126,False,In Transit
+SHP300633,MRK-1005,Neuroplex,NJ-Plant-01,Chile,Latin America,2026-06-07,782,BATCH-78256,False,Delivered
+SHP300634,MRK-1005,Neuroplex,Ireland-Plant-02,USA,North America,2024-05-15,35471,BATCH-92837,False,Delayed
+SHP300635,MRK-1006,Vaxishield,Singapore-Plant-03,South Africa,EMEA,2025-12-14,5420,BATCH-37934,True,Customs Hold
+SHP300636,MRK-1008,Dermalyx,Ireland-Plant-02,South Korea,APAC,2025-01-24,19804,BATCH-34578,False,Delivered
+SHP300637,MRK-1004,Glucostat,Ireland-Plant-02,USA,North America,2026-07-29,42256,BATCH-49539,False,Delivered
+SHP300638,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2024-10-20,11596,BATCH-94071,False,In Transit
+SHP300639,MRK-1002,Oncavera,NJ-Plant-01,Australia,APAC,2026-06-17,3638,BATCH-41125,False,Delivered
+SHP300640,MRK-1006,Vaxishield,Singapore-Plant-03,France,EMEA,2024-02-22,27432,BATCH-96960,True,Customs Hold
+SHP300641,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2025-02-20,36405,BATCH-55140,True,Delayed
+SHP300642,MRK-1003,Immunext,Ireland-Plant-02,India,APAC,2026-02-14,43490,BATCH-50879,True,Delivered
+SHP300643,MRK-1001,Cardiozin,Singapore-Plant-03,France,EMEA,2024-10-16,32387,BATCH-18520,False,Customs Hold
+SHP300644,MRK-1005,Neuroplex,Ireland-Plant-02,South Korea,APAC,2025-02-03,40117,BATCH-76412,False,In Transit
+SHP300645,MRK-1001,Cardiozin,Singapore-Plant-03,Canada,North America,2024-04-18,39221,BATCH-54660,False,Customs Hold
+SHP300646,MRK-1008,Dermalyx,Ireland-Plant-02,South Korea,APAC,2024-08-01,24461,BATCH-76173,False,Delayed
+SHP300647,MRK-1003,Immunext,NJ-Plant-01,South Africa,EMEA,2025-10-15,47974,BATCH-69727,True,In Transit
+SHP300648,MRK-1007,Pulmocare,Ireland-Plant-02,Brazil,Latin America,2026-02-17,43321,BATCH-63096,False,Delayed
+SHP300649,MRK-1001,Cardiozin,Ireland-Plant-02,South Korea,APAC,2026-06-13,1023,BATCH-12956,False,Delivered
+SHP300650,MRK-1002,Oncavera,NJ-Plant-01,Australia,APAC,2024-04-23,15080,BATCH-59554,False,Customs Hold
+SHP300651,MRK-1003,Immunext,Singapore-Plant-03,Japan,APAC,2026-03-17,46403,BATCH-68337,True,Delivered
+SHP300652,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2026-04-12,27491,BATCH-80974,False,Delivered
+SHP300653,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2024-05-18,35646,BATCH-11010,False,Customs Hold
+SHP300654,MRK-1007,Pulmocare,NJ-Plant-01,UK,EMEA,2025-05-28,47693,BATCH-25953,False,Delayed
+SHP300655,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2024-05-26,36689,BATCH-33721,True,In Transit
+SHP300656,MRK-1003,Immunext,Ireland-Plant-02,Japan,APAC,2025-07-02,18700,BATCH-52826,True,In Transit
+SHP300657,MRK-1004,Glucostat,Ireland-Plant-02,Australia,APAC,2024-02-02,584,BATCH-22093,False,Delivered
+SHP300658,MRK-1005,Neuroplex,NJ-Plant-01,Chile,Latin America,2026-04-01,8090,BATCH-58893,False,Delivered
+SHP300659,MRK-1002,Oncavera,Ireland-Plant-02,France,EMEA,2025-11-14,2446,BATCH-35459,False,Delayed
+SHP300660,MRK-1008,Dermalyx,Singapore-Plant-03,UK,EMEA,2026-02-23,42648,BATCH-87601,False,In Transit
+SHP300661,MRK-1001,Cardiozin,Singapore-Plant-03,Argentina,Latin America,2024-04-30,42413,BATCH-97150,False,Delayed
+SHP300662,MRK-1008,Dermalyx,Singapore-Plant-03,Mexico,North America,2026-02-16,30932,BATCH-41491,False,Delivered
+SHP300663,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2024-01-25,20167,BATCH-91534,True,Delayed
+SHP300664,MRK-1006,Vaxishield,Ireland-Plant-02,France,EMEA,2024-03-20,40690,BATCH-26547,True,Delivered
+SHP300665,MRK-1005,Neuroplex,Ireland-Plant-02,South Korea,APAC,2025-07-23,27369,BATCH-47727,False,In Transit
+SHP300666,MRK-1001,Cardiozin,Singapore-Plant-03,Germany,EMEA,2025-10-18,33919,BATCH-82805,False,In Transit
+SHP300667,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2026-02-13,23067,BATCH-83301,False,Delivered
+SHP300668,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2025-08-22,8063,BATCH-29124,False,Delivered
+SHP300669,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2026-07-28,16199,BATCH-62756,False,Delivered
+SHP300670,MRK-1006,Vaxishield,Ireland-Plant-02,Australia,APAC,2024-12-18,32808,BATCH-87641,True,Delayed
+SHP300671,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2025-08-12,48771,BATCH-64932,False,Customs Hold
+SHP300672,MRK-1001,Cardiozin,Singapore-Plant-03,Australia,APAC,2026-07-04,10541,BATCH-89657,False,Customs Hold
+SHP300673,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2026-01-15,3676,BATCH-53458,False,Customs Hold
+SHP300674,MRK-1008,Dermalyx,Ireland-Plant-02,UK,EMEA,2025-04-08,18415,BATCH-68202,False,Delivered
+SHP300675,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2024-05-27,29608,BATCH-22220,False,In Transit
+SHP300676,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2025-08-24,36665,BATCH-28351,False,Delayed
+SHP300677,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2024-10-14,13243,BATCH-62228,False,In Transit
+SHP300678,MRK-1007,Pulmocare,Ireland-Plant-02,Australia,APAC,2024-11-04,30635,BATCH-33638,False,Delayed
+SHP300679,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2024-09-03,49255,BATCH-42837,False,In Transit
+SHP300680,MRK-1004,Glucostat,Ireland-Plant-02,Japan,APAC,2026-02-24,2591,BATCH-20487,False,Customs Hold
+SHP300681,MRK-1003,Immunext,Ireland-Plant-02,Japan,APAC,2026-01-07,22192,BATCH-42322,True,Customs Hold
+SHP300682,MRK-1002,Oncavera,Ireland-Plant-02,Australia,APAC,2024-11-18,30550,BATCH-86671,False,Delivered
+SHP300683,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2025-07-30,25326,BATCH-31253,False,Delayed
+SHP300684,MRK-1003,Immunext,NJ-Plant-01,South Korea,APAC,2024-03-03,16173,BATCH-39048,True,In Transit
+SHP300685,MRK-1006,Vaxishield,NJ-Plant-01,Australia,APAC,2024-07-04,15064,BATCH-52225,True,In Transit
+SHP300686,MRK-1007,Pulmocare,NJ-Plant-01,Germany,EMEA,2024-10-13,1827,BATCH-89311,False,Customs Hold
+SHP300687,MRK-1007,Pulmocare,NJ-Plant-01,Germany,EMEA,2025-03-29,10850,BATCH-73618,False,Delayed
+SHP300688,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2024-01-28,20294,BATCH-63381,True,Customs Hold
+SHP300689,MRK-1003,Immunext,Singapore-Plant-03,Canada,North America,2025-12-01,16277,BATCH-33080,True,Customs Hold
+SHP300690,MRK-1007,Pulmocare,Ireland-Plant-02,South Africa,EMEA,2026-05-29,824,BATCH-39005,False,In Transit
+SHP300691,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2024-05-04,15614,BATCH-30564,True,Delivered
+SHP300692,MRK-1005,Neuroplex,NJ-Plant-01,Japan,APAC,2024-07-08,10410,BATCH-64786,False,Delivered
+SHP300693,MRK-1001,Cardiozin,NJ-Plant-01,Mexico,North America,2024-09-02,42638,BATCH-37740,False,Delayed
+SHP300694,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2025-05-13,6054,BATCH-18099,False,Delivered
+SHP300695,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2025-12-26,38626,BATCH-54773,False,Customs Hold
+SHP300696,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2024-07-07,22815,BATCH-98737,False,Delayed
+SHP300697,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2026-01-27,24647,BATCH-88604,False,Delayed
+SHP300698,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2025-09-28,9847,BATCH-10061,False,Delayed
+SHP300699,MRK-1006,Vaxishield,NJ-Plant-01,UK,EMEA,2026-01-30,15857,BATCH-60471,True,Customs Hold
+SHP300700,MRK-1008,Dermalyx,Ireland-Plant-02,Canada,North America,2024-12-05,25196,BATCH-67814,False,Delayed
+SHP300701,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2026-03-12,49002,BATCH-90601,False,Delayed
+SHP300702,MRK-1006,Vaxishield,Singapore-Plant-03,Germany,EMEA,2026-07-31,5761,BATCH-69160,True,Customs Hold
+SHP300703,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2025-03-14,22781,BATCH-55167,False,In Transit
+SHP300704,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2024-05-08,2236,BATCH-30987,False,Delivered
+SHP300705,MRK-1006,Vaxishield,Singapore-Plant-03,Chile,Latin America,2024-02-26,27158,BATCH-19722,True,Delivered
+SHP300706,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2024-03-11,44748,BATCH-61221,True,Customs Hold
+SHP300707,MRK-1008,Dermalyx,Singapore-Plant-03,Canada,North America,2025-10-06,31814,BATCH-66043,False,In Transit
+SHP300708,MRK-1006,Vaxishield,Singapore-Plant-03,UK,EMEA,2024-06-03,13503,BATCH-73739,True,Delivered
+SHP300709,MRK-1006,Vaxishield,Ireland-Plant-02,Germany,EMEA,2026-06-08,9547,BATCH-93330,True,Delayed
+SHP300710,MRK-1006,Vaxishield,NJ-Plant-01,Brazil,Latin America,2026-07-22,33135,BATCH-20895,True,Delayed
+SHP300711,MRK-1003,Immunext,NJ-Plant-01,India,APAC,2024-01-23,3124,BATCH-42091,True,Customs Hold
+SHP300712,MRK-1006,Vaxishield,Singapore-Plant-03,UK,EMEA,2026-06-13,16444,BATCH-19587,True,In Transit
+SHP300713,MRK-1003,Immunext,Singapore-Plant-03,South Korea,APAC,2024-12-18,39784,BATCH-92099,True,Customs Hold
+SHP300714,MRK-1007,Pulmocare,Singapore-Plant-03,UK,EMEA,2025-05-05,49977,BATCH-43797,False,Delivered
+SHP300715,MRK-1008,Dermalyx,Singapore-Plant-03,South Africa,EMEA,2025-02-26,22945,BATCH-19381,False,Delayed
+SHP300716,MRK-1004,Glucostat,Ireland-Plant-02,Germany,EMEA,2024-04-06,6946,BATCH-97464,False,Delivered
+SHP300717,MRK-1007,Pulmocare,Ireland-Plant-02,India,APAC,2025-12-18,28547,BATCH-48382,False,In Transit
+SHP300718,MRK-1007,Pulmocare,NJ-Plant-01,Brazil,Latin America,2026-06-11,24669,BATCH-28939,False,Customs Hold
+SHP300719,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2024-12-19,14957,BATCH-74095,True,Delayed
+SHP300720,MRK-1007,Pulmocare,Ireland-Plant-02,South Korea,APAC,2025-09-20,31253,BATCH-44102,False,Customs Hold
+SHP300721,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2024-06-17,18763,BATCH-47745,False,Delayed
+SHP300722,MRK-1002,Oncavera,NJ-Plant-01,Canada,North America,2025-02-20,41491,BATCH-51274,False,Delivered
+SHP300723,MRK-1007,Pulmocare,Singapore-Plant-03,South Africa,EMEA,2024-11-30,25605,BATCH-53752,False,Delivered
+SHP300724,MRK-1003,Immunext,Ireland-Plant-02,Canada,North America,2026-02-23,8782,BATCH-64773,True,Customs Hold
+SHP300725,MRK-1003,Immunext,Singapore-Plant-03,France,EMEA,2025-12-20,1927,BATCH-67783,True,In Transit
+SHP300726,MRK-1005,Neuroplex,Singapore-Plant-03,India,APAC,2024-03-15,9084,BATCH-24450,False,Delayed
+SHP300727,MRK-1007,Pulmocare,NJ-Plant-01,Japan,APAC,2024-07-09,10156,BATCH-48365,False,Customs Hold
+SHP300728,MRK-1008,Dermalyx,Ireland-Plant-02,Canada,North America,2026-07-21,23102,BATCH-84348,False,Customs Hold
+SHP300729,MRK-1003,Immunext,Ireland-Plant-02,Japan,APAC,2026-06-03,34562,BATCH-95909,True,Delivered
+SHP300730,MRK-1008,Dermalyx,Singapore-Plant-03,USA,North America,2024-08-23,43080,BATCH-79428,False,In Transit
+SHP300731,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2025-07-22,45106,BATCH-41852,False,In Transit
+SHP300732,MRK-1008,Dermalyx,Singapore-Plant-03,Germany,EMEA,2025-08-04,46291,BATCH-45353,False,Delayed
+SHP300733,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2025-02-13,48331,BATCH-11540,False,Customs Hold
+SHP300734,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2024-08-12,44468,BATCH-78186,False,Customs Hold
+SHP300735,MRK-1004,Glucostat,NJ-Plant-01,USA,North America,2024-03-09,9564,BATCH-13547,False,Delivered
+SHP300736,MRK-1005,Neuroplex,Singapore-Plant-03,India,APAC,2025-02-01,17088,BATCH-36678,False,In Transit
+SHP300737,MRK-1004,Glucostat,Ireland-Plant-02,Argentina,Latin America,2025-11-22,38265,BATCH-13006,False,In Transit
+SHP300738,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2026-01-27,42320,BATCH-37111,False,Customs Hold
+SHP300739,MRK-1001,Cardiozin,Ireland-Plant-02,Australia,APAC,2025-09-13,19245,BATCH-88563,False,In Transit
+SHP300740,MRK-1001,Cardiozin,Singapore-Plant-03,South Korea,APAC,2024-10-13,37741,BATCH-16815,False,Delivered
+SHP300741,MRK-1004,Glucostat,NJ-Plant-01,France,EMEA,2025-09-28,24721,BATCH-83914,False,In Transit
+SHP300742,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2026-06-30,559,BATCH-24192,True,Delayed
+SHP300743,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2025-05-01,23108,BATCH-94185,False,Delivered
+SHP300744,MRK-1001,Cardiozin,Singapore-Plant-03,Germany,EMEA,2024-10-19,17230,BATCH-18930,False,Delivered
+SHP300745,MRK-1005,Neuroplex,Ireland-Plant-02,Canada,North America,2024-09-04,4686,BATCH-63171,False,Customs Hold
+SHP300746,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2024-08-06,22138,BATCH-78477,True,Delivered
+SHP300747,MRK-1005,Neuroplex,Ireland-Plant-02,South Africa,EMEA,2024-11-13,30520,BATCH-56171,False,Delivered
+SHP300748,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2025-10-16,1287,BATCH-62863,False,Delayed
+SHP300749,MRK-1007,Pulmocare,Ireland-Plant-02,South Korea,APAC,2024-04-22,32419,BATCH-81947,False,Delayed
+SHP300750,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2024-02-08,10642,BATCH-96121,False,Delivered
+SHP300751,MRK-1007,Pulmocare,Ireland-Plant-02,South Africa,EMEA,2025-12-19,7239,BATCH-22243,False,Delivered
+SHP300752,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2026-03-29,34405,BATCH-24787,True,Delivered
+SHP300753,MRK-1008,Dermalyx,Singapore-Plant-03,Argentina,Latin America,2024-12-30,38454,BATCH-78329,False,In Transit
+SHP300754,MRK-1004,Glucostat,NJ-Plant-01,South Africa,EMEA,2024-03-08,31727,BATCH-52054,False,Delivered
+SHP300755,MRK-1006,Vaxishield,Ireland-Plant-02,France,EMEA,2024-07-13,17249,BATCH-94361,True,Delivered
+SHP300756,MRK-1006,Vaxishield,NJ-Plant-01,Argentina,Latin America,2025-03-26,46741,BATCH-81490,True,Delayed
+SHP300757,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2024-09-10,38412,BATCH-87760,False,In Transit
+SHP300758,MRK-1005,Neuroplex,NJ-Plant-01,South Africa,EMEA,2025-02-13,43718,BATCH-22355,False,Customs Hold
+SHP300759,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2024-03-09,45150,BATCH-80703,False,Delayed
+SHP300760,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2025-05-11,40133,BATCH-10563,False,In Transit
+SHP300761,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2024-07-28,10827,BATCH-33431,False,Customs Hold
+SHP300762,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2025-07-27,42924,BATCH-43429,False,Delayed
+SHP300763,MRK-1002,Oncavera,NJ-Plant-01,Japan,APAC,2024-06-17,21467,BATCH-77876,False,Delayed
+SHP300764,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2024-09-01,789,BATCH-71225,False,In Transit
+SHP300765,MRK-1001,Cardiozin,NJ-Plant-01,Brazil,Latin America,2026-06-26,47820,BATCH-93743,False,Customs Hold
+SHP300766,MRK-1004,Glucostat,Ireland-Plant-02,South Africa,EMEA,2026-03-23,31637,BATCH-69753,False,Delivered
+SHP300767,MRK-1002,Oncavera,Singapore-Plant-03,India,APAC,2024-11-22,8906,BATCH-73010,False,Customs Hold
+SHP300768,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2024-03-03,1064,BATCH-20871,False,In Transit
+SHP300769,MRK-1002,Oncavera,NJ-Plant-01,USA,North America,2026-01-03,18762,BATCH-35357,False,Delayed
+SHP300770,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2026-06-28,44920,BATCH-55717,False,Customs Hold
+SHP300771,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2026-02-14,41069,BATCH-65993,False,Delivered
+SHP300772,MRK-1008,Dermalyx,Singapore-Plant-03,Canada,North America,2025-01-08,47015,BATCH-66951,False,Delayed
+SHP300773,MRK-1007,Pulmocare,NJ-Plant-01,Argentina,Latin America,2025-02-20,19898,BATCH-89594,False,Customs Hold
+SHP300774,MRK-1004,Glucostat,NJ-Plant-01,France,EMEA,2026-03-08,17933,BATCH-12289,False,Delayed
+SHP300775,MRK-1003,Immunext,Ireland-Plant-02,France,EMEA,2024-05-21,44701,BATCH-99410,True,Delayed
+SHP300776,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2024-07-24,46018,BATCH-26670,False,Delivered
+SHP300777,MRK-1002,Oncavera,NJ-Plant-01,India,APAC,2025-09-30,46599,BATCH-70116,False,Delivered
+SHP300778,MRK-1006,Vaxishield,Ireland-Plant-02,South Korea,APAC,2025-11-18,16441,BATCH-16562,True,Delivered
+SHP300779,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2025-08-23,7990,BATCH-53090,True,Delivered
+SHP300780,MRK-1002,Oncavera,NJ-Plant-01,USA,North America,2025-02-10,46954,BATCH-64926,False,Delivered
+SHP300781,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2025-02-14,23349,BATCH-84949,False,In Transit
+SHP300782,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2025-09-04,30365,BATCH-36647,False,In Transit
+SHP300783,MRK-1006,Vaxishield,NJ-Plant-01,India,APAC,2025-01-01,32743,BATCH-88659,True,In Transit
+SHP300784,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2025-04-28,37864,BATCH-43049,False,Customs Hold
+SHP300785,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2025-01-31,19088,BATCH-41465,False,In Transit
+SHP300786,MRK-1001,Cardiozin,NJ-Plant-01,Germany,EMEA,2025-05-21,45895,BATCH-96166,False,Customs Hold
+SHP300787,MRK-1007,Pulmocare,NJ-Plant-01,India,APAC,2026-03-08,34476,BATCH-50681,False,Customs Hold
+SHP300788,MRK-1006,Vaxishield,Singapore-Plant-03,India,APAC,2026-01-07,33140,BATCH-26847,True,Delayed
+SHP300789,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2025-12-06,48645,BATCH-96222,False,In Transit
+SHP300790,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2024-02-20,6159,BATCH-97364,False,Customs Hold
+SHP300791,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2025-08-26,2078,BATCH-54291,False,Delayed
+SHP300792,MRK-1004,Glucostat,Ireland-Plant-02,South Africa,EMEA,2026-06-17,8006,BATCH-95419,False,In Transit
+SHP300793,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2024-11-23,28078,BATCH-38451,False,Customs Hold
+SHP300794,MRK-1004,Glucostat,NJ-Plant-01,USA,North America,2026-07-17,4315,BATCH-14943,False,Delivered
+SHP300795,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2025-03-30,34646,BATCH-10465,False,Delayed
+SHP300796,MRK-1001,Cardiozin,Ireland-Plant-02,UK,EMEA,2024-12-09,46310,BATCH-18450,False,Delayed
+SHP300797,MRK-1003,Immunext,NJ-Plant-01,Mexico,North America,2026-01-27,15580,BATCH-44407,True,In Transit
+SHP300798,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2024-03-31,16388,BATCH-61630,False,In Transit
+SHP300799,MRK-1001,Cardiozin,Singapore-Plant-03,USA,North America,2024-05-20,44696,BATCH-66241,False,Delivered
+SHP300800,MRK-1006,Vaxishield,Ireland-Plant-02,South Korea,APAC,2026-07-04,46205,BATCH-70030,True,Delivered
+SHP300801,MRK-1006,Vaxishield,NJ-Plant-01,Germany,EMEA,2026-04-28,6285,BATCH-55724,True,In Transit
+SHP300802,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2025-03-19,33084,BATCH-89254,False,Customs Hold
+SHP300803,MRK-1005,Neuroplex,NJ-Plant-01,Germany,EMEA,2025-07-25,38807,BATCH-50425,False,In Transit
+SHP300804,MRK-1007,Pulmocare,Ireland-Plant-02,South Africa,EMEA,2025-02-21,48567,BATCH-94887,False,Delivered
+SHP300805,MRK-1002,Oncavera,Singapore-Plant-03,Argentina,Latin America,2025-03-13,31887,BATCH-22883,False,Customs Hold
+SHP300806,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2025-11-04,35284,BATCH-38409,False,Customs Hold
+SHP300807,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2025-06-22,44068,BATCH-56862,False,Delivered
+SHP300808,MRK-1002,Oncavera,Ireland-Plant-02,Chile,Latin America,2024-06-14,30639,BATCH-32530,False,In Transit
+SHP300809,MRK-1003,Immunext,Singapore-Plant-03,Argentina,Latin America,2025-03-21,29588,BATCH-77486,True,Delivered
+SHP300810,MRK-1004,Glucostat,Ireland-Plant-02,Chile,Latin America,2025-02-10,6111,BATCH-52580,False,In Transit
+SHP300811,MRK-1003,Immunext,Singapore-Plant-03,Canada,North America,2024-10-25,38562,BATCH-41698,True,Delayed
+SHP300812,MRK-1002,Oncavera,Ireland-Plant-02,France,EMEA,2024-12-15,41295,BATCH-72950,False,Customs Hold
+SHP300813,MRK-1003,Immunext,Ireland-Plant-02,Argentina,Latin America,2025-09-09,33006,BATCH-48847,True,Delivered
+SHP300814,MRK-1004,Glucostat,NJ-Plant-01,Japan,APAC,2024-11-20,2421,BATCH-48129,False,Delivered
+SHP300815,MRK-1008,Dermalyx,Singapore-Plant-03,Canada,North America,2024-12-03,32143,BATCH-86377,False,In Transit
+SHP300816,MRK-1002,Oncavera,Ireland-Plant-02,France,EMEA,2026-06-07,26483,BATCH-22165,False,Customs Hold
+SHP300817,MRK-1002,Oncavera,NJ-Plant-01,Canada,North America,2025-06-22,28584,BATCH-17350,False,Delayed
+SHP300818,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2025-09-09,12534,BATCH-45359,False,In Transit
+SHP300819,MRK-1008,Dermalyx,NJ-Plant-01,Argentina,Latin America,2025-10-16,30846,BATCH-92111,False,In Transit
+SHP300820,MRK-1001,Cardiozin,NJ-Plant-01,UK,EMEA,2024-01-19,8593,BATCH-29651,False,Delayed
+SHP300821,MRK-1001,Cardiozin,Singapore-Plant-03,Mexico,North America,2025-06-03,26152,BATCH-14735,False,Customs Hold
+SHP300822,MRK-1005,Neuroplex,Singapore-Plant-03,Germany,EMEA,2025-02-15,43856,BATCH-88738,False,Delayed
+SHP300823,MRK-1003,Immunext,Ireland-Plant-02,UK,EMEA,2024-08-20,12888,BATCH-89262,True,In Transit
+SHP300824,MRK-1002,Oncavera,NJ-Plant-01,Canada,North America,2024-06-21,3242,BATCH-75336,False,In Transit
+SHP300825,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2026-03-15,11822,BATCH-95355,False,Customs Hold
+SHP300826,MRK-1003,Immunext,Ireland-Plant-02,South Korea,APAC,2025-01-07,16177,BATCH-93238,True,Delayed
+SHP300827,MRK-1001,Cardiozin,NJ-Plant-01,South Korea,APAC,2026-06-24,45744,BATCH-94148,False,Delayed
+SHP300828,MRK-1005,Neuroplex,Ireland-Plant-02,Chile,Latin America,2025-09-03,24583,BATCH-98904,False,Customs Hold
+SHP300829,MRK-1005,Neuroplex,Ireland-Plant-02,Mexico,North America,2025-01-24,36069,BATCH-37299,False,Delayed
+SHP300830,MRK-1005,Neuroplex,Ireland-Plant-02,Australia,APAC,2024-08-12,17171,BATCH-18596,False,Delayed
+SHP300831,MRK-1007,Pulmocare,Ireland-Plant-02,Chile,Latin America,2025-07-03,43928,BATCH-56391,False,In Transit
+SHP300832,MRK-1005,Neuroplex,NJ-Plant-01,France,EMEA,2025-07-29,49089,BATCH-96684,False,Delayed
+SHP300833,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2026-05-02,32909,BATCH-66908,False,Customs Hold
+SHP300834,MRK-1005,Neuroplex,Singapore-Plant-03,India,APAC,2024-06-06,2420,BATCH-70387,False,Customs Hold
+SHP300835,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2025-06-04,40408,BATCH-41942,True,In Transit
+SHP300836,MRK-1007,Pulmocare,Singapore-Plant-03,France,EMEA,2024-11-03,16481,BATCH-66442,False,Delayed
+SHP300837,MRK-1001,Cardiozin,Ireland-Plant-02,Japan,APAC,2026-02-20,47951,BATCH-51828,False,Delivered
+SHP300838,MRK-1006,Vaxishield,Ireland-Plant-02,Mexico,North America,2024-06-28,35365,BATCH-62545,True,Customs Hold
+SHP300839,MRK-1003,Immunext,Ireland-Plant-02,USA,North America,2025-04-13,13415,BATCH-32572,True,In Transit
+SHP300840,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2024-08-20,48885,BATCH-28596,False,Delayed
+SHP300841,MRK-1005,Neuroplex,NJ-Plant-01,Japan,APAC,2024-09-04,37346,BATCH-18314,False,Customs Hold
+SHP300842,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2024-04-22,23722,BATCH-98681,True,In Transit
+SHP300843,MRK-1001,Cardiozin,NJ-Plant-01,Australia,APAC,2024-01-24,43618,BATCH-83705,False,Delivered
+SHP300844,MRK-1005,Neuroplex,NJ-Plant-01,France,EMEA,2024-08-20,4742,BATCH-70816,False,Delayed
+SHP300845,MRK-1004,Glucostat,NJ-Plant-01,South Africa,EMEA,2025-09-27,22166,BATCH-20311,False,Delivered
+SHP300846,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2025-11-03,23607,BATCH-13826,False,Delayed
+SHP300847,MRK-1003,Immunext,Ireland-Plant-02,Argentina,Latin America,2024-07-08,30693,BATCH-29528,True,Customs Hold
+SHP300848,MRK-1007,Pulmocare,NJ-Plant-01,France,EMEA,2024-04-23,45844,BATCH-78625,False,Delayed
+SHP300849,MRK-1008,Dermalyx,Singapore-Plant-03,UK,EMEA,2025-07-21,47352,BATCH-55887,False,Delayed
+SHP300850,MRK-1005,Neuroplex,Ireland-Plant-02,Japan,APAC,2024-09-22,41913,BATCH-15371,False,Delivered
+SHP300851,MRK-1004,Glucostat,Singapore-Plant-03,Japan,APAC,2024-03-21,31736,BATCH-49903,False,Delayed
+SHP300852,MRK-1006,Vaxishield,Singapore-Plant-03,India,APAC,2025-12-06,30237,BATCH-14096,True,Customs Hold
+SHP300853,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2025-07-10,7555,BATCH-69720,True,In Transit
+SHP300854,MRK-1004,Glucostat,NJ-Plant-01,Argentina,Latin America,2025-01-29,6756,BATCH-21386,False,Delayed
+SHP300855,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2026-01-06,47811,BATCH-31860,False,Customs Hold
+SHP300856,MRK-1005,Neuroplex,NJ-Plant-01,USA,North America,2026-02-10,28307,BATCH-77331,False,Delayed
+SHP300857,MRK-1002,Oncavera,Singapore-Plant-03,Argentina,Latin America,2024-06-12,1425,BATCH-91452,False,Delivered
+SHP300858,MRK-1007,Pulmocare,NJ-Plant-01,Germany,EMEA,2025-09-09,28777,BATCH-12644,False,In Transit
+SHP300859,MRK-1006,Vaxishield,NJ-Plant-01,Canada,North America,2026-02-01,32879,BATCH-50732,True,Delayed
+SHP300860,MRK-1001,Cardiozin,Singapore-Plant-03,India,APAC,2026-07-28,8694,BATCH-64889,False,Customs Hold
+SHP300861,MRK-1004,Glucostat,Ireland-Plant-02,USA,North America,2026-02-17,14610,BATCH-40035,False,Delivered
+SHP300862,MRK-1005,Neuroplex,Singapore-Plant-03,Japan,APAC,2025-11-04,19620,BATCH-29956,False,Delivered
+SHP300863,MRK-1003,Immunext,Ireland-Plant-02,India,APAC,2025-02-14,20015,BATCH-16055,True,In Transit
+SHP300864,MRK-1003,Immunext,NJ-Plant-01,Germany,EMEA,2024-09-09,17234,BATCH-71784,True,Delayed
+SHP300865,MRK-1006,Vaxishield,Singapore-Plant-03,Argentina,Latin America,2025-04-22,12611,BATCH-89905,True,Delivered
+SHP300866,MRK-1002,Oncavera,Singapore-Plant-03,Australia,APAC,2025-08-27,2091,BATCH-47386,False,Delayed
+SHP300867,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2026-05-21,46850,BATCH-94790,False,Delayed
+SHP300868,MRK-1004,Glucostat,NJ-Plant-01,Chile,Latin America,2025-01-16,15247,BATCH-14998,False,In Transit
+SHP300869,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2025-11-25,42607,BATCH-52033,False,Delivered
+SHP300870,MRK-1007,Pulmocare,Singapore-Plant-03,Germany,EMEA,2025-11-20,31151,BATCH-26581,False,Customs Hold
+SHP300871,MRK-1006,Vaxishield,Singapore-Plant-03,Canada,North America,2024-08-06,11098,BATCH-24620,True,Customs Hold
+SHP300872,MRK-1003,Immunext,Singapore-Plant-03,Mexico,North America,2024-02-24,48416,BATCH-74116,True,In Transit
+SHP300873,MRK-1003,Immunext,NJ-Plant-01,Germany,EMEA,2025-08-30,36541,BATCH-62044,True,Delivered
+SHP300874,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2025-11-26,30679,BATCH-73444,True,Delivered
+SHP300875,MRK-1001,Cardiozin,Singapore-Plant-03,India,APAC,2025-08-01,34175,BATCH-69142,False,Customs Hold
+SHP300876,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2024-10-26,23192,BATCH-91100,False,Delivered
+SHP300877,MRK-1006,Vaxishield,Ireland-Plant-02,Germany,EMEA,2024-09-17,18467,BATCH-16700,True,Delivered
+SHP300878,MRK-1003,Immunext,Ireland-Plant-02,USA,North America,2026-03-05,42849,BATCH-78254,True,In Transit
+SHP300879,MRK-1008,Dermalyx,Singapore-Plant-03,USA,North America,2026-02-01,20795,BATCH-55379,False,Delivered
+SHP300880,MRK-1003,Immunext,NJ-Plant-01,South Korea,APAC,2025-04-08,26491,BATCH-41161,True,Delivered
+SHP300881,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2026-03-10,47609,BATCH-45801,False,Customs Hold
+SHP300882,MRK-1008,Dermalyx,Singapore-Plant-03,Australia,APAC,2025-10-02,5009,BATCH-29162,False,In Transit
+SHP300883,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2024-03-18,16463,BATCH-97166,False,In Transit
+SHP300884,MRK-1008,Dermalyx,Ireland-Plant-02,Germany,EMEA,2024-02-19,49674,BATCH-23124,False,In Transit
+SHP300885,MRK-1004,Glucostat,Singapore-Plant-03,South Korea,APAC,2024-03-02,7089,BATCH-50698,False,In Transit
+SHP300886,MRK-1003,Immunext,Singapore-Plant-03,USA,North America,2024-08-28,35589,BATCH-81683,True,In Transit
+SHP300887,MRK-1006,Vaxishield,Singapore-Plant-03,UK,EMEA,2024-02-02,36556,BATCH-35819,True,Delivered
+SHP300888,MRK-1007,Pulmocare,Ireland-Plant-02,Mexico,North America,2026-03-09,42257,BATCH-39132,False,Customs Hold
+SHP300889,MRK-1001,Cardiozin,Ireland-Plant-02,Germany,EMEA,2025-10-26,46467,BATCH-42182,False,Customs Hold
+SHP300890,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2025-06-06,39330,BATCH-50141,False,Customs Hold
+SHP300891,MRK-1007,Pulmocare,NJ-Plant-01,Brazil,Latin America,2024-02-17,3301,BATCH-56345,False,In Transit
+SHP300892,MRK-1002,Oncavera,Ireland-Plant-02,Japan,APAC,2026-03-10,3800,BATCH-11158,False,Customs Hold
+SHP300893,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2024-10-02,37241,BATCH-13615,False,Delayed
+SHP300894,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2025-04-14,920,BATCH-58668,False,Delivered
+SHP300895,MRK-1002,Oncavera,Ireland-Plant-02,Mexico,North America,2024-09-28,42612,BATCH-57422,False,Delayed
+SHP300896,MRK-1006,Vaxishield,Singapore-Plant-03,Chile,Latin America,2025-04-28,9790,BATCH-61829,True,Delayed
+SHP300897,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2025-09-06,12693,BATCH-66070,True,Customs Hold
+SHP300898,MRK-1002,Oncavera,Singapore-Plant-03,South Africa,EMEA,2025-04-01,48627,BATCH-25247,False,Customs Hold
+SHP300899,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2025-08-21,23724,BATCH-23965,True,In Transit
+SHP300900,MRK-1007,Pulmocare,NJ-Plant-01,Argentina,Latin America,2025-07-10,14836,BATCH-58792,False,Delayed
+SHP300901,MRK-1008,Dermalyx,Singapore-Plant-03,South Africa,EMEA,2024-04-10,13318,BATCH-78780,False,Customs Hold
+SHP300902,MRK-1005,Neuroplex,NJ-Plant-01,USA,North America,2026-01-16,9661,BATCH-95888,False,Delayed
+SHP300903,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2024-10-31,26123,BATCH-33056,False,Customs Hold
+SHP300904,MRK-1007,Pulmocare,Singapore-Plant-03,UK,EMEA,2024-01-01,19954,BATCH-24476,False,Delivered
+SHP300905,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2025-12-01,20042,BATCH-92078,False,Delivered
+SHP300906,MRK-1006,Vaxishield,NJ-Plant-01,France,EMEA,2025-06-07,15361,BATCH-88769,True,Customs Hold
+SHP300907,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2024-09-25,31904,BATCH-42801,False,Customs Hold
+SHP300908,MRK-1006,Vaxishield,Singapore-Plant-03,Chile,Latin America,2025-08-01,25895,BATCH-76914,True,Customs Hold
+SHP300909,MRK-1001,Cardiozin,NJ-Plant-01,South Africa,EMEA,2025-07-18,37117,BATCH-10391,False,Delivered
+SHP300910,MRK-1005,Neuroplex,Singapore-Plant-03,South Africa,EMEA,2025-11-30,40041,BATCH-39863,False,Customs Hold
+SHP300911,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2025-08-13,12370,BATCH-29001,False,Delivered
+SHP300912,MRK-1003,Immunext,Singapore-Plant-03,Brazil,Latin America,2025-01-27,22115,BATCH-39236,True,Delayed
+SHP300913,MRK-1002,Oncavera,Singapore-Plant-03,Canada,North America,2024-02-21,25214,BATCH-99861,False,In Transit
+SHP300914,MRK-1002,Oncavera,NJ-Plant-01,Mexico,North America,2025-04-07,11663,BATCH-77313,False,In Transit
+SHP300915,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2025-06-15,13120,BATCH-21469,False,Delivered
+SHP300916,MRK-1008,Dermalyx,Ireland-Plant-02,Chile,Latin America,2024-02-24,31987,BATCH-98754,False,Customs Hold
+SHP300917,MRK-1005,Neuroplex,Ireland-Plant-02,Argentina,Latin America,2025-08-18,40758,BATCH-91825,False,Delivered
+SHP300918,MRK-1006,Vaxishield,NJ-Plant-01,UK,EMEA,2024-04-19,32634,BATCH-24467,True,Delayed
+SHP300919,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2024-12-30,34367,BATCH-22441,False,Delivered
+SHP300920,MRK-1001,Cardiozin,Singapore-Plant-03,Brazil,Latin America,2025-05-19,14345,BATCH-99746,False,Delayed
+SHP300921,MRK-1007,Pulmocare,NJ-Plant-01,Germany,EMEA,2025-02-21,13614,BATCH-32041,False,Customs Hold
+SHP300922,MRK-1006,Vaxishield,Singapore-Plant-03,South Korea,APAC,2026-04-17,12165,BATCH-64318,True,Delivered
+SHP300923,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2024-08-11,32481,BATCH-76468,False,Delivered
+SHP300924,MRK-1002,Oncavera,NJ-Plant-01,Germany,EMEA,2025-02-05,35260,BATCH-16207,False,Delivered
+SHP300925,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2024-03-19,28419,BATCH-55620,False,In Transit
+SHP300926,MRK-1003,Immunext,NJ-Plant-01,Canada,North America,2024-08-15,45788,BATCH-65258,True,Delivered
+SHP300927,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2025-09-20,35029,BATCH-45095,False,Delivered
+SHP300928,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2024-09-05,31709,BATCH-31409,False,Delayed
+SHP300929,MRK-1005,Neuroplex,Ireland-Plant-02,Australia,APAC,2025-05-30,15239,BATCH-65194,False,In Transit
+SHP300930,MRK-1002,Oncavera,Singapore-Plant-03,South Africa,EMEA,2026-05-21,18748,BATCH-38551,False,In Transit
+SHP300931,MRK-1003,Immunext,Ireland-Plant-02,Australia,APAC,2024-04-18,29201,BATCH-19140,True,In Transit
+SHP300932,MRK-1006,Vaxishield,Ireland-Plant-02,Mexico,North America,2026-01-26,17150,BATCH-65177,True,In Transit
+SHP300933,MRK-1002,Oncavera,NJ-Plant-01,UK,EMEA,2025-02-19,2945,BATCH-81041,False,Customs Hold
+SHP300934,MRK-1004,Glucostat,NJ-Plant-01,Australia,APAC,2024-09-21,6900,BATCH-82726,False,Delayed
+SHP300935,MRK-1006,Vaxishield,NJ-Plant-01,Germany,EMEA,2024-11-17,26033,BATCH-16910,True,In Transit
+SHP300936,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2025-02-13,34664,BATCH-54259,False,Delivered
+SHP300937,MRK-1007,Pulmocare,Singapore-Plant-03,Australia,APAC,2026-06-22,38464,BATCH-70924,False,In Transit
+SHP300938,MRK-1005,Neuroplex,Singapore-Plant-03,Mexico,North America,2026-02-06,40560,BATCH-33047,False,Delivered
+SHP300939,MRK-1008,Dermalyx,Ireland-Plant-02,Chile,Latin America,2026-03-06,12832,BATCH-95308,False,Delivered
+SHP300940,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2024-03-06,4860,BATCH-38284,False,Customs Hold
+SHP300941,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2024-01-30,31840,BATCH-27836,False,Delivered
+SHP300942,MRK-1008,Dermalyx,NJ-Plant-01,France,EMEA,2024-01-12,46791,BATCH-50059,False,In Transit
+SHP300943,MRK-1003,Immunext,Singapore-Plant-03,France,EMEA,2024-04-06,45611,BATCH-78840,True,In Transit
+SHP300944,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2026-07-23,16597,BATCH-40761,False,Customs Hold
+SHP300945,MRK-1006,Vaxishield,NJ-Plant-01,Japan,APAC,2024-04-06,36169,BATCH-95041,True,Delayed
+SHP300946,MRK-1005,Neuroplex,Ireland-Plant-02,India,APAC,2024-10-30,36724,BATCH-30355,False,Delivered
+SHP300947,MRK-1003,Immunext,Ireland-Plant-02,India,APAC,2026-04-07,49910,BATCH-10959,True,Delayed
+SHP300948,MRK-1008,Dermalyx,NJ-Plant-01,Argentina,Latin America,2025-12-19,6454,BATCH-97596,False,Customs Hold
+SHP300949,MRK-1002,Oncavera,Singapore-Plant-03,South Korea,APAC,2024-10-07,1028,BATCH-85491,False,Delayed
+SHP300950,MRK-1002,Oncavera,Singapore-Plant-03,South Korea,APAC,2024-12-25,13109,BATCH-80667,False,Delivered
+SHP300951,MRK-1004,Glucostat,Singapore-Plant-03,Brazil,Latin America,2024-11-23,20884,BATCH-27594,False,Delayed
+SHP300952,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2025-10-10,41367,BATCH-76659,True,In Transit
+SHP300953,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2026-07-12,5126,BATCH-94279,False,In Transit
+SHP300954,MRK-1006,Vaxishield,NJ-Plant-01,Argentina,Latin America,2025-09-23,18009,BATCH-85747,True,In Transit
+SHP300955,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2025-05-06,25549,BATCH-60017,False,Customs Hold
+SHP300956,MRK-1007,Pulmocare,NJ-Plant-01,UK,EMEA,2025-08-06,23239,BATCH-40371,False,Customs Hold
+SHP300957,MRK-1002,Oncavera,Singapore-Plant-03,Japan,APAC,2026-05-04,4787,BATCH-81010,False,In Transit
+SHP300958,MRK-1001,Cardiozin,Singapore-Plant-03,France,EMEA,2024-05-09,18879,BATCH-92696,False,In Transit
+SHP300959,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2025-03-10,44628,BATCH-77159,False,In Transit
+SHP300960,MRK-1005,Neuroplex,Singapore-Plant-03,Brazil,Latin America,2024-07-25,20154,BATCH-77815,False,In Transit
+SHP300961,MRK-1004,Glucostat,NJ-Plant-01,India,APAC,2025-04-28,24809,BATCH-79050,False,Customs Hold
+SHP300962,MRK-1007,Pulmocare,Ireland-Plant-02,Japan,APAC,2025-06-03,28985,BATCH-47744,False,In Transit
+SHP300963,MRK-1005,Neuroplex,NJ-Plant-01,UK,EMEA,2025-01-27,41146,BATCH-82677,False,Delayed
+SHP300964,MRK-1006,Vaxishield,Ireland-Plant-02,Canada,North America,2024-10-02,13882,BATCH-12845,True,Delayed
+SHP300965,MRK-1003,Immunext,Singapore-Plant-03,Australia,APAC,2026-06-19,31931,BATCH-11082,True,In Transit
+SHP300966,MRK-1007,Pulmocare,Ireland-Plant-02,Argentina,Latin America,2024-11-30,14231,BATCH-88766,False,Delivered
+SHP300967,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2024-02-15,17448,BATCH-26331,False,In Transit
+SHP300968,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2026-03-28,39081,BATCH-45909,False,In Transit
+SHP300969,MRK-1008,Dermalyx,Singapore-Plant-03,France,EMEA,2024-10-18,48968,BATCH-90022,False,Customs Hold
+SHP300970,MRK-1007,Pulmocare,Singapore-Plant-03,Argentina,Latin America,2025-04-05,39103,BATCH-90123,False,Delayed
+SHP300971,MRK-1008,Dermalyx,Ireland-Plant-02,Canada,North America,2025-12-18,7479,BATCH-94210,False,Delivered
+SHP300972,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2026-05-16,17595,BATCH-67712,False,Delivered
+SHP300973,MRK-1002,Oncavera,Ireland-Plant-02,USA,North America,2026-03-28,34814,BATCH-68724,False,Delivered
+SHP300974,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2026-04-29,23994,BATCH-66640,True,Delayed
+SHP300975,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2025-07-09,48208,BATCH-65361,False,Delivered
+SHP300976,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2025-11-09,19671,BATCH-83790,False,In Transit
+SHP300977,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2025-01-11,40522,BATCH-67008,False,Delayed
+SHP300978,MRK-1001,Cardiozin,Singapore-Plant-03,Australia,APAC,2026-02-16,1590,BATCH-53925,False,Customs Hold
+SHP300979,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2024-12-17,20872,BATCH-27788,False,Delayed
+SHP300980,MRK-1003,Immunext,Singapore-Plant-03,Brazil,Latin America,2025-04-27,46572,BATCH-87047,True,In Transit
+SHP300981,MRK-1006,Vaxishield,NJ-Plant-01,Brazil,Latin America,2024-11-03,2681,BATCH-53311,True,Delivered
+SHP300982,MRK-1004,Glucostat,NJ-Plant-01,South Korea,APAC,2025-03-14,49296,BATCH-59334,False,Delayed
+SHP300983,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2025-06-13,42890,BATCH-85100,False,In Transit
+SHP300984,MRK-1007,Pulmocare,Ireland-Plant-02,Mexico,North America,2025-01-29,13336,BATCH-77128,False,Delayed
+SHP300985,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2026-05-10,6043,BATCH-20415,False,In Transit
+SHP300986,MRK-1008,Dermalyx,Singapore-Plant-03,Chile,Latin America,2024-12-07,6008,BATCH-95003,False,In Transit
+SHP300987,MRK-1001,Cardiozin,Ireland-Plant-02,Australia,APAC,2024-05-30,46906,BATCH-70249,False,Delayed
+SHP300988,MRK-1007,Pulmocare,Ireland-Plant-02,Brazil,Latin America,2026-07-01,14671,BATCH-52932,False,Customs Hold
+SHP300989,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2026-02-04,28186,BATCH-43256,True,Delayed
+SHP300990,MRK-1005,Neuroplex,Singapore-Plant-03,France,EMEA,2025-02-16,33836,BATCH-59482,False,In Transit
+SHP300991,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2024-03-14,44688,BATCH-35713,False,In Transit
+SHP300992,MRK-1006,Vaxishield,Ireland-Plant-02,Chile,Latin America,2025-03-07,6318,BATCH-16267,True,Customs Hold
+SHP300993,MRK-1004,Glucostat,Ireland-Plant-02,Canada,North America,2024-11-04,18846,BATCH-70422,False,Customs Hold
+SHP300994,MRK-1007,Pulmocare,Ireland-Plant-02,South Africa,EMEA,2026-06-30,9406,BATCH-42113,False,Customs Hold
+SHP300995,MRK-1008,Dermalyx,Singapore-Plant-03,Japan,APAC,2025-06-05,40755,BATCH-89358,False,Customs Hold
+SHP300996,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2026-03-02,25032,BATCH-45732,False,Delayed
+SHP300997,MRK-1004,Glucostat,Ireland-Plant-02,Australia,APAC,2024-05-21,38998,BATCH-34937,False,Customs Hold
+SHP300998,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2026-02-10,16230,BATCH-61025,False,Customs Hold
+SHP300999,MRK-1007,Pulmocare,NJ-Plant-01,Argentina,Latin America,2024-01-26,17876,BATCH-12952,False,Customs Hold
+SHP301000,MRK-1007,Pulmocare,Singapore-Plant-03,Argentina,Latin America,2024-03-23,20693,BATCH-68346,False,Delayed
+SHP301001,MRK-1004,Glucostat,Ireland-Plant-02,Japan,APAC,2024-03-18,21280,BATCH-37223,False,In Transit
+SHP301002,MRK-1001,Cardiozin,NJ-Plant-01,USA,North America,2025-10-20,47530,BATCH-84838,False,Delayed
+SHP301003,MRK-1001,Cardiozin,Singapore-Plant-03,Argentina,Latin America,2025-02-11,23900,BATCH-76353,False,In Transit
+SHP301004,MRK-1004,Glucostat,Singapore-Plant-03,Australia,APAC,2024-12-17,16501,BATCH-53716,False,Customs Hold
+SHP301005,MRK-1006,Vaxishield,Singapore-Plant-03,France,EMEA,2024-07-03,13625,BATCH-27056,True,Customs Hold
+SHP301006,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2025-11-30,44481,BATCH-14825,False,Delayed
+SHP301007,MRK-1008,Dermalyx,NJ-Plant-01,Mexico,North America,2026-01-24,5656,BATCH-17855,False,In Transit
+SHP301008,MRK-1005,Neuroplex,Singapore-Plant-03,South Korea,APAC,2024-03-20,5655,BATCH-88361,False,Customs Hold
+SHP301009,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2025-07-14,7171,BATCH-51717,True,In Transit
+SHP301010,MRK-1008,Dermalyx,Ireland-Plant-02,South Korea,APAC,2025-03-12,5513,BATCH-50162,False,Customs Hold
+SHP301011,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2025-06-06,42628,BATCH-63524,False,Customs Hold
+SHP301012,MRK-1001,Cardiozin,Ireland-Plant-02,South Korea,APAC,2026-01-20,38743,BATCH-62415,False,Customs Hold
+SHP301013,MRK-1003,Immunext,NJ-Plant-01,Mexico,North America,2025-01-16,47162,BATCH-58347,True,Customs Hold
+SHP301014,MRK-1006,Vaxishield,Singapore-Plant-03,Japan,APAC,2025-06-23,42567,BATCH-18886,True,Delayed
+SHP301015,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2024-01-04,48340,BATCH-85268,True,In Transit
+SHP301016,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2026-05-25,1636,BATCH-46469,False,Customs Hold
+SHP301017,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2026-07-25,10695,BATCH-43210,False,Delivered
+SHP301018,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2026-06-15,6282,BATCH-60927,True,Customs Hold
+SHP301019,MRK-1001,Cardiozin,NJ-Plant-01,South Korea,APAC,2024-11-10,30061,BATCH-37946,False,Delivered
+SHP301020,MRK-1005,Neuroplex,Ireland-Plant-02,Chile,Latin America,2026-01-28,33290,BATCH-31975,False,Delayed
+SHP301021,MRK-1008,Dermalyx,NJ-Plant-01,Australia,APAC,2026-04-27,8901,BATCH-34638,False,Delayed
+SHP301022,MRK-1005,Neuroplex,Singapore-Plant-03,Japan,APAC,2024-01-18,49409,BATCH-31821,False,In Transit
+SHP301023,MRK-1008,Dermalyx,Singapore-Plant-03,France,EMEA,2024-03-25,35710,BATCH-99385,False,Customs Hold
+SHP301024,MRK-1007,Pulmocare,NJ-Plant-01,South Korea,APAC,2025-05-05,20321,BATCH-36710,False,Delivered
+SHP301025,MRK-1004,Glucostat,NJ-Plant-01,Japan,APAC,2025-06-01,44691,BATCH-11135,False,In Transit
+SHP301026,MRK-1006,Vaxishield,Ireland-Plant-02,India,APAC,2024-09-30,27920,BATCH-80059,True,Delivered
+SHP301027,MRK-1006,Vaxishield,Singapore-Plant-03,France,EMEA,2025-10-15,11496,BATCH-25588,True,Customs Hold
+SHP301028,MRK-1006,Vaxishield,Singapore-Plant-03,Japan,APAC,2026-04-08,38336,BATCH-49791,True,Delivered
+SHP301029,MRK-1003,Immunext,NJ-Plant-01,Argentina,Latin America,2025-01-04,34501,BATCH-59386,True,Customs Hold
+SHP301030,MRK-1006,Vaxishield,NJ-Plant-01,UK,EMEA,2025-07-04,13969,BATCH-87017,True,In Transit
+SHP301031,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2026-07-01,47455,BATCH-17272,False,In Transit
+SHP301032,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2024-07-12,17481,BATCH-89521,False,In Transit
+SHP301033,MRK-1005,Neuroplex,Ireland-Plant-02,Germany,EMEA,2025-12-06,40363,BATCH-85265,False,Customs Hold
+SHP301034,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2026-01-23,7158,BATCH-18298,False,Delayed
+SHP301035,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2024-10-29,6442,BATCH-48760,True,Customs Hold
+SHP301036,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2024-03-26,22280,BATCH-56708,False,Delayed
+SHP301037,MRK-1004,Glucostat,NJ-Plant-01,USA,North America,2024-11-24,15144,BATCH-34878,False,Delivered
+SHP301038,MRK-1005,Neuroplex,Singapore-Plant-03,Japan,APAC,2025-04-05,29398,BATCH-21527,False,Delivered
+SHP301039,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2025-09-20,36481,BATCH-96985,False,Delayed
+SHP301040,MRK-1006,Vaxishield,Ireland-Plant-02,Argentina,Latin America,2026-01-29,46894,BATCH-41113,True,Delayed
+SHP301041,MRK-1006,Vaxishield,Singapore-Plant-03,Japan,APAC,2026-03-12,37092,BATCH-34086,True,Delivered
+SHP301042,MRK-1003,Immunext,Ireland-Plant-02,Chile,Latin America,2026-05-28,39687,BATCH-54727,True,In Transit
+SHP301043,MRK-1001,Cardiozin,Singapore-Plant-03,Argentina,Latin America,2025-12-01,5876,BATCH-23497,False,Delivered
+SHP301044,MRK-1007,Pulmocare,Singapore-Plant-03,Mexico,North America,2026-02-05,25563,BATCH-59877,False,Delivered
+SHP301045,MRK-1001,Cardiozin,Singapore-Plant-03,Mexico,North America,2026-01-14,35000,BATCH-27355,False,In Transit
+SHP301046,MRK-1005,Neuroplex,NJ-Plant-01,Germany,EMEA,2025-02-18,35597,BATCH-64709,False,In Transit
+SHP301047,MRK-1003,Immunext,Ireland-Plant-02,Mexico,North America,2026-04-10,33216,BATCH-93628,True,Customs Hold
+SHP301048,MRK-1003,Immunext,NJ-Plant-01,Chile,Latin America,2025-08-05,25499,BATCH-13994,True,In Transit
+SHP301049,MRK-1005,Neuroplex,NJ-Plant-01,Chile,Latin America,2026-03-29,46926,BATCH-10508,False,Delivered
+SHP301050,MRK-1006,Vaxishield,Singapore-Plant-03,UK,EMEA,2025-11-08,42059,BATCH-93040,True,Delayed
+SHP301051,MRK-1008,Dermalyx,Ireland-Plant-02,UK,EMEA,2025-07-18,41610,BATCH-16443,False,In Transit
+SHP301052,MRK-1003,Immunext,Singapore-Plant-03,Germany,EMEA,2024-02-17,42796,BATCH-70725,True,Delayed
+SHP301053,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2024-05-11,17151,BATCH-82941,True,Customs Hold
+SHP301054,MRK-1002,Oncavera,Ireland-Plant-02,France,EMEA,2024-03-31,19848,BATCH-34414,False,Delivered
+SHP301055,MRK-1006,Vaxishield,Singapore-Plant-03,Mexico,North America,2024-05-30,41902,BATCH-62354,True,Delivered
+SHP301056,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2025-07-19,2379,BATCH-33845,False,Delayed
+SHP301057,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2026-05-17,20189,BATCH-44536,False,Customs Hold
+SHP301058,MRK-1007,Pulmocare,NJ-Plant-01,Japan,APAC,2026-01-05,38482,BATCH-43708,False,Delivered
+SHP301059,MRK-1006,Vaxishield,NJ-Plant-01,Argentina,Latin America,2025-12-05,17512,BATCH-14623,True,Delivered
+SHP301060,MRK-1007,Pulmocare,NJ-Plant-01,Australia,APAC,2025-03-17,9317,BATCH-77478,False,Customs Hold
+SHP301061,MRK-1008,Dermalyx,Singapore-Plant-03,Argentina,Latin America,2025-03-11,46195,BATCH-91715,False,In Transit
+SHP301062,MRK-1002,Oncavera,Ireland-Plant-02,South Africa,EMEA,2025-11-05,3938,BATCH-94823,False,In Transit
+SHP301063,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2024-04-10,48139,BATCH-82877,True,Customs Hold
+SHP301064,MRK-1001,Cardiozin,Ireland-Plant-02,South Korea,APAC,2026-04-30,39108,BATCH-97216,False,Customs Hold
+SHP301065,MRK-1002,Oncavera,NJ-Plant-01,USA,North America,2025-06-05,1592,BATCH-53158,False,Delivered
+SHP301066,MRK-1005,Neuroplex,Singapore-Plant-03,India,APAC,2025-07-27,11542,BATCH-84650,False,Delayed
+SHP301067,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2025-12-29,49880,BATCH-44028,False,Customs Hold
+SHP301068,MRK-1001,Cardiozin,NJ-Plant-01,India,APAC,2024-11-11,29368,BATCH-83504,False,In Transit
+SHP301069,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2025-02-22,31579,BATCH-93834,True,Delivered
+SHP301070,MRK-1006,Vaxishield,Ireland-Plant-02,UK,EMEA,2025-11-04,48351,BATCH-74674,True,Delivered
+SHP301071,MRK-1005,Neuroplex,Ireland-Plant-02,Chile,Latin America,2025-06-25,49534,BATCH-53480,False,Customs Hold
+SHP301072,MRK-1003,Immunext,Singapore-Plant-03,France,EMEA,2026-03-03,43985,BATCH-80096,True,In Transit
+SHP301073,MRK-1003,Immunext,Singapore-Plant-03,Germany,EMEA,2026-02-17,7760,BATCH-38617,True,In Transit
+SHP301074,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2024-02-12,29125,BATCH-77402,False,Delayed
+SHP301075,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2025-05-11,27337,BATCH-74908,False,Delivered
+SHP301076,MRK-1007,Pulmocare,NJ-Plant-01,Australia,APAC,2026-03-31,36653,BATCH-72866,False,Delayed
+SHP301077,MRK-1005,Neuroplex,NJ-Plant-01,South Korea,APAC,2024-12-08,10104,BATCH-40284,False,Delayed
+SHP301078,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2024-11-26,23084,BATCH-53221,False,In Transit
+SHP301079,MRK-1008,Dermalyx,Singapore-Plant-03,South Korea,APAC,2024-10-10,6200,BATCH-18437,False,Delayed
+SHP301080,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2025-03-30,21683,BATCH-95447,False,Delivered
+SHP301081,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2024-12-08,15181,BATCH-90363,False,Customs Hold
+SHP301082,MRK-1006,Vaxishield,Singapore-Plant-03,Japan,APAC,2026-02-24,23974,BATCH-67125,True,Delayed
+SHP301083,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2025-06-26,39746,BATCH-41140,False,Delivered
+SHP301084,MRK-1001,Cardiozin,NJ-Plant-01,France,EMEA,2026-01-24,33550,BATCH-17998,False,Delivered
+SHP301085,MRK-1007,Pulmocare,Ireland-Plant-02,Germany,EMEA,2024-03-28,48761,BATCH-85445,False,Customs Hold
+SHP301086,MRK-1003,Immunext,Singapore-Plant-03,France,EMEA,2024-05-28,8774,BATCH-46800,True,In Transit
+SHP301087,MRK-1005,Neuroplex,Singapore-Plant-03,South Africa,EMEA,2025-01-25,27383,BATCH-16398,False,Delayed
+SHP301088,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2026-04-03,42034,BATCH-14402,False,Delayed
+SHP301089,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2026-07-20,20161,BATCH-10656,False,Delivered
+SHP301090,MRK-1006,Vaxishield,Ireland-Plant-02,South Africa,EMEA,2026-02-04,16360,BATCH-79072,True,Customs Hold
+SHP301091,MRK-1007,Pulmocare,Ireland-Plant-02,Brazil,Latin America,2024-12-20,21884,BATCH-45725,False,Customs Hold
+SHP301092,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2025-08-22,10608,BATCH-15361,False,Customs Hold
+SHP301093,MRK-1008,Dermalyx,NJ-Plant-01,South Korea,APAC,2025-10-10,46408,BATCH-74981,False,In Transit
+SHP301094,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2025-02-08,46163,BATCH-91795,False,Delivered
+SHP301095,MRK-1002,Oncavera,Singapore-Plant-03,France,EMEA,2025-02-22,29627,BATCH-92121,False,In Transit
+SHP301096,MRK-1006,Vaxishield,Ireland-Plant-02,USA,North America,2024-03-28,23923,BATCH-95066,True,In Transit
+SHP301097,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2025-05-24,30252,BATCH-51946,False,In Transit
+SHP301098,MRK-1002,Oncavera,Ireland-Plant-02,South Africa,EMEA,2024-07-05,27814,BATCH-38513,False,Delayed
+SHP301099,MRK-1007,Pulmocare,Ireland-Plant-02,Chile,Latin America,2025-06-08,17997,BATCH-61829,False,Delivered
+SHP301100,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2026-04-30,23004,BATCH-97333,False,Delivered
+SHP301101,MRK-1002,Oncavera,NJ-Plant-01,Argentina,Latin America,2025-01-18,24769,BATCH-30077,False,Delayed
+SHP301102,MRK-1005,Neuroplex,Ireland-Plant-02,Canada,North America,2025-09-10,11327,BATCH-37001,False,Delivered
+SHP301103,MRK-1007,Pulmocare,NJ-Plant-01,India,APAC,2025-06-16,44603,BATCH-77810,False,Delayed
+SHP301104,MRK-1008,Dermalyx,Ireland-Plant-02,South Korea,APAC,2025-03-31,28967,BATCH-59707,False,Delayed
+SHP301105,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2025-01-05,21874,BATCH-90315,False,Delayed
+SHP301106,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2026-02-23,28805,BATCH-71702,False,Customs Hold
+SHP301107,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2026-03-30,37441,BATCH-28463,False,Delivered
+SHP301108,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2025-02-18,45977,BATCH-49119,False,Delivered
+SHP301109,MRK-1006,Vaxishield,Ireland-Plant-02,France,EMEA,2025-08-30,30896,BATCH-26382,True,Delivered
+SHP301110,MRK-1001,Cardiozin,Ireland-Plant-02,USA,North America,2024-12-07,42669,BATCH-70600,False,Customs Hold
+SHP301111,MRK-1004,Glucostat,NJ-Plant-01,Australia,APAC,2024-09-03,43964,BATCH-96410,False,Delayed
+SHP301112,MRK-1008,Dermalyx,Ireland-Plant-02,UK,EMEA,2024-12-26,24439,BATCH-75599,False,Delayed
+SHP301113,MRK-1007,Pulmocare,Ireland-Plant-02,Japan,APAC,2024-08-16,22953,BATCH-94955,False,Customs Hold
+SHP301114,MRK-1005,Neuroplex,Singapore-Plant-03,Canada,North America,2025-06-30,22048,BATCH-59033,False,Customs Hold
+SHP301115,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2024-08-31,9974,BATCH-58066,False,Delayed
+SHP301116,MRK-1006,Vaxishield,Ireland-Plant-02,Mexico,North America,2026-02-06,38646,BATCH-73698,True,Delayed
+SHP301117,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2025-10-31,27290,BATCH-15807,False,In Transit
+SHP301118,MRK-1005,Neuroplex,NJ-Plant-01,USA,North America,2025-02-24,11486,BATCH-37971,False,Delayed
+SHP301119,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2024-01-19,30975,BATCH-42980,False,Customs Hold
+SHP301120,MRK-1008,Dermalyx,Singapore-Plant-03,Canada,North America,2026-01-17,32789,BATCH-87315,False,Customs Hold
+SHP301121,MRK-1004,Glucostat,Singapore-Plant-03,Japan,APAC,2025-07-23,23391,BATCH-51856,False,Delayed
+SHP301122,MRK-1001,Cardiozin,Singapore-Plant-03,South Africa,EMEA,2024-10-17,24935,BATCH-62746,False,Delivered
+SHP301123,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2024-07-14,40377,BATCH-23208,False,Delivered
+SHP301124,MRK-1002,Oncavera,NJ-Plant-01,Argentina,Latin America,2025-09-22,44920,BATCH-96383,False,Delivered
+SHP301125,MRK-1002,Oncavera,Ireland-Plant-02,Chile,Latin America,2024-02-06,25614,BATCH-85075,False,Delayed
+SHP301126,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2025-03-18,46422,BATCH-33343,False,Delayed
+SHP301127,MRK-1006,Vaxishield,NJ-Plant-01,Canada,North America,2026-07-14,46613,BATCH-24397,True,Delayed
+SHP301128,MRK-1004,Glucostat,NJ-Plant-01,Argentina,Latin America,2025-02-15,44858,BATCH-56260,False,In Transit
+SHP301129,MRK-1007,Pulmocare,Ireland-Plant-02,Brazil,Latin America,2025-01-11,44658,BATCH-79099,False,Customs Hold
+SHP301130,MRK-1001,Cardiozin,NJ-Plant-01,Brazil,Latin America,2025-04-10,8894,BATCH-79989,False,In Transit
+SHP301131,MRK-1005,Neuroplex,NJ-Plant-01,USA,North America,2024-08-24,23136,BATCH-35408,False,Delivered
+SHP301132,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2024-02-18,40057,BATCH-50617,False,In Transit
+SHP301133,MRK-1008,Dermalyx,Singapore-Plant-03,India,APAC,2025-03-18,27054,BATCH-39493,False,Delayed
+SHP301134,MRK-1008,Dermalyx,Singapore-Plant-03,Argentina,Latin America,2026-02-26,4599,BATCH-45131,False,Delivered
+SHP301135,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2024-02-22,30402,BATCH-39927,False,Delayed
+SHP301136,MRK-1007,Pulmocare,Singapore-Plant-03,India,APAC,2025-02-03,2150,BATCH-32820,False,Delayed
+SHP301137,MRK-1003,Immunext,Ireland-Plant-02,Brazil,Latin America,2026-07-07,48305,BATCH-87502,True,Delayed
+SHP301138,MRK-1002,Oncavera,NJ-Plant-01,South Africa,EMEA,2025-03-15,38725,BATCH-21594,False,In Transit
+SHP301139,MRK-1003,Immunext,Singapore-Plant-03,UK,EMEA,2024-03-18,17791,BATCH-96202,True,In Transit
+SHP301140,MRK-1006,Vaxishield,Singapore-Plant-03,South Africa,EMEA,2024-03-25,7591,BATCH-74124,True,In Transit
+SHP301141,MRK-1006,Vaxishield,Ireland-Plant-02,South Korea,APAC,2026-02-15,21371,BATCH-44616,True,Delayed
+SHP301142,MRK-1007,Pulmocare,Singapore-Plant-03,India,APAC,2024-07-04,25061,BATCH-51553,False,Delayed
+SHP301143,MRK-1005,Neuroplex,Singapore-Plant-03,USA,North America,2025-06-17,6893,BATCH-79772,False,Delayed
+SHP301144,MRK-1002,Oncavera,NJ-Plant-01,South Africa,EMEA,2026-08-01,30000,BATCH-77005,False,Delivered
+SHP301145,MRK-1006,Vaxishield,Singapore-Plant-03,Germany,EMEA,2024-07-30,36716,BATCH-94340,True,Delivered
+SHP301146,MRK-1004,Glucostat,Ireland-Plant-02,Chile,Latin America,2025-03-15,34119,BATCH-23070,False,Delayed
+SHP301147,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2025-01-26,44458,BATCH-31733,False,Delivered
+SHP301148,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2024-07-22,16420,BATCH-44991,False,Delivered
+SHP301149,MRK-1002,Oncavera,Singapore-Plant-03,USA,North America,2025-03-29,11574,BATCH-37139,False,Customs Hold
+SHP301150,MRK-1001,Cardiozin,Ireland-Plant-02,Germany,EMEA,2025-06-04,32067,BATCH-48152,False,Customs Hold
+SHP301151,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2025-08-09,1192,BATCH-96691,False,Customs Hold
+SHP301152,MRK-1007,Pulmocare,Ireland-Plant-02,Mexico,North America,2024-08-30,30976,BATCH-28924,False,Delayed
+SHP301153,MRK-1001,Cardiozin,Singapore-Plant-03,Argentina,Latin America,2025-10-31,32139,BATCH-18608,False,Customs Hold
+SHP301154,MRK-1003,Immunext,Ireland-Plant-02,Canada,North America,2024-05-30,3239,BATCH-81512,True,Customs Hold
+SHP301155,MRK-1001,Cardiozin,Singapore-Plant-03,Japan,APAC,2025-05-28,26054,BATCH-39146,False,Delivered
+SHP301156,MRK-1004,Glucostat,Singapore-Plant-03,South Africa,EMEA,2026-05-15,19988,BATCH-53058,False,Customs Hold
+SHP301157,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2024-11-01,7655,BATCH-90330,False,Delivered
+SHP301158,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2026-01-05,45371,BATCH-89852,False,Delivered
+SHP301159,MRK-1007,Pulmocare,Singapore-Plant-03,Japan,APAC,2025-08-01,47641,BATCH-73772,False,Delivered
+SHP301160,MRK-1004,Glucostat,NJ-Plant-01,India,APAC,2024-12-10,43885,BATCH-88142,False,Customs Hold
+SHP301161,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2024-03-11,48825,BATCH-83223,False,Delivered
+SHP301162,MRK-1004,Glucostat,Ireland-Plant-02,Chile,Latin America,2024-05-25,38483,BATCH-70889,False,Delivered
+SHP301163,MRK-1008,Dermalyx,NJ-Plant-01,India,APAC,2024-04-30,22265,BATCH-18779,False,In Transit
+SHP301164,MRK-1007,Pulmocare,NJ-Plant-01,France,EMEA,2024-06-24,26814,BATCH-28428,False,In Transit
+SHP301165,MRK-1002,Oncavera,Singapore-Plant-03,Chile,Latin America,2026-01-22,2143,BATCH-76852,False,Customs Hold
+SHP301166,MRK-1006,Vaxishield,NJ-Plant-01,Japan,APAC,2024-05-24,40049,BATCH-36081,True,Delayed
+SHP301167,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2025-11-29,41234,BATCH-20837,False,Delivered
+SHP301168,MRK-1007,Pulmocare,NJ-Plant-01,South Korea,APAC,2024-09-02,21882,BATCH-72916,False,Delayed
+SHP301169,MRK-1006,Vaxishield,Singapore-Plant-03,South Korea,APAC,2025-08-10,14765,BATCH-55240,True,Delivered
+SHP301170,MRK-1001,Cardiozin,NJ-Plant-01,Germany,EMEA,2024-11-07,3585,BATCH-29731,False,In Transit
+SHP301171,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2024-12-04,24593,BATCH-93202,False,Customs Hold
+SHP301172,MRK-1001,Cardiozin,Ireland-Plant-02,France,EMEA,2026-04-07,40011,BATCH-23102,False,Customs Hold
+SHP301173,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2025-12-17,2258,BATCH-14280,False,Delayed
+SHP301174,MRK-1007,Pulmocare,Ireland-Plant-02,Brazil,Latin America,2026-07-03,38060,BATCH-19661,False,In Transit
+SHP301175,MRK-1005,Neuroplex,Ireland-Plant-02,Brazil,Latin America,2024-12-03,6609,BATCH-43209,False,In Transit
+SHP301176,MRK-1006,Vaxishield,Singapore-Plant-03,UK,EMEA,2025-04-03,25743,BATCH-43930,True,Delivered
+SHP301177,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2025-04-20,44227,BATCH-17948,False,Delivered
+SHP301178,MRK-1007,Pulmocare,Singapore-Plant-03,India,APAC,2024-11-13,21772,BATCH-86955,False,Customs Hold
+SHP301179,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2026-02-19,31460,BATCH-15846,False,In Transit
+SHP301180,MRK-1004,Glucostat,Singapore-Plant-03,France,EMEA,2025-08-17,28038,BATCH-69138,False,Delayed
+SHP301181,MRK-1008,Dermalyx,Ireland-Plant-02,Australia,APAC,2024-04-29,521,BATCH-81151,False,Delayed
+SHP301182,MRK-1001,Cardiozin,NJ-Plant-01,South Korea,APAC,2026-01-12,14735,BATCH-80962,False,Delivered
+SHP301183,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2026-05-27,22841,BATCH-31259,True,Customs Hold
+SHP301184,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2026-03-09,38751,BATCH-85985,False,Delayed
+SHP301185,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2024-04-17,7545,BATCH-73454,False,Customs Hold
+SHP301186,MRK-1007,Pulmocare,Singapore-Plant-03,South Korea,APAC,2025-01-05,19500,BATCH-56018,False,Customs Hold
+SHP301187,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2025-06-08,37545,BATCH-29883,True,In Transit
+SHP301188,MRK-1007,Pulmocare,Ireland-Plant-02,France,EMEA,2025-06-03,22641,BATCH-99168,False,Delivered
+SHP301189,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2025-06-03,17396,BATCH-59836,False,Delayed
+SHP301190,MRK-1007,Pulmocare,Singapore-Plant-03,Canada,North America,2025-01-23,47919,BATCH-88310,False,In Transit
+SHP301191,MRK-1007,Pulmocare,Ireland-Plant-02,USA,North America,2025-06-15,9164,BATCH-81809,False,Customs Hold
+SHP301192,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2026-06-30,30398,BATCH-88137,False,Delayed
+SHP301193,MRK-1008,Dermalyx,Singapore-Plant-03,Mexico,North America,2024-07-29,37822,BATCH-63250,False,In Transit
+SHP301194,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2025-04-24,39117,BATCH-68201,False,Delivered
+SHP301195,MRK-1002,Oncavera,Ireland-Plant-02,Canada,North America,2026-02-16,16121,BATCH-26148,False,In Transit
+SHP301196,MRK-1007,Pulmocare,Ireland-Plant-02,UK,EMEA,2025-11-07,2628,BATCH-80731,False,In Transit
+SHP301197,MRK-1005,Neuroplex,Singapore-Plant-03,UK,EMEA,2024-08-25,13121,BATCH-41700,False,Delivered
+SHP301198,MRK-1003,Immunext,Ireland-Plant-02,UK,EMEA,2024-09-15,18845,BATCH-12956,True,Customs Hold
+SHP301199,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2024-09-21,46881,BATCH-99135,False,Delivered
+SHP301200,MRK-1007,Pulmocare,Ireland-Plant-02,India,APAC,2024-07-14,22849,BATCH-80475,False,Customs Hold
+SHP301201,MRK-1006,Vaxishield,Singapore-Plant-03,France,EMEA,2024-04-02,9448,BATCH-55040,True,In Transit
+SHP301202,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2026-03-15,25570,BATCH-43267,False,Delayed
+SHP301203,MRK-1005,Neuroplex,NJ-Plant-01,Argentina,Latin America,2024-09-08,7488,BATCH-85845,False,Delivered
+SHP301204,MRK-1005,Neuroplex,NJ-Plant-01,France,EMEA,2024-12-24,20882,BATCH-79390,False,Delivered
+SHP301205,MRK-1006,Vaxishield,NJ-Plant-01,South Africa,EMEA,2025-02-24,20336,BATCH-57862,True,Delayed
+SHP301206,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2026-05-30,28305,BATCH-79472,False,Customs Hold
+SHP301207,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2024-07-03,3255,BATCH-87344,False,In Transit
+SHP301208,MRK-1003,Immunext,Ireland-Plant-02,USA,North America,2026-06-28,5425,BATCH-14480,True,Delivered
+SHP301209,MRK-1006,Vaxishield,Singapore-Plant-03,Argentina,Latin America,2024-08-01,39288,BATCH-96747,True,In Transit
+SHP301210,MRK-1008,Dermalyx,Ireland-Plant-02,Brazil,Latin America,2026-07-30,34539,BATCH-36605,False,Delivered
+SHP301211,MRK-1005,Neuroplex,Ireland-Plant-02,France,EMEA,2025-08-04,24243,BATCH-32764,False,Delivered
+SHP301212,MRK-1008,Dermalyx,Ireland-Plant-02,Argentina,Latin America,2024-11-03,8027,BATCH-11093,False,In Transit
+SHP301213,MRK-1004,Glucostat,NJ-Plant-01,Germany,EMEA,2025-04-27,794,BATCH-52491,False,Delivered
+SHP301214,MRK-1001,Cardiozin,Singapore-Plant-03,South Africa,EMEA,2024-11-15,22682,BATCH-20392,False,In Transit
+SHP301215,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2026-01-18,46592,BATCH-10475,False,Delivered
+SHP301216,MRK-1008,Dermalyx,NJ-Plant-01,Australia,APAC,2025-01-10,18298,BATCH-62212,False,Delayed
+SHP301217,MRK-1008,Dermalyx,Ireland-Plant-02,Germany,EMEA,2024-02-26,18133,BATCH-64401,False,In Transit
+SHP301218,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2026-03-09,6901,BATCH-32428,False,Customs Hold
+SHP301219,MRK-1008,Dermalyx,NJ-Plant-01,Australia,APAC,2024-06-23,3829,BATCH-62198,False,Delivered
+SHP301220,MRK-1008,Dermalyx,NJ-Plant-01,Australia,APAC,2026-01-22,36076,BATCH-36432,False,Delivered
+SHP301221,MRK-1006,Vaxishield,Singapore-Plant-03,Brazil,Latin America,2026-07-12,16091,BATCH-82796,True,In Transit
+SHP301222,MRK-1007,Pulmocare,Ireland-Plant-02,Canada,North America,2024-02-20,6262,BATCH-53984,False,Customs Hold
+SHP301223,MRK-1003,Immunext,NJ-Plant-01,UK,EMEA,2025-02-14,32312,BATCH-45113,True,Delayed
+SHP301224,MRK-1002,Oncavera,NJ-Plant-01,Brazil,Latin America,2024-04-07,24419,BATCH-24006,False,Customs Hold
+SHP301225,MRK-1008,Dermalyx,Singapore-Plant-03,Chile,Latin America,2024-05-15,2315,BATCH-26924,False,Delayed
+SHP301226,MRK-1002,Oncavera,NJ-Plant-01,Germany,EMEA,2024-05-02,37354,BATCH-82051,False,Delayed
+SHP301227,MRK-1003,Immunext,Singapore-Plant-03,UK,EMEA,2025-12-22,10290,BATCH-68977,True,Delivered
+SHP301228,MRK-1005,Neuroplex,Singapore-Plant-03,South Africa,EMEA,2025-08-22,22812,BATCH-31171,False,Delivered
+SHP301229,MRK-1006,Vaxishield,NJ-Plant-01,Australia,APAC,2026-04-10,8684,BATCH-66276,True,In Transit
+SHP301230,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2025-09-07,11305,BATCH-71164,False,Delayed
+SHP301231,MRK-1008,Dermalyx,NJ-Plant-01,Japan,APAC,2026-03-21,20801,BATCH-49194,False,Customs Hold
+SHP301232,MRK-1004,Glucostat,Ireland-Plant-02,Brazil,Latin America,2025-01-29,9038,BATCH-88812,False,Delivered
+SHP301233,MRK-1004,Glucostat,Singapore-Plant-03,USA,North America,2024-11-03,43303,BATCH-71581,False,Customs Hold
+SHP301234,MRK-1004,Glucostat,Ireland-Plant-02,Chile,Latin America,2026-03-19,30717,BATCH-32524,False,Delayed
+SHP301235,MRK-1005,Neuroplex,Ireland-Plant-02,France,EMEA,2024-07-21,41765,BATCH-49885,False,Customs Hold
+SHP301236,MRK-1008,Dermalyx,NJ-Plant-01,South Africa,EMEA,2025-01-05,31731,BATCH-54244,False,Customs Hold
+SHP301237,MRK-1005,Neuroplex,Singapore-Plant-03,Germany,EMEA,2026-05-04,10768,BATCH-84888,False,Delivered
+SHP301238,MRK-1004,Glucostat,NJ-Plant-01,Japan,APAC,2025-10-18,19952,BATCH-48405,False,Customs Hold
+SHP301239,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2024-02-01,47751,BATCH-84399,False,Delayed
+SHP301240,MRK-1001,Cardiozin,Ireland-Plant-02,Canada,North America,2025-12-16,23721,BATCH-39891,False,Customs Hold
+SHP301241,MRK-1007,Pulmocare,Ireland-Plant-02,France,EMEA,2026-06-19,11496,BATCH-60062,False,In Transit
+SHP301242,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2025-08-31,10578,BATCH-38943,True,Customs Hold
+SHP301243,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2026-02-17,6039,BATCH-45183,False,Delivered
+SHP301244,MRK-1002,Oncavera,NJ-Plant-01,India,APAC,2025-04-22,16341,BATCH-24896,False,Customs Hold
+SHP301245,MRK-1003,Immunext,Ireland-Plant-02,South Africa,EMEA,2024-11-14,4814,BATCH-74401,True,Delayed
+SHP301246,MRK-1007,Pulmocare,Singapore-Plant-03,USA,North America,2025-10-11,4810,BATCH-44851,False,In Transit
+SHP301247,MRK-1004,Glucostat,Singapore-Plant-03,France,EMEA,2025-09-17,35069,BATCH-45769,False,Customs Hold
+SHP301248,MRK-1005,Neuroplex,Singapore-Plant-03,UK,EMEA,2025-08-12,35804,BATCH-41766,False,Delayed
+SHP301249,MRK-1007,Pulmocare,NJ-Plant-01,Chile,Latin America,2025-05-07,31738,BATCH-56256,False,In Transit
+SHP301250,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2025-03-17,11216,BATCH-49478,False,Customs Hold
+SHP301251,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2024-01-11,3298,BATCH-36580,False,In Transit
+SHP301252,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2025-10-13,4143,BATCH-49402,False,Customs Hold
+SHP301253,MRK-1007,Pulmocare,NJ-Plant-01,Mexico,North America,2024-11-15,20233,BATCH-69193,False,Customs Hold
+SHP301254,MRK-1004,Glucostat,NJ-Plant-01,Australia,APAC,2024-09-23,43665,BATCH-47242,False,In Transit
+SHP301255,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2025-09-26,32790,BATCH-28823,False,Delivered
+SHP301256,MRK-1007,Pulmocare,Singapore-Plant-03,Argentina,Latin America,2026-04-10,18040,BATCH-39443,False,In Transit
+SHP301257,MRK-1005,Neuroplex,Ireland-Plant-02,South Africa,EMEA,2025-08-24,1759,BATCH-51872,False,In Transit
+SHP301258,MRK-1003,Immunext,Singapore-Plant-03,India,APAC,2025-06-09,31223,BATCH-39154,True,Delayed
+SHP301259,MRK-1008,Dermalyx,NJ-Plant-01,UK,EMEA,2026-04-27,33985,BATCH-39008,False,In Transit
+SHP301260,MRK-1001,Cardiozin,NJ-Plant-01,Brazil,Latin America,2024-10-10,22807,BATCH-92453,False,In Transit
+SHP301261,MRK-1001,Cardiozin,NJ-Plant-01,UK,EMEA,2025-03-09,20830,BATCH-33424,False,In Transit
+SHP301262,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2024-01-23,42019,BATCH-80612,False,Delayed
+SHP301263,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2024-02-26,16341,BATCH-55461,False,Delivered
+SHP301264,MRK-1006,Vaxishield,NJ-Plant-01,Canada,North America,2024-02-19,8725,BATCH-27310,True,Delayed
+SHP301265,MRK-1002,Oncavera,Ireland-Plant-02,Canada,North America,2025-12-26,6383,BATCH-56726,False,Delayed
+SHP301266,MRK-1008,Dermalyx,Singapore-Plant-03,Mexico,North America,2024-09-30,42053,BATCH-16858,False,Delayed
+SHP301267,MRK-1003,Immunext,Ireland-Plant-02,France,EMEA,2024-12-15,26273,BATCH-19333,True,Delivered
+SHP301268,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2026-05-26,6241,BATCH-52040,True,In Transit
+SHP301269,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2024-03-18,38929,BATCH-42698,False,Delayed
+SHP301270,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2026-01-16,45627,BATCH-90116,False,Delayed
+SHP301271,MRK-1002,Oncavera,Ireland-Plant-02,Brazil,Latin America,2024-12-07,45851,BATCH-51164,False,Delayed
+SHP301272,MRK-1008,Dermalyx,NJ-Plant-01,Canada,North America,2025-03-18,15613,BATCH-77493,False,In Transit
+SHP301273,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2024-01-18,28718,BATCH-63807,False,In Transit
+SHP301274,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2024-08-31,21205,BATCH-11213,False,Delivered
+SHP301275,MRK-1008,Dermalyx,Ireland-Plant-02,Brazil,Latin America,2024-11-16,3222,BATCH-30164,False,Delivered
+SHP301276,MRK-1006,Vaxishield,Singapore-Plant-03,Chile,Latin America,2026-04-08,23994,BATCH-95476,True,Customs Hold
+SHP301277,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2024-11-09,12941,BATCH-38281,False,Customs Hold
+SHP301278,MRK-1001,Cardiozin,NJ-Plant-01,Mexico,North America,2026-02-22,39353,BATCH-24326,False,Delivered
+SHP301279,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2026-01-20,6794,BATCH-38383,False,In Transit
+SHP301280,MRK-1008,Dermalyx,NJ-Plant-01,Mexico,North America,2025-08-31,14074,BATCH-46837,False,Customs Hold
+SHP301281,MRK-1002,Oncavera,NJ-Plant-01,Brazil,Latin America,2025-07-22,34775,BATCH-63429,False,Customs Hold
+SHP301282,MRK-1006,Vaxishield,Ireland-Plant-02,Mexico,North America,2026-04-16,45395,BATCH-65111,True,Delivered
+SHP301283,MRK-1006,Vaxishield,Ireland-Plant-02,Mexico,North America,2025-08-28,25522,BATCH-62462,True,In Transit
+SHP301284,MRK-1007,Pulmocare,NJ-Plant-01,Brazil,Latin America,2025-06-20,2746,BATCH-72805,False,In Transit
+SHP301285,MRK-1008,Dermalyx,Singapore-Plant-03,Germany,EMEA,2026-01-11,42332,BATCH-24714,False,Delayed
+SHP301286,MRK-1008,Dermalyx,Ireland-Plant-02,UK,EMEA,2025-04-14,14313,BATCH-65046,False,Delayed
+SHP301287,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2024-08-16,48154,BATCH-13772,False,In Transit
+SHP301288,MRK-1001,Cardiozin,Singapore-Plant-03,Chile,Latin America,2025-03-30,34606,BATCH-86544,False,Delayed
+SHP301289,MRK-1002,Oncavera,Singapore-Plant-03,Australia,APAC,2024-10-17,40317,BATCH-36793,False,Customs Hold
+SHP301290,MRK-1008,Dermalyx,Ireland-Plant-02,Canada,North America,2025-01-31,32010,BATCH-83963,False,Delivered
+SHP301291,MRK-1007,Pulmocare,Ireland-Plant-02,Chile,Latin America,2025-06-11,47896,BATCH-68909,False,Delayed
+SHP301292,MRK-1002,Oncavera,NJ-Plant-01,South Korea,APAC,2026-07-03,7117,BATCH-65703,False,Delayed
+SHP301293,MRK-1006,Vaxishield,Singapore-Plant-03,Brazil,Latin America,2024-12-25,44332,BATCH-57899,True,Customs Hold
+SHP301294,MRK-1004,Glucostat,Singapore-Plant-03,India,APAC,2026-02-07,6359,BATCH-16398,False,Customs Hold
+SHP301295,MRK-1004,Glucostat,NJ-Plant-01,Germany,EMEA,2026-01-07,2621,BATCH-55808,False,Delayed
+SHP301296,MRK-1007,Pulmocare,Singapore-Plant-03,India,APAC,2024-09-02,31283,BATCH-72497,False,Customs Hold
+SHP301297,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2024-07-23,7015,BATCH-74897,False,Customs Hold
+SHP301298,MRK-1002,Oncavera,Ireland-Plant-02,South Africa,EMEA,2024-04-20,24825,BATCH-81762,False,Customs Hold
+SHP301299,MRK-1003,Immunext,Singapore-Plant-03,USA,North America,2024-05-27,17711,BATCH-17546,True,In Transit
+SHP301300,MRK-1006,Vaxishield,Singapore-Plant-03,Australia,APAC,2024-11-24,2058,BATCH-17576,True,Delayed
+SHP301301,MRK-1005,Neuroplex,NJ-Plant-01,Mexico,North America,2026-02-01,47680,BATCH-97268,False,In Transit
+SHP301302,MRK-1008,Dermalyx,Singapore-Plant-03,Chile,Latin America,2025-04-14,16025,BATCH-76846,False,Customs Hold
+SHP301303,MRK-1003,Immunext,NJ-Plant-01,South Korea,APAC,2024-04-09,26172,BATCH-11728,True,In Transit
+SHP301304,MRK-1005,Neuroplex,NJ-Plant-01,UK,EMEA,2026-03-01,44491,BATCH-13604,False,Delivered
+SHP301305,MRK-1002,Oncavera,Singapore-Plant-03,India,APAC,2024-11-16,10814,BATCH-50267,False,In Transit
+SHP301306,MRK-1001,Cardiozin,NJ-Plant-01,Chile,Latin America,2026-01-01,18717,BATCH-67367,False,Customs Hold
+SHP301307,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2026-02-11,25894,BATCH-77106,True,Customs Hold
+SHP301308,MRK-1004,Glucostat,Ireland-Plant-02,Japan,APAC,2025-06-18,40190,BATCH-30547,False,In Transit
+SHP301309,MRK-1006,Vaxishield,Singapore-Plant-03,South Africa,EMEA,2026-03-07,21950,BATCH-62981,True,Delivered
+SHP301310,MRK-1001,Cardiozin,NJ-Plant-01,UK,EMEA,2024-09-12,2948,BATCH-39419,False,Delayed
+SHP301311,MRK-1001,Cardiozin,Ireland-Plant-02,South Korea,APAC,2026-01-31,31177,BATCH-23380,False,In Transit
+SHP301312,MRK-1006,Vaxishield,Singapore-Plant-03,Mexico,North America,2025-01-12,34490,BATCH-15698,True,Delayed
+SHP301313,MRK-1002,Oncavera,Ireland-Plant-02,Germany,EMEA,2024-12-10,5051,BATCH-62762,False,Customs Hold
+SHP301314,MRK-1001,Cardiozin,NJ-Plant-01,USA,North America,2024-08-10,38452,BATCH-73936,False,Delayed
+SHP301315,MRK-1005,Neuroplex,Singapore-Plant-03,Chile,Latin America,2025-09-20,2704,BATCH-82990,False,Customs Hold
+SHP301316,MRK-1004,Glucostat,Ireland-Plant-02,Brazil,Latin America,2024-11-30,9710,BATCH-61237,False,Delayed
+SHP301317,MRK-1005,Neuroplex,NJ-Plant-01,Australia,APAC,2024-06-08,1470,BATCH-30980,False,Delayed
+SHP301318,MRK-1003,Immunext,NJ-Plant-01,South Korea,APAC,2024-07-14,47960,BATCH-42023,True,Customs Hold
+SHP301319,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2024-11-03,24551,BATCH-39669,False,Delivered
+SHP301320,MRK-1002,Oncavera,Singapore-Plant-03,Mexico,North America,2024-06-05,25420,BATCH-59892,False,Delivered
+SHP301321,MRK-1005,Neuroplex,Singapore-Plant-03,Mexico,North America,2026-02-19,16788,BATCH-85202,False,Customs Hold
+SHP301322,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2024-01-26,17781,BATCH-22126,False,Delivered
+SHP301323,MRK-1002,Oncavera,Singapore-Plant-03,France,EMEA,2026-05-17,25296,BATCH-98675,False,In Transit
+SHP301324,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2025-07-27,36689,BATCH-37711,False,Delayed
+SHP301325,MRK-1002,Oncavera,Ireland-Plant-02,USA,North America,2024-09-25,5644,BATCH-22220,False,In Transit
+SHP301326,MRK-1002,Oncavera,Singapore-Plant-03,USA,North America,2026-05-28,37355,BATCH-23574,False,Delayed
+SHP301327,MRK-1001,Cardiozin,NJ-Plant-01,Japan,APAC,2025-12-15,46628,BATCH-30522,False,Delayed
+SHP301328,MRK-1002,Oncavera,Ireland-Plant-02,Chile,Latin America,2025-11-15,645,BATCH-50870,False,Customs Hold
+SHP301329,MRK-1001,Cardiozin,Singapore-Plant-03,South Korea,APAC,2024-01-02,38020,BATCH-46030,False,Delivered
+SHP301330,MRK-1007,Pulmocare,Singapore-Plant-03,Brazil,Latin America,2024-10-30,43791,BATCH-70132,False,In Transit
+SHP301331,MRK-1002,Oncavera,Ireland-Plant-02,USA,North America,2024-04-17,17714,BATCH-61082,False,Delayed
+SHP301332,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2026-02-21,10492,BATCH-53007,True,Customs Hold
+SHP301333,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2026-01-13,18045,BATCH-39161,False,In Transit
+SHP301334,MRK-1008,Dermalyx,Singapore-Plant-03,Australia,APAC,2025-09-25,41616,BATCH-90404,False,Customs Hold
+SHP301335,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2025-09-15,7482,BATCH-39983,False,Customs Hold
+SHP301336,MRK-1005,Neuroplex,Ireland-Plant-02,USA,North America,2026-04-15,41792,BATCH-49381,False,Delivered
+SHP301337,MRK-1001,Cardiozin,Ireland-Plant-02,Brazil,Latin America,2024-08-17,11498,BATCH-69103,False,Delayed
+SHP301338,MRK-1004,Glucostat,NJ-Plant-01,Mexico,North America,2025-10-23,36972,BATCH-55571,False,Customs Hold
+SHP301339,MRK-1007,Pulmocare,NJ-Plant-01,Germany,EMEA,2025-12-02,2872,BATCH-13507,False,Customs Hold
+SHP301340,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2026-03-16,6701,BATCH-52220,True,In Transit
+SHP301341,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2024-10-22,1897,BATCH-46817,False,Customs Hold
+SHP301342,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2025-09-05,20181,BATCH-59620,False,Delayed
+SHP301343,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2024-01-13,43074,BATCH-63121,False,Delivered
+SHP301344,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2026-03-28,31205,BATCH-19413,False,Customs Hold
+SHP301345,MRK-1008,Dermalyx,Ireland-Plant-02,South Africa,EMEA,2024-11-16,38125,BATCH-88055,False,In Transit
+SHP301346,MRK-1004,Glucostat,NJ-Plant-01,Canada,North America,2025-06-24,7267,BATCH-19684,False,Customs Hold
+SHP301347,MRK-1002,Oncavera,Singapore-Plant-03,Brazil,Latin America,2024-02-07,18721,BATCH-13096,False,In Transit
+SHP301348,MRK-1002,Oncavera,Ireland-Plant-02,Australia,APAC,2024-10-27,6144,BATCH-53802,False,Customs Hold
+SHP301349,MRK-1008,Dermalyx,Singapore-Plant-03,India,APAC,2024-08-25,15789,BATCH-96766,False,Delayed
+SHP301350,MRK-1007,Pulmocare,Singapore-Plant-03,Australia,APAC,2024-06-14,15495,BATCH-24273,False,Customs Hold
+SHP301351,MRK-1001,Cardiozin,NJ-Plant-01,UK,EMEA,2025-01-03,16477,BATCH-17261,False,Delayed
+SHP301352,MRK-1003,Immunext,NJ-Plant-01,Chile,Latin America,2025-02-17,23305,BATCH-60582,True,Delivered
+SHP301353,MRK-1008,Dermalyx,NJ-Plant-01,Brazil,Latin America,2024-04-16,30281,BATCH-84439,False,Delayed
+SHP301354,MRK-1007,Pulmocare,Singapore-Plant-03,France,EMEA,2025-06-02,32960,BATCH-29953,False,In Transit
+SHP301355,MRK-1006,Vaxishield,Singapore-Plant-03,Argentina,Latin America,2025-11-08,16464,BATCH-30110,True,Customs Hold
+SHP301356,MRK-1007,Pulmocare,Singapore-Plant-03,Chile,Latin America,2024-04-04,17590,BATCH-20255,False,In Transit
+SHP301357,MRK-1005,Neuroplex,Singapore-Plant-03,Germany,EMEA,2026-07-05,32062,BATCH-61185,False,Customs Hold
+SHP301358,MRK-1001,Cardiozin,Singapore-Plant-03,Brazil,Latin America,2025-01-09,24344,BATCH-94028,False,Delivered
+SHP301359,MRK-1008,Dermalyx,NJ-Plant-01,France,EMEA,2025-04-18,40314,BATCH-25524,False,Delivered
+SHP301360,MRK-1007,Pulmocare,Singapore-Plant-03,France,EMEA,2024-01-26,26268,BATCH-86997,False,In Transit
+SHP301361,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2024-11-05,26756,BATCH-87664,True,Customs Hold
+SHP301362,MRK-1001,Cardiozin,Singapore-Plant-03,Canada,North America,2025-11-09,41682,BATCH-52946,False,Delayed
+SHP301363,MRK-1008,Dermalyx,NJ-Plant-01,USA,North America,2025-09-05,47512,BATCH-42838,False,In Transit
+SHP301364,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2025-07-07,26394,BATCH-86440,False,In Transit
+SHP301365,MRK-1006,Vaxishield,NJ-Plant-01,India,APAC,2025-09-10,42996,BATCH-53157,True,Delivered
+SHP301366,MRK-1003,Immunext,Singapore-Plant-03,Brazil,Latin America,2024-01-08,3639,BATCH-20512,True,Delivered
+SHP301367,MRK-1001,Cardiozin,Ireland-Plant-02,Canada,North America,2025-03-10,5336,BATCH-19229,False,Customs Hold
+SHP301368,MRK-1004,Glucostat,Singapore-Plant-03,Australia,APAC,2026-02-28,49454,BATCH-92155,False,Delivered
+SHP301369,MRK-1003,Immunext,Singapore-Plant-03,USA,North America,2024-01-02,3572,BATCH-82881,True,In Transit
+SHP301370,MRK-1004,Glucostat,Singapore-Plant-03,South Korea,APAC,2026-05-02,38049,BATCH-16715,False,Customs Hold
+SHP301371,MRK-1008,Dermalyx,NJ-Plant-01,UK,EMEA,2025-11-21,14790,BATCH-18042,False,Delayed
+SHP301372,MRK-1005,Neuroplex,Singapore-Plant-03,Canada,North America,2025-11-23,31053,BATCH-42114,False,Customs Hold
+SHP301373,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2024-03-12,40208,BATCH-26573,True,Delivered
+SHP301374,MRK-1003,Immunext,NJ-Plant-01,Germany,EMEA,2025-02-24,14480,BATCH-78979,True,Customs Hold
+SHP301375,MRK-1005,Neuroplex,Singapore-Plant-03,Canada,North America,2025-01-28,4637,BATCH-92535,False,In Transit
+SHP301376,MRK-1001,Cardiozin,NJ-Plant-01,UK,EMEA,2025-02-27,17657,BATCH-92285,False,Customs Hold
+SHP301377,MRK-1004,Glucostat,Singapore-Plant-03,Chile,Latin America,2024-07-12,21266,BATCH-89886,False,Delivered
+SHP301378,MRK-1007,Pulmocare,NJ-Plant-01,Argentina,Latin America,2024-10-07,1479,BATCH-29312,False,In Transit
+SHP301379,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2024-12-17,9669,BATCH-29553,False,Customs Hold
+SHP301380,MRK-1008,Dermalyx,NJ-Plant-01,USA,North America,2025-01-24,39985,BATCH-70436,False,Delayed
+SHP301381,MRK-1006,Vaxishield,Singapore-Plant-03,UK,EMEA,2024-11-16,12624,BATCH-64325,True,Delayed
+SHP301382,MRK-1005,Neuroplex,Singapore-Plant-03,Australia,APAC,2026-02-17,16773,BATCH-92548,False,Customs Hold
+SHP301383,MRK-1007,Pulmocare,NJ-Plant-01,USA,North America,2024-03-17,20757,BATCH-38938,False,Delivered
+SHP301384,MRK-1007,Pulmocare,Singapore-Plant-03,Japan,APAC,2025-09-11,46868,BATCH-13214,False,Delayed
+SHP301385,MRK-1008,Dermalyx,Ireland-Plant-02,Brazil,Latin America,2026-05-11,22385,BATCH-55576,False,Delivered
+SHP301386,MRK-1007,Pulmocare,Singapore-Plant-03,South Africa,EMEA,2025-06-27,31885,BATCH-16832,False,In Transit
+SHP301387,MRK-1006,Vaxishield,Singapore-Plant-03,Mexico,North America,2024-06-04,1536,BATCH-44923,True,Customs Hold
+SHP301388,MRK-1004,Glucostat,NJ-Plant-01,Brazil,Latin America,2024-04-29,27530,BATCH-62014,False,Customs Hold
+SHP301389,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2024-07-13,21733,BATCH-48922,False,Delivered
+SHP301390,MRK-1001,Cardiozin,Singapore-Plant-03,France,EMEA,2024-12-18,43615,BATCH-87258,False,Customs Hold
+SHP301391,MRK-1008,Dermalyx,NJ-Plant-01,South Africa,EMEA,2026-07-27,37937,BATCH-88858,False,Delayed
+SHP301392,MRK-1008,Dermalyx,Singapore-Plant-03,Australia,APAC,2024-03-10,37483,BATCH-29142,False,Delayed
+SHP301393,MRK-1008,Dermalyx,Ireland-Plant-02,Japan,APAC,2024-03-16,4719,BATCH-98527,False,In Transit
+SHP301394,MRK-1007,Pulmocare,Singapore-Plant-03,Brazil,Latin America,2024-08-11,47062,BATCH-65796,False,In Transit
+SHP301395,MRK-1006,Vaxishield,NJ-Plant-01,Chile,Latin America,2025-04-19,28751,BATCH-23554,True,In Transit
+SHP301396,MRK-1006,Vaxishield,NJ-Plant-01,India,APAC,2024-07-29,14131,BATCH-11889,True,Delivered
+SHP301397,MRK-1006,Vaxishield,Singapore-Plant-03,Brazil,Latin America,2024-02-02,49200,BATCH-29156,True,In Transit
+SHP301398,MRK-1005,Neuroplex,NJ-Plant-01,South Africa,EMEA,2024-08-16,11725,BATCH-15153,False,Customs Hold
+SHP301399,MRK-1004,Glucostat,NJ-Plant-01,USA,North America,2025-10-13,29426,BATCH-65936,False,Delayed
+SHP301400,MRK-1005,Neuroplex,Ireland-Plant-02,India,APAC,2024-07-07,674,BATCH-27528,False,Delivered
+SHP301401,MRK-1002,Oncavera,NJ-Plant-01,Brazil,Latin America,2025-07-17,19828,BATCH-81404,False,Customs Hold
+SHP301402,MRK-1005,Neuroplex,NJ-Plant-01,Canada,North America,2025-11-29,47454,BATCH-74232,False,Customs Hold
+SHP301403,MRK-1004,Glucostat,Singapore-Plant-03,Argentina,Latin America,2024-03-08,10789,BATCH-52891,False,Delayed
+SHP301404,MRK-1006,Vaxishield,NJ-Plant-01,Mexico,North America,2025-12-27,1776,BATCH-57635,True,Delivered
+SHP301405,MRK-1001,Cardiozin,Singapore-Plant-03,Mexico,North America,2024-11-06,45630,BATCH-43545,False,In Transit
+SHP301406,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2024-07-31,45725,BATCH-11686,True,In Transit
+SHP301407,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2024-05-17,8954,BATCH-52236,False,Delivered
+SHP301408,MRK-1003,Immunext,Singapore-Plant-03,Germany,EMEA,2025-12-23,12978,BATCH-45614,True,In Transit
+SHP301409,MRK-1005,Neuroplex,Singapore-Plant-03,South Africa,EMEA,2024-12-04,13915,BATCH-25037,False,Customs Hold
+SHP301410,MRK-1003,Immunext,Singapore-Plant-03,Mexico,North America,2024-04-24,27733,BATCH-61956,True,In Transit
+SHP301411,MRK-1002,Oncavera,Singapore-Plant-03,Argentina,Latin America,2025-09-18,25764,BATCH-71767,False,Delayed
+SHP301412,MRK-1001,Cardiozin,Ireland-Plant-02,UK,EMEA,2026-05-28,594,BATCH-58996,False,Delayed
+SHP301413,MRK-1005,Neuroplex,Ireland-Plant-02,USA,North America,2025-02-02,7026,BATCH-61244,False,Delayed
+SHP301414,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2025-12-03,36321,BATCH-48030,False,Delayed
+SHP301415,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2026-01-16,43484,BATCH-74199,False,Customs Hold
+SHP301416,MRK-1005,Neuroplex,NJ-Plant-01,South Africa,EMEA,2026-04-30,45935,BATCH-77597,False,Delivered
+SHP301417,MRK-1003,Immunext,NJ-Plant-01,Japan,APAC,2024-05-01,24005,BATCH-51661,True,Delivered
+SHP301418,MRK-1007,Pulmocare,NJ-Plant-01,Brazil,Latin America,2026-01-18,47609,BATCH-26012,False,Delayed
+SHP301419,MRK-1003,Immunext,NJ-Plant-01,Australia,APAC,2024-06-12,46252,BATCH-31318,True,In Transit
+SHP301420,MRK-1001,Cardiozin,Ireland-Plant-02,India,APAC,2025-04-11,42962,BATCH-93356,False,Delayed
+SHP301421,MRK-1004,Glucostat,Singapore-Plant-03,Australia,APAC,2026-01-27,4252,BATCH-50116,False,Customs Hold
+SHP301422,MRK-1007,Pulmocare,NJ-Plant-01,France,EMEA,2026-02-03,44826,BATCH-88094,False,Delayed
+SHP301423,MRK-1001,Cardiozin,NJ-Plant-01,USA,North America,2024-04-28,22101,BATCH-52549,False,Delayed
+SHP301424,MRK-1007,Pulmocare,Singapore-Plant-03,South Africa,EMEA,2025-04-01,46645,BATCH-82373,False,In Transit
+SHP301425,MRK-1007,Pulmocare,Ireland-Plant-02,USA,North America,2024-03-25,29672,BATCH-79667,False,Delivered
+SHP301426,MRK-1004,Glucostat,Singapore-Plant-03,Canada,North America,2026-07-19,24010,BATCH-76518,False,Delivered
+SHP301427,MRK-1008,Dermalyx,Ireland-Plant-02,Mexico,North America,2025-03-18,4917,BATCH-27202,False,In Transit
+SHP301428,MRK-1004,Glucostat,Singapore-Plant-03,Australia,APAC,2025-12-09,19834,BATCH-57771,False,In Transit
+SHP301429,MRK-1001,Cardiozin,Ireland-Plant-02,Australia,APAC,2025-07-31,27157,BATCH-52097,False,Customs Hold
+SHP301430,MRK-1008,Dermalyx,Ireland-Plant-02,USA,North America,2025-11-27,12844,BATCH-87648,False,In Transit
+SHP301431,MRK-1001,Cardiozin,NJ-Plant-01,Australia,APAC,2025-04-23,27479,BATCH-67953,False,Delayed
+SHP301432,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2025-02-02,536,BATCH-84709,True,Delayed
+SHP301433,MRK-1008,Dermalyx,Singapore-Plant-03,USA,North America,2026-06-18,23347,BATCH-32005,False,In Transit
+SHP301434,MRK-1002,Oncavera,Singapore-Plant-03,UK,EMEA,2025-01-23,46985,BATCH-88002,False,Customs Hold
+SHP301435,MRK-1001,Cardiozin,Ireland-Plant-02,Mexico,North America,2024-07-19,18345,BATCH-66704,False,Delivered
+SHP301436,MRK-1003,Immunext,Ireland-Plant-02,Germany,EMEA,2025-12-04,32995,BATCH-61172,True,Delivered
+SHP301437,MRK-1002,Oncavera,NJ-Plant-01,South Africa,EMEA,2025-08-14,39454,BATCH-71150,False,Delivered
+SHP301438,MRK-1006,Vaxishield,NJ-Plant-01,Brazil,Latin America,2026-07-23,14939,BATCH-78271,True,Customs Hold
+SHP301439,MRK-1006,Vaxishield,Singapore-Plant-03,France,EMEA,2026-01-21,42620,BATCH-90579,True,Customs Hold
+SHP301440,MRK-1002,Oncavera,Ireland-Plant-02,India,APAC,2025-08-12,31132,BATCH-41812,False,Delivered
+SHP301441,MRK-1001,Cardiozin,Singapore-Plant-03,Canada,North America,2024-08-30,33034,BATCH-47298,False,Delayed
+SHP301442,MRK-1005,Neuroplex,Singapore-Plant-03,South Korea,APAC,2025-12-01,42611,BATCH-43115,False,Delayed
+SHP301443,MRK-1005,Neuroplex,Singapore-Plant-03,USA,North America,2025-04-07,26910,BATCH-32328,False,Customs Hold
+SHP301444,MRK-1003,Immunext,Ireland-Plant-02,Chile,Latin America,2026-02-28,23002,BATCH-95746,True,In Transit
+SHP301445,MRK-1005,Neuroplex,Singapore-Plant-03,Argentina,Latin America,2025-08-04,7651,BATCH-61249,False,Delivered
+SHP301446,MRK-1005,Neuroplex,Singapore-Plant-03,France,EMEA,2025-08-16,43246,BATCH-37433,False,Delayed
+SHP301447,MRK-1001,Cardiozin,Ireland-Plant-02,Chile,Latin America,2025-12-21,38006,BATCH-57693,False,Delayed
+SHP301448,MRK-1008,Dermalyx,Singapore-Plant-03,South Africa,EMEA,2024-12-03,27804,BATCH-82373,False,Delivered
+SHP301449,MRK-1007,Pulmocare,Ireland-Plant-02,Chile,Latin America,2024-11-12,14792,BATCH-98760,False,Delivered
+SHP301450,MRK-1008,Dermalyx,Singapore-Plant-03,Germany,EMEA,2025-03-29,43239,BATCH-22826,False,Customs Hold
+SHP301451,MRK-1008,Dermalyx,Singapore-Plant-03,Brazil,Latin America,2026-06-20,45463,BATCH-35336,False,Delayed
+SHP301452,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2025-06-04,35535,BATCH-60843,False,In Transit
+SHP301453,MRK-1003,Immunext,Singapore-Plant-03,UK,EMEA,2026-01-02,47135,BATCH-52145,True,Delayed
+SHP301454,MRK-1001,Cardiozin,Singapore-Plant-03,UK,EMEA,2025-02-22,38618,BATCH-89169,False,Delayed
+SHP301455,MRK-1003,Immunext,NJ-Plant-01,Japan,APAC,2026-01-15,12774,BATCH-21403,True,In Transit
+SHP301456,MRK-1007,Pulmocare,NJ-Plant-01,India,APAC,2024-06-11,30554,BATCH-51099,False,Delayed
+SHP301457,MRK-1002,Oncavera,Singapore-Plant-03,South Korea,APAC,2024-06-08,17702,BATCH-17029,False,In Transit
+SHP301458,MRK-1003,Immunext,Ireland-Plant-02,UK,EMEA,2024-10-01,32093,BATCH-19808,True,Delayed
+SHP301459,MRK-1007,Pulmocare,Singapore-Plant-03,Japan,APAC,2025-08-22,16426,BATCH-56784,False,Delayed
+SHP301460,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2024-02-12,10251,BATCH-15367,True,Customs Hold
+SHP301461,MRK-1002,Oncavera,Ireland-Plant-02,Argentina,Latin America,2024-03-16,13250,BATCH-50523,False,Delayed
+SHP301462,MRK-1006,Vaxishield,NJ-Plant-01,South Korea,APAC,2026-03-29,26165,BATCH-30986,True,Delivered
+SHP301463,MRK-1004,Glucostat,Singapore-Plant-03,Mexico,North America,2024-05-31,31800,BATCH-11870,False,Customs Hold
+SHP301464,MRK-1006,Vaxishield,NJ-Plant-01,Canada,North America,2026-01-22,27056,BATCH-30161,True,In Transit
+SHP301465,MRK-1003,Immunext,Ireland-Plant-02,Germany,EMEA,2025-01-08,25810,BATCH-47130,True,Customs Hold
+SHP301466,MRK-1006,Vaxishield,Ireland-Plant-02,Germany,EMEA,2024-09-19,24812,BATCH-52446,True,Delayed
+SHP301467,MRK-1006,Vaxishield,Singapore-Plant-03,USA,North America,2025-02-21,14409,BATCH-53624,True,Customs Hold
+SHP301468,MRK-1001,Cardiozin,Singapore-Plant-03,Argentina,Latin America,2025-05-13,35819,BATCH-98101,False,Delayed
+SHP301469,MRK-1004,Glucostat,NJ-Plant-01,UK,EMEA,2025-05-14,27365,BATCH-85570,False,Delivered
+SHP301470,MRK-1005,Neuroplex,NJ-Plant-01,Brazil,Latin America,2024-01-30,34549,BATCH-42007,False,Customs Hold
+SHP301471,MRK-1007,Pulmocare,NJ-Plant-01,South Africa,EMEA,2026-06-30,37384,BATCH-34083,False,In Transit
+SHP301472,MRK-1003,Immunext,Ireland-Plant-02,Mexico,North America,2025-03-30,25044,BATCH-98674,True,Delivered
+SHP301473,MRK-1007,Pulmocare,NJ-Plant-01,Canada,North America,2026-03-02,40181,BATCH-66579,False,Customs Hold
+SHP301474,MRK-1001,Cardiozin,NJ-Plant-01,Canada,North America,2025-11-25,7565,BATCH-15068,False,Delivered
+SHP301475,MRK-1004,Glucostat,NJ-Plant-01,France,EMEA,2024-11-12,40581,BATCH-69912,False,Customs Hold
+SHP301476,MRK-1008,Dermalyx,Singapore-Plant-03,Germany,EMEA,2025-01-26,12448,BATCH-19684,False,In Transit
+SHP301477,MRK-1004,Glucostat,NJ-Plant-01,Germany,EMEA,2026-01-28,39577,BATCH-85758,False,Customs Hold
+SHP301478,MRK-1003,Immunext,NJ-Plant-01,USA,North America,2026-05-20,22597,BATCH-13262,True,Customs Hold
+SHP301479,MRK-1002,Oncavera,NJ-Plant-01,UK,EMEA,2026-07-30,27887,BATCH-17294,False,In Transit
+SHP301480,MRK-1003,Immunext,Ireland-Plant-02,South Africa,EMEA,2025-03-31,49560,BATCH-33832,True,Customs Hold
+SHP301481,MRK-1001,Cardiozin,Ireland-Plant-02,Australia,APAC,2025-09-27,37177,BATCH-74355,False,Customs Hold
+SHP301482,MRK-1003,Immunext,NJ-Plant-01,Germany,EMEA,2025-02-13,13182,BATCH-30811,True,Delivered
+SHP301483,MRK-1002,Oncavera,NJ-Plant-01,South Africa,EMEA,2025-08-13,36768,BATCH-48159,False,Delayed
+SHP301484,MRK-1007,Pulmocare,Ireland-Plant-02,Argentina,Latin America,2025-05-30,38484,BATCH-28003,False,Delayed
+SHP301485,MRK-1008,Dermalyx,Ireland-Plant-02,Brazil,Latin America,2026-05-14,37715,BATCH-12549,False,Customs Hold
+SHP301486,MRK-1005,Neuroplex,Ireland-Plant-02,Brazil,Latin America,2025-12-12,41632,BATCH-54910,False,In Transit
+SHP301487,MRK-1006,Vaxishield,Ireland-Plant-02,Brazil,Latin America,2025-04-08,36552,BATCH-42847,True,Customs Hold
+SHP301488,MRK-1008,Dermalyx,Singapore-Plant-03,Japan,APAC,2025-03-28,736,BATCH-89429,False,Delayed
+SHP301489,MRK-1007,Pulmocare,NJ-Plant-01,South Korea,APAC,2025-04-24,30525,BATCH-66882,False,Delivered
+SHP301490,MRK-1003,Immunext,NJ-Plant-01,Brazil,Latin America,2025-07-12,20574,BATCH-62282,True,Delivered
+SHP301491,MRK-1003,Immunext,NJ-Plant-01,South Africa,EMEA,2025-12-04,47656,BATCH-94397,True,Customs Hold
+SHP301492,MRK-1005,Neuroplex,Ireland-Plant-02,Canada,North America,2024-01-28,585,BATCH-35673,False,Customs Hold
+SHP301493,MRK-1002,Oncavera,Singapore-Plant-03,Brazil,Latin America,2024-12-08,25875,BATCH-62142,False,Delivered
+SHP301494,MRK-1004,Glucostat,Ireland-Plant-02,Mexico,North America,2026-05-09,42525,BATCH-59545,False,Delayed
+SHP301495,MRK-1008,Dermalyx,Singapore-Plant-03,Japan,APAC,2024-05-27,31053,BATCH-78641,False,In Transit
+SHP301496,MRK-1002,Oncavera,Singapore-Plant-03,France,EMEA,2024-05-16,36980,BATCH-57312,False,In Transit
+SHP301497,MRK-1006,Vaxishield,NJ-Plant-01,Japan,APAC,2026-05-08,26642,BATCH-21107,True,Delivered
+SHP301498,MRK-1005,Neuroplex,Singapore-Plant-03,Mexico,North America,2025-03-26,681,BATCH-25532,False,Customs Hold
+SHP301499,MRK-1001,Cardiozin,Ireland-Plant-02,Argentina,Latin America,2026-06-12,7235,BATCH-32354,False,Delivered

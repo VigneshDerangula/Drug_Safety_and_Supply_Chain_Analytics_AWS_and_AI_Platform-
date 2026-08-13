@@ -1,0 +1,301 @@
+trial_id,drug_code,drug_name,therapeutic_area,phase,status,site_country,region,start_date,estimated_completion_date,enrolled_patients,primary_endpoint_met
+NCT100000,MRK-1002,Oncavera,Oncology,Phase II,Active,Mexico,North America,2022-01-31,2023-02-24,521,
+NCT100001,MRK-1002,Oncavera,Oncology,Phase II,Active,Brazil,Latin America,2019-05-03,2022-08-29,211,
+NCT100002,MRK-1001,Cardiozin,Cardiology,Phase III,Recruiting,South Africa,EMEA,2021-06-21,2022-11-09,939,
+NCT100003,MRK-1007,Pulmocare,Respiratory,Phase III,Recruiting,Australia,APAC,2020-09-28,2021-10-02,460,False
+NCT100004,MRK-1002,Oncavera,Oncology,Phase I,Terminated,Australia,APAC,2025-10-08,2029-04-08,561,True
+NCT100005,MRK-1007,Pulmocare,Respiratory,Phase II,Recruiting,Mexico,North America,2022-04-15,2023-01-13,760,
+NCT100006,MRK-1004,Glucostat,Endocrinology,Phase IV,Completed,Japan,APAC,2021-08-11,2024-08-23,226,
+NCT100007,MRK-1006,Vaxishield,Vaccines,Phase III,Recruiting,France,EMEA,2022-12-26,2026-11-22,449,
+NCT100008,MRK-1003,Immunext,Immunology,Phase III,Suspended,UK,EMEA,2024-03-08,2025-11-27,797,
+NCT100009,MRK-1006,Vaxishield,Vaccines,Phase IV,Completed,USA,North America,2019-05-12,2020-03-22,666,True
+NCT100010,MRK-1006,Vaxishield,Vaccines,Phase II,Completed,South Africa,EMEA,2023-06-09,2024-09-16,959,True
+NCT100011,MRK-1005,Neuroplex,Neurology,Phase II,Active,Chile,Latin America,2023-06-24,2026-10-29,761,False
+NCT100012,MRK-1002,Oncavera,Oncology,Phase IV,Suspended,USA,North America,2020-09-18,2021-07-25,347,False
+NCT100013,MRK-1007,Pulmocare,Respiratory,Phase I,Recruiting,Chile,Latin America,2021-10-26,2025-04-27,1153,False
+NCT100014,MRK-1006,Vaxishield,Vaccines,Phase IV,Recruiting,Canada,North America,2023-11-16,2025-11-04,343,
+NCT100015,MRK-1003,Immunext,Immunology,Phase II,Active,Mexico,North America,2022-05-07,2024-12-07,1059,True
+NCT100016,MRK-1001,Cardiozin,Cardiology,Phase III,Completed,South Korea,APAC,2019-03-21,2021-01-19,249,True
+NCT100017,MRK-1004,Glucostat,Endocrinology,Phase II,Active,USA,North America,2024-06-13,2027-08-10,161,
+NCT100018,MRK-1003,Immunext,Immunology,Phase II,Completed,South Korea,APAC,2021-05-17,2024-02-08,1124,
+NCT100019,MRK-1006,Vaxishield,Vaccines,Phase II,Active,Chile,Latin America,2024-01-24,2024-11-30,267,False
+NCT100020,MRK-1001,Cardiozin,Cardiology,Phase I,Active,UK,EMEA,2019-01-30,2019-12-14,165,True
+NCT100021,MRK-1006,Vaxishield,Vaccines,Phase IV,Active,Mexico,North America,2021-09-01,2025-03-08,590,True
+NCT100022,MRK-1008,Dermalyx,Dermatology,Phase I,Recruiting,South Africa,EMEA,2023-07-26,2026-06-22,409,False
+NCT100023,MRK-1007,Pulmocare,Respiratory,Phase I,Terminated,Argentina,Latin America,2019-08-10,2021-12-31,221,True
+NCT100024,MRK-1004,Glucostat,Endocrinology,Phase II,Terminated,UK,EMEA,2025-01-05,2026-07-14,938,False
+NCT100025,MRK-1008,Dermalyx,Dermatology,Phase I,Recruiting,Germany,EMEA,2023-12-21,2027-06-30,1147,True
+NCT100026,MRK-1002,Oncavera,Oncology,Phase IV,Active,UK,EMEA,2023-07-23,2026-04-19,1014,True
+NCT100027,MRK-1003,Immunext,Immunology,Phase IV,Completed,Brazil,Latin America,2023-05-19,2026-03-30,563,
+NCT100028,MRK-1008,Dermalyx,Dermatology,Phase I,Suspended,UK,EMEA,2022-04-30,2025-11-10,465,True
+NCT100029,MRK-1006,Vaxishield,Vaccines,Phase II,Recruiting,USA,North America,2025-07-20,2028-11-21,996,True
+NCT100030,MRK-1003,Immunext,Immunology,Phase IV,Recruiting,Mexico,North America,2019-10-06,2023-06-13,501,True
+NCT100031,MRK-1001,Cardiozin,Cardiology,Phase III,Completed,Canada,North America,2026-05-16,2028-01-04,1177,
+NCT100032,MRK-1006,Vaxishield,Vaccines,Phase III,Terminated,France,EMEA,2023-06-10,2025-09-14,288,True
+NCT100033,MRK-1001,Cardiozin,Cardiology,Phase I,Suspended,Chile,Latin America,2025-04-25,2027-01-01,224,
+NCT100034,MRK-1005,Neuroplex,Neurology,Phase III,Completed,France,EMEA,2019-10-09,2021-02-23,520,False
+NCT100035,MRK-1005,Neuroplex,Neurology,Phase I,Active,Mexico,North America,2025-03-21,2027-03-12,633,True
+NCT100036,MRK-1002,Oncavera,Oncology,Phase III,Active,France,EMEA,2022-02-28,2026-03-17,451,False
+NCT100037,MRK-1008,Dermalyx,Dermatology,Phase III,Recruiting,Japan,APAC,2020-01-14,2020-07-19,887,False
+NCT100038,MRK-1003,Immunext,Immunology,Phase IV,Suspended,India,APAC,2023-12-15,2024-07-01,1149,True
+NCT100039,MRK-1002,Oncavera,Oncology,Phase II,Terminated,Germany,EMEA,2023-02-21,2024-05-07,1151,True
+NCT100040,MRK-1005,Neuroplex,Neurology,Phase II,Recruiting,Japan,APAC,2023-01-05,2025-06-27,450,
+NCT100041,MRK-1007,Pulmocare,Respiratory,Phase IV,Recruiting,UK,EMEA,2020-10-27,2022-04-27,382,
+NCT100042,MRK-1006,Vaxishield,Vaccines,Phase II,Recruiting,Chile,Latin America,2021-10-13,2024-06-02,566,True
+NCT100043,MRK-1008,Dermalyx,Dermatology,Phase III,Active,UK,EMEA,2024-02-29,2025-11-26,736,True
+NCT100044,MRK-1004,Glucostat,Endocrinology,Phase III,Completed,Argentina,Latin America,2022-02-15,2026-03-19,162,
+NCT100045,MRK-1007,Pulmocare,Respiratory,Phase II,Suspended,Japan,APAC,2020-04-17,2022-04-10,554,True
+NCT100046,MRK-1002,Oncavera,Oncology,Phase I,Terminated,Argentina,Latin America,2022-07-08,2026-03-29,913,True
+NCT100047,MRK-1005,Neuroplex,Neurology,Phase II,Completed,Mexico,North America,2023-11-22,2026-10-20,23,True
+NCT100048,MRK-1006,Vaxishield,Vaccines,Phase III,Terminated,Japan,APAC,2022-05-15,2024-09-09,1058,False
+NCT100049,MRK-1005,Neuroplex,Neurology,Phase II,Suspended,UK,EMEA,2023-09-19,2027-05-26,796,False
+NCT100050,MRK-1007,Pulmocare,Respiratory,Phase IV,Suspended,Canada,North America,2022-03-21,2026-02-10,450,
+NCT100051,MRK-1006,Vaxishield,Vaccines,Phase IV,Active,Argentina,Latin America,2023-12-17,2024-12-04,457,False
+NCT100052,MRK-1006,Vaxishield,Vaccines,Phase II,Active,USA,North America,2022-06-25,2023-02-10,480,True
+NCT100053,MRK-1004,Glucostat,Endocrinology,Phase IV,Suspended,Chile,Latin America,2019-10-26,2021-05-26,952,
+NCT100054,MRK-1007,Pulmocare,Respiratory,Phase I,Recruiting,Argentina,Latin America,2021-09-26,2024-08-11,322,True
+NCT100055,MRK-1003,Immunext,Immunology,Phase I,Terminated,Brazil,Latin America,2025-04-02,2026-06-29,530,False
+NCT100056,MRK-1006,Vaxishield,Vaccines,Phase IV,Active,Chile,Latin America,2024-08-29,2027-10-25,893,False
+NCT100057,MRK-1005,Neuroplex,Neurology,Phase II,Completed,France,EMEA,2024-11-05,2027-10-21,1012,True
+NCT100058,MRK-1005,Neuroplex,Neurology,Phase I,Active,France,EMEA,2022-10-07,2024-02-07,674,True
+NCT100059,MRK-1007,Pulmocare,Respiratory,Phase IV,Completed,UK,EMEA,2019-09-21,2023-04-04,869,False
+NCT100060,MRK-1007,Pulmocare,Respiratory,Phase I,Suspended,USA,North America,2023-09-17,2026-05-03,817,False
+NCT100061,MRK-1001,Cardiozin,Cardiology,Phase II,Terminated,Australia,APAC,2023-05-17,2025-02-04,878,False
+NCT100062,MRK-1007,Pulmocare,Respiratory,Phase IV,Active,Brazil,Latin America,2023-05-12,2026-06-22,708,True
+NCT100063,MRK-1001,Cardiozin,Cardiology,Phase I,Terminated,Chile,Latin America,2025-04-30,2026-07-31,75,False
+NCT100064,MRK-1003,Immunext,Immunology,Phase II,Terminated,Canada,North America,2023-04-02,2025-07-29,690,False
+NCT100065,MRK-1007,Pulmocare,Respiratory,Phase IV,Recruiting,South Korea,APAC,2021-10-30,2025-05-06,187,True
+NCT100066,MRK-1006,Vaxishield,Vaccines,Phase I,Active,Germany,EMEA,2026-04-23,2027-12-02,102,True
+NCT100067,MRK-1003,Immunext,Immunology,Phase II,Terminated,UK,EMEA,2024-04-23,2026-03-28,254,False
+NCT100068,MRK-1003,Immunext,Immunology,Phase I,Completed,USA,North America,2022-06-28,2026-03-18,241,
+NCT100069,MRK-1007,Pulmocare,Respiratory,Phase II,Recruiting,Chile,Latin America,2021-03-23,2023-05-29,175,
+NCT100070,MRK-1002,Oncavera,Oncology,Phase III,Recruiting,Canada,North America,2024-12-22,2028-04-21,897,
+NCT100071,MRK-1006,Vaxishield,Vaccines,Phase IV,Completed,Canada,North America,2024-06-30,2028-07-20,236,False
+NCT100072,MRK-1003,Immunext,Immunology,Phase IV,Terminated,Brazil,Latin America,2024-11-07,2027-10-15,573,
+NCT100073,MRK-1005,Neuroplex,Neurology,Phase IV,Active,India,APAC,2019-12-21,2023-01-25,591,
+NCT100074,MRK-1007,Pulmocare,Respiratory,Phase II,Terminated,Japan,APAC,2024-07-17,2026-03-23,685,False
+NCT100075,MRK-1005,Neuroplex,Neurology,Phase I,Suspended,Australia,APAC,2025-09-07,2027-04-01,585,True
+NCT100076,MRK-1004,Glucostat,Endocrinology,Phase IV,Terminated,Argentina,Latin America,2025-03-24,2028-03-25,512,True
+NCT100077,MRK-1002,Oncavera,Oncology,Phase III,Suspended,India,APAC,2023-07-15,2026-02-04,518,False
+NCT100078,MRK-1006,Vaxishield,Vaccines,Phase III,Terminated,Chile,Latin America,2025-03-04,2027-03-08,697,False
+NCT100079,MRK-1005,Neuroplex,Neurology,Phase I,Suspended,Germany,EMEA,2021-02-27,2022-09-09,666,True
+NCT100080,MRK-1004,Glucostat,Endocrinology,Phase III,Recruiting,Argentina,Latin America,2025-08-11,2027-03-11,1094,False
+NCT100081,MRK-1004,Glucostat,Endocrinology,Phase II,Completed,India,APAC,2022-05-23,2023-02-20,48,True
+NCT100082,MRK-1005,Neuroplex,Neurology,Phase III,Terminated,South Africa,EMEA,2020-02-25,2023-04-30,45,False
+NCT100083,MRK-1006,Vaxishield,Vaccines,Phase I,Recruiting,Germany,EMEA,2021-10-31,2024-07-27,998,False
+NCT100084,MRK-1002,Oncavera,Oncology,Phase III,Recruiting,USA,North America,2020-09-03,2022-07-23,1172,True
+NCT100085,MRK-1007,Pulmocare,Respiratory,Phase III,Suspended,South Africa,EMEA,2024-01-20,2026-12-13,926,False
+NCT100086,MRK-1001,Cardiozin,Cardiology,Phase III,Recruiting,USA,North America,2026-01-06,2027-05-22,452,True
+NCT100087,MRK-1003,Immunext,Immunology,Phase IV,Suspended,USA,North America,2019-01-11,2022-02-26,856,False
+NCT100088,MRK-1001,Cardiozin,Cardiology,Phase I,Active,France,EMEA,2022-03-04,2024-02-23,949,
+NCT100089,MRK-1004,Glucostat,Endocrinology,Phase II,Completed,Brazil,Latin America,2025-02-08,2026-05-25,480,True
+NCT100090,MRK-1001,Cardiozin,Cardiology,Phase III,Terminated,France,EMEA,2025-09-03,2026-11-11,1185,False
+NCT100091,MRK-1005,Neuroplex,Neurology,Phase IV,Terminated,Argentina,Latin America,2024-08-11,2025-07-21,1125,
+NCT100092,MRK-1001,Cardiozin,Cardiology,Phase I,Recruiting,Chile,Latin America,2022-08-13,2024-05-22,532,
+NCT100093,MRK-1001,Cardiozin,Cardiology,Phase IV,Completed,Japan,APAC,2020-12-18,2022-06-22,983,
+NCT100094,MRK-1007,Pulmocare,Respiratory,Phase IV,Completed,Brazil,Latin America,2024-04-09,2026-07-25,732,
+NCT100095,MRK-1002,Oncavera,Oncology,Phase III,Terminated,France,EMEA,2023-08-14,2027-03-12,1034,True
+NCT100096,MRK-1008,Dermalyx,Dermatology,Phase I,Terminated,Canada,North America,2021-10-30,2025-03-16,682,True
+NCT100097,MRK-1008,Dermalyx,Dermatology,Phase III,Suspended,Brazil,Latin America,2021-02-07,2024-05-22,1081,
+NCT100098,MRK-1008,Dermalyx,Dermatology,Phase II,Completed,USA,North America,2021-12-29,2024-12-10,1144,
+NCT100099,MRK-1008,Dermalyx,Dermatology,Phase II,Completed,USA,North America,2026-01-24,2029-08-24,510,True
+NCT100100,MRK-1007,Pulmocare,Respiratory,Phase I,Active,USA,North America,2020-04-09,2023-07-23,965,
+NCT100101,MRK-1005,Neuroplex,Neurology,Phase II,Terminated,South Korea,APAC,2024-05-30,2027-12-29,987,True
+NCT100102,MRK-1007,Pulmocare,Respiratory,Phase IV,Completed,UK,EMEA,2019-10-13,2023-02-13,585,False
+NCT100103,MRK-1001,Cardiozin,Cardiology,Phase II,Terminated,Australia,APAC,2025-08-01,2029-02-04,1022,False
+NCT100104,MRK-1006,Vaxishield,Vaccines,Phase II,Active,South Korea,APAC,2024-02-09,2027-10-22,679,False
+NCT100105,MRK-1004,Glucostat,Endocrinology,Phase IV,Terminated,Brazil,Latin America,2022-07-27,2023-11-30,988,False
+NCT100106,MRK-1001,Cardiozin,Cardiology,Phase I,Suspended,France,EMEA,2020-02-16,2023-03-07,921,True
+NCT100107,MRK-1003,Immunext,Immunology,Phase IV,Completed,Chile,Latin America,2020-09-24,2023-02-14,173,
+NCT100108,MRK-1007,Pulmocare,Respiratory,Phase III,Terminated,Canada,North America,2024-12-25,2028-07-05,798,True
+NCT100109,MRK-1002,Oncavera,Oncology,Phase IV,Recruiting,France,EMEA,2021-07-20,2025-08-05,205,
+NCT100110,MRK-1002,Oncavera,Oncology,Phase I,Completed,Brazil,Latin America,2022-05-11,2023-03-01,79,False
+NCT100111,MRK-1006,Vaxishield,Vaccines,Phase IV,Suspended,South Korea,APAC,2020-08-19,2022-02-18,520,True
+NCT100112,MRK-1003,Immunext,Immunology,Phase IV,Suspended,Mexico,North America,2023-04-16,2024-08-01,513,True
+NCT100113,MRK-1008,Dermalyx,Dermatology,Phase IV,Completed,South Korea,APAC,2021-11-11,2025-06-02,39,True
+NCT100114,MRK-1002,Oncavera,Oncology,Phase IV,Completed,Argentina,Latin America,2025-08-03,2028-08-22,632,False
+NCT100115,MRK-1004,Glucostat,Endocrinology,Phase IV,Suspended,Argentina,Latin America,2020-03-12,2022-09-13,505,
+NCT100116,MRK-1005,Neuroplex,Neurology,Phase III,Recruiting,Japan,APAC,2026-05-20,2030-01-18,830,
+NCT100117,MRK-1001,Cardiozin,Cardiology,Phase II,Active,Argentina,Latin America,2021-07-31,2025-07-21,741,False
+NCT100118,MRK-1003,Immunext,Immunology,Phase III,Terminated,Mexico,North America,2026-04-01,2026-12-05,100,
+NCT100119,MRK-1006,Vaxishield,Vaccines,Phase IV,Active,Germany,EMEA,2022-04-23,2023-12-05,689,True
+NCT100120,MRK-1006,Vaxishield,Vaccines,Phase III,Completed,India,APAC,2021-11-18,2023-01-07,1006,False
+NCT100121,MRK-1002,Oncavera,Oncology,Phase III,Recruiting,UK,EMEA,2023-06-16,2026-02-28,1161,True
+NCT100122,MRK-1005,Neuroplex,Neurology,Phase IV,Completed,Canada,North America,2023-02-18,2024-03-25,556,
+NCT100123,MRK-1004,Glucostat,Endocrinology,Phase III,Suspended,Brazil,Latin America,2025-12-12,2027-09-06,1169,
+NCT100124,MRK-1002,Oncavera,Oncology,Phase I,Active,Chile,Latin America,2022-05-22,2023-02-18,856,True
+NCT100125,MRK-1005,Neuroplex,Neurology,Phase II,Terminated,Brazil,Latin America,2020-02-03,2023-02-16,500,False
+NCT100126,MRK-1007,Pulmocare,Respiratory,Phase IV,Suspended,South Africa,EMEA,2026-05-06,2029-02-14,222,False
+NCT100127,MRK-1001,Cardiozin,Cardiology,Phase II,Completed,India,APAC,2023-12-22,2025-01-08,930,
+NCT100128,MRK-1006,Vaxishield,Vaccines,Phase II,Recruiting,Japan,APAC,2023-06-19,2026-07-04,585,True
+NCT100129,MRK-1004,Glucostat,Endocrinology,Phase II,Suspended,USA,North America,2022-09-28,2024-05-20,518,True
+NCT100130,MRK-1004,Glucostat,Endocrinology,Phase I,Completed,UK,EMEA,2022-09-07,2023-12-27,322,True
+NCT100131,MRK-1005,Neuroplex,Neurology,Phase II,Recruiting,Germany,EMEA,2026-05-31,2028-11-29,72,True
+NCT100132,MRK-1006,Vaxishield,Vaccines,Phase II,Terminated,USA,North America,2021-12-22,2025-06-01,127,True
+NCT100133,MRK-1002,Oncavera,Oncology,Phase I,Terminated,Argentina,Latin America,2023-01-22,2026-05-17,1071,True
+NCT100134,MRK-1001,Cardiozin,Cardiology,Phase I,Terminated,South Korea,APAC,2026-03-20,2028-12-16,83,False
+NCT100135,MRK-1002,Oncavera,Oncology,Phase I,Completed,Chile,Latin America,2023-12-22,2027-11-16,170,True
+NCT100136,MRK-1002,Oncavera,Oncology,Phase III,Terminated,France,EMEA,2026-01-01,2029-11-04,1143,
+NCT100137,MRK-1005,Neuroplex,Neurology,Phase I,Recruiting,Chile,Latin America,2025-10-15,2029-05-16,901,
+NCT100138,MRK-1004,Glucostat,Endocrinology,Phase III,Terminated,Argentina,Latin America,2021-07-24,2024-04-15,867,False
+NCT100139,MRK-1002,Oncavera,Oncology,Phase III,Active,South Korea,APAC,2022-07-04,2025-08-28,542,True
+NCT100140,MRK-1002,Oncavera,Oncology,Phase III,Active,USA,North America,2023-11-04,2027-06-15,217,True
+NCT100141,MRK-1006,Vaxishield,Vaccines,Phase I,Completed,Canada,North America,2022-12-19,2026-10-28,886,False
+NCT100142,MRK-1006,Vaxishield,Vaccines,Phase II,Terminated,Mexico,North America,2024-09-09,2026-06-10,455,True
+NCT100143,MRK-1006,Vaxishield,Vaccines,Phase II,Terminated,Japan,APAC,2022-02-15,2025-10-05,1195,
+NCT100144,MRK-1001,Cardiozin,Cardiology,Phase III,Completed,Japan,APAC,2021-01-08,2023-06-25,579,True
+NCT100145,MRK-1003,Immunext,Immunology,Phase I,Recruiting,South Africa,EMEA,2019-10-13,2023-04-01,310,True
+NCT100146,MRK-1007,Pulmocare,Respiratory,Phase III,Completed,Argentina,Latin America,2022-10-28,2025-02-18,342,
+NCT100147,MRK-1002,Oncavera,Oncology,Phase I,Completed,USA,North America,2020-10-06,2023-09-28,121,
+NCT100148,MRK-1007,Pulmocare,Respiratory,Phase III,Active,Chile,Latin America,2023-12-16,2027-04-28,868,True
+NCT100149,MRK-1006,Vaxishield,Vaccines,Phase III,Recruiting,Brazil,Latin America,2022-03-06,2023-11-27,1016,False
+NCT100150,MRK-1001,Cardiozin,Cardiology,Phase II,Completed,USA,North America,2022-05-19,2024-06-29,452,False
+NCT100151,MRK-1002,Oncavera,Oncology,Phase II,Terminated,Canada,North America,2023-10-30,2027-04-22,379,
+NCT100152,MRK-1004,Glucostat,Endocrinology,Phase IV,Recruiting,Japan,APAC,2023-06-15,2026-07-10,106,True
+NCT100153,MRK-1006,Vaxishield,Vaccines,Phase III,Recruiting,Chile,Latin America,2023-07-15,2026-04-19,875,True
+NCT100154,MRK-1006,Vaxishield,Vaccines,Phase IV,Recruiting,South Africa,EMEA,2023-01-22,2024-11-30,200,False
+NCT100155,MRK-1007,Pulmocare,Respiratory,Phase II,Completed,Canada,North America,2022-06-24,2023-11-30,715,True
+NCT100156,MRK-1002,Oncavera,Oncology,Phase II,Recruiting,France,EMEA,2022-12-09,2024-04-01,322,False
+NCT100157,MRK-1004,Glucostat,Endocrinology,Phase II,Terminated,UK,EMEA,2026-05-08,2029-06-11,174,
+NCT100158,MRK-1008,Dermalyx,Dermatology,Phase I,Terminated,Australia,APAC,2020-09-10,2023-08-31,920,
+NCT100159,MRK-1005,Neuroplex,Neurology,Phase I,Completed,Japan,APAC,2022-12-12,2026-01-10,1059,False
+NCT100160,MRK-1001,Cardiozin,Cardiology,Phase I,Suspended,Canada,North America,2022-03-21,2026-01-15,177,
+NCT100161,MRK-1007,Pulmocare,Respiratory,Phase IV,Suspended,Chile,Latin America,2025-03-20,2026-10-06,104,False
+NCT100162,MRK-1008,Dermalyx,Dermatology,Phase III,Recruiting,Germany,EMEA,2024-01-20,2027-05-17,231,
+NCT100163,MRK-1003,Immunext,Immunology,Phase II,Completed,USA,North America,2023-11-29,2026-06-29,919,False
+NCT100164,MRK-1007,Pulmocare,Respiratory,Phase III,Recruiting,Argentina,Latin America,2025-09-14,2028-01-17,127,True
+NCT100165,MRK-1007,Pulmocare,Respiratory,Phase III,Recruiting,Australia,APAC,2026-05-13,2030-02-14,327,
+NCT100166,MRK-1003,Immunext,Immunology,Phase II,Suspended,Australia,APAC,2026-05-11,2027-04-29,822,False
+NCT100167,MRK-1007,Pulmocare,Respiratory,Phase IV,Suspended,India,APAC,2024-11-26,2027-06-05,211,True
+NCT100168,MRK-1006,Vaxishield,Vaccines,Phase IV,Active,India,APAC,2021-05-27,2023-03-01,719,True
+NCT100169,MRK-1003,Immunext,Immunology,Phase I,Completed,Canada,North America,2020-02-19,2024-02-03,1059,True
+NCT100170,MRK-1007,Pulmocare,Respiratory,Phase IV,Recruiting,UK,EMEA,2021-01-10,2023-10-28,359,False
+NCT100171,MRK-1004,Glucostat,Endocrinology,Phase II,Suspended,Chile,Latin America,2022-03-13,2024-01-11,939,False
+NCT100172,MRK-1008,Dermalyx,Dermatology,Phase IV,Completed,France,EMEA,2025-05-25,2028-01-12,922,
+NCT100173,MRK-1007,Pulmocare,Respiratory,Phase III,Recruiting,UK,EMEA,2025-10-12,2029-11-13,303,False
+NCT100174,MRK-1006,Vaxishield,Vaccines,Phase III,Recruiting,Mexico,North America,2024-10-14,2026-03-06,275,False
+NCT100175,MRK-1008,Dermalyx,Dermatology,Phase IV,Completed,South Africa,EMEA,2020-01-11,2020-09-01,474,False
+NCT100176,MRK-1001,Cardiozin,Cardiology,Phase IV,Recruiting,Chile,Latin America,2023-03-12,2025-10-14,502,True
+NCT100177,MRK-1001,Cardiozin,Cardiology,Phase II,Active,Japan,APAC,2026-04-16,2026-12-30,706,False
+NCT100178,MRK-1008,Dermalyx,Dermatology,Phase I,Recruiting,South Africa,EMEA,2024-01-12,2025-12-16,30,True
+NCT100179,MRK-1003,Immunext,Immunology,Phase III,Recruiting,Brazil,Latin America,2022-03-26,2022-12-28,506,True
+NCT100180,MRK-1007,Pulmocare,Respiratory,Phase I,Suspended,Brazil,Latin America,2020-03-30,2023-12-17,1043,True
+NCT100181,MRK-1003,Immunext,Immunology,Phase II,Suspended,South Korea,APAC,2019-01-07,2021-11-05,742,True
+NCT100182,MRK-1002,Oncavera,Oncology,Phase I,Terminated,Japan,APAC,2024-11-24,2028-01-10,1134,True
+NCT100183,MRK-1007,Pulmocare,Respiratory,Phase I,Completed,Australia,APAC,2019-03-08,2021-01-09,751,
+NCT100184,MRK-1002,Oncavera,Oncology,Phase III,Active,India,APAC,2019-07-01,2022-08-05,741,
+NCT100185,MRK-1008,Dermalyx,Dermatology,Phase I,Completed,UK,EMEA,2019-09-16,2021-04-30,957,True
+NCT100186,MRK-1004,Glucostat,Endocrinology,Phase IV,Suspended,Canada,North America,2022-06-24,2025-08-16,1075,False
+NCT100187,MRK-1001,Cardiozin,Cardiology,Phase III,Completed,France,EMEA,2023-01-02,2024-03-11,117,False
+NCT100188,MRK-1007,Pulmocare,Respiratory,Phase III,Active,Chile,Latin America,2023-12-07,2027-03-17,811,
+NCT100189,MRK-1008,Dermalyx,Dermatology,Phase I,Terminated,Australia,APAC,2019-12-05,2023-10-18,889,True
+NCT100190,MRK-1005,Neuroplex,Neurology,Phase III,Completed,Japan,APAC,2019-11-24,2022-11-21,691,
+NCT100191,MRK-1007,Pulmocare,Respiratory,Phase I,Completed,South Africa,EMEA,2022-12-10,2026-11-18,935,False
+NCT100192,MRK-1005,Neuroplex,Neurology,Phase III,Suspended,USA,North America,2026-02-24,2027-07-16,851,True
+NCT100193,MRK-1003,Immunext,Immunology,Phase II,Completed,Brazil,Latin America,2020-06-01,2022-12-09,157,False
+NCT100194,MRK-1001,Cardiozin,Cardiology,Phase IV,Recruiting,South Africa,EMEA,2023-02-28,2026-11-14,781,True
+NCT100195,MRK-1006,Vaxishield,Vaccines,Phase II,Recruiting,Argentina,Latin America,2026-04-14,2026-12-03,590,
+NCT100196,MRK-1003,Immunext,Immunology,Phase I,Completed,Chile,Latin America,2023-05-05,2025-04-17,1170,
+NCT100197,MRK-1008,Dermalyx,Dermatology,Phase I,Active,France,EMEA,2024-07-04,2025-05-31,429,False
+NCT100198,MRK-1003,Immunext,Immunology,Phase I,Suspended,Brazil,Latin America,2022-08-02,2026-02-12,731,False
+NCT100199,MRK-1005,Neuroplex,Neurology,Phase II,Recruiting,UK,EMEA,2023-01-20,2024-09-02,1061,True
+NCT100200,MRK-1004,Glucostat,Endocrinology,Phase III,Terminated,Brazil,Latin America,2023-01-18,2026-08-19,1154,True
+NCT100201,MRK-1002,Oncavera,Oncology,Phase IV,Terminated,Canada,North America,2023-06-19,2027-03-07,1000,True
+NCT100202,MRK-1003,Immunext,Immunology,Phase III,Active,Japan,APAC,2024-01-18,2027-08-19,974,
+NCT100203,MRK-1003,Immunext,Immunology,Phase I,Suspended,South Africa,EMEA,2024-08-21,2025-12-27,133,False
+NCT100204,MRK-1003,Immunext,Immunology,Phase III,Recruiting,France,EMEA,2021-07-12,2023-06-05,728,True
+NCT100205,MRK-1005,Neuroplex,Neurology,Phase I,Suspended,France,EMEA,2025-11-21,2029-12-22,1112,True
+NCT100206,MRK-1003,Immunext,Immunology,Phase I,Recruiting,France,EMEA,2025-04-27,2026-01-25,104,
+NCT100207,MRK-1005,Neuroplex,Neurology,Phase IV,Suspended,South Africa,EMEA,2025-12-06,2028-01-18,82,
+NCT100208,MRK-1005,Neuroplex,Neurology,Phase IV,Recruiting,Brazil,Latin America,2023-07-22,2024-05-19,629,True
+NCT100209,MRK-1008,Dermalyx,Dermatology,Phase III,Suspended,Argentina,Latin America,2024-03-17,2025-07-04,437,False
+NCT100210,MRK-1006,Vaxishield,Vaccines,Phase I,Completed,South Korea,APAC,2020-06-19,2022-04-25,778,False
+NCT100211,MRK-1002,Oncavera,Oncology,Phase I,Recruiting,South Korea,APAC,2021-10-12,2023-11-25,308,False
+NCT100212,MRK-1007,Pulmocare,Respiratory,Phase II,Active,UK,EMEA,2022-09-03,2025-12-16,660,
+NCT100213,MRK-1008,Dermalyx,Dermatology,Phase I,Terminated,Argentina,Latin America,2024-07-30,2027-11-27,67,False
+NCT100214,MRK-1004,Glucostat,Endocrinology,Phase III,Terminated,France,EMEA,2019-07-19,2023-05-22,123,
+NCT100215,MRK-1008,Dermalyx,Dermatology,Phase II,Completed,Japan,APAC,2020-03-16,2022-10-01,902,False
+NCT100216,MRK-1006,Vaxishield,Vaccines,Phase II,Completed,Canada,North America,2019-07-29,2023-03-03,1187,False
+NCT100217,MRK-1002,Oncavera,Oncology,Phase III,Suspended,Chile,Latin America,2024-01-19,2027-12-20,1146,True
+NCT100218,MRK-1003,Immunext,Immunology,Phase III,Active,Canada,North America,2023-03-09,2024-10-16,714,
+NCT100219,MRK-1007,Pulmocare,Respiratory,Phase III,Terminated,USA,North America,2019-06-09,2022-11-03,300,False
+NCT100220,MRK-1003,Immunext,Immunology,Phase II,Terminated,France,EMEA,2025-11-16,2029-10-28,672,
+NCT100221,MRK-1005,Neuroplex,Neurology,Phase IV,Recruiting,South Korea,APAC,2025-04-24,2027-11-14,633,False
+NCT100222,MRK-1002,Oncavera,Oncology,Phase IV,Completed,Chile,Latin America,2022-06-14,2026-03-09,74,
+NCT100223,MRK-1004,Glucostat,Endocrinology,Phase IV,Active,Mexico,North America,2024-05-21,2026-03-28,369,True
+NCT100224,MRK-1002,Oncavera,Oncology,Phase IV,Active,Germany,EMEA,2023-12-12,2026-10-02,662,
+NCT100225,MRK-1004,Glucostat,Endocrinology,Phase I,Active,Chile,Latin America,2025-11-09,2029-04-04,985,True
+NCT100226,MRK-1006,Vaxishield,Vaccines,Phase II,Terminated,Chile,Latin America,2023-03-24,2026-09-15,662,False
+NCT100227,MRK-1006,Vaxishield,Vaccines,Phase III,Suspended,South Korea,APAC,2021-02-26,2023-04-28,524,True
+NCT100228,MRK-1005,Neuroplex,Neurology,Phase IV,Completed,India,APAC,2024-06-25,2028-02-12,669,
+NCT100229,MRK-1005,Neuroplex,Neurology,Phase IV,Terminated,Japan,APAC,2025-06-06,2027-11-09,1132,True
+NCT100230,MRK-1005,Neuroplex,Neurology,Phase IV,Completed,Canada,North America,2019-11-20,2023-01-24,729,True
+NCT100231,MRK-1004,Glucostat,Endocrinology,Phase II,Active,Australia,APAC,2020-07-16,2021-04-25,243,
+NCT100232,MRK-1004,Glucostat,Endocrinology,Phase III,Terminated,Germany,EMEA,2020-02-15,2021-03-06,866,
+NCT100233,MRK-1003,Immunext,Immunology,Phase IV,Terminated,Mexico,North America,2020-10-08,2022-05-19,853,False
+NCT100234,MRK-1006,Vaxishield,Vaccines,Phase II,Suspended,Japan,APAC,2020-01-02,2020-09-14,1195,True
+NCT100235,MRK-1007,Pulmocare,Respiratory,Phase II,Completed,Germany,EMEA,2023-06-15,2024-02-26,1034,True
+NCT100236,MRK-1005,Neuroplex,Neurology,Phase IV,Active,Canada,North America,2022-03-11,2025-07-05,950,False
+NCT100237,MRK-1005,Neuroplex,Neurology,Phase IV,Completed,Germany,EMEA,2022-09-16,2024-03-30,352,True
+NCT100238,MRK-1006,Vaxishield,Vaccines,Phase IV,Suspended,India,APAC,2020-12-19,2023-04-19,850,True
+NCT100239,MRK-1007,Pulmocare,Respiratory,Phase III,Active,USA,North America,2020-07-29,2021-02-07,997,False
+NCT100240,MRK-1007,Pulmocare,Respiratory,Phase III,Suspended,South Africa,EMEA,2021-12-29,2025-09-12,695,True
+NCT100241,MRK-1005,Neuroplex,Neurology,Phase IV,Completed,India,APAC,2019-09-12,2021-01-31,262,False
+NCT100242,MRK-1005,Neuroplex,Neurology,Phase II,Active,Mexico,North America,2022-04-23,2023-07-20,772,False
+NCT100243,MRK-1003,Immunext,Immunology,Phase IV,Suspended,Chile,Latin America,2025-10-17,2028-12-04,785,
+NCT100244,MRK-1004,Glucostat,Endocrinology,Phase III,Recruiting,Germany,EMEA,2024-11-22,2028-07-19,934,True
+NCT100245,MRK-1001,Cardiozin,Cardiology,Phase IV,Recruiting,UK,EMEA,2020-11-04,2022-06-27,691,
+NCT100246,MRK-1008,Dermalyx,Dermatology,Phase IV,Active,Mexico,North America,2023-12-30,2027-05-14,133,False
+NCT100247,MRK-1008,Dermalyx,Dermatology,Phase I,Terminated,Mexico,North America,2024-03-08,2026-02-07,651,True
+NCT100248,MRK-1004,Glucostat,Endocrinology,Phase I,Suspended,USA,North America,2023-10-02,2024-07-31,725,True
+NCT100249,MRK-1008,Dermalyx,Dermatology,Phase II,Terminated,Canada,North America,2023-08-02,2026-03-05,388,False
+NCT100250,MRK-1008,Dermalyx,Dermatology,Phase II,Completed,Argentina,Latin America,2019-11-25,2021-01-20,1124,True
+NCT100251,MRK-1007,Pulmocare,Respiratory,Phase III,Terminated,UK,EMEA,2019-01-15,2022-08-02,66,False
+NCT100252,MRK-1007,Pulmocare,Respiratory,Phase II,Completed,UK,EMEA,2024-03-01,2025-09-18,728,
+NCT100253,MRK-1002,Oncavera,Oncology,Phase II,Active,Mexico,North America,2023-09-14,2024-07-27,52,True
+NCT100254,MRK-1001,Cardiozin,Cardiology,Phase I,Terminated,Chile,Latin America,2019-07-19,2022-07-01,521,True
+NCT100255,MRK-1004,Glucostat,Endocrinology,Phase II,Suspended,USA,North America,2024-08-25,2026-12-06,612,
+NCT100256,MRK-1006,Vaxishield,Vaccines,Phase II,Terminated,France,EMEA,2020-08-09,2022-10-13,1087,False
+NCT100257,MRK-1001,Cardiozin,Cardiology,Phase I,Completed,South Africa,EMEA,2025-03-26,2029-05-01,1035,
+NCT100258,MRK-1007,Pulmocare,Respiratory,Phase III,Terminated,South Korea,APAC,2023-07-31,2025-02-06,325,
+NCT100259,MRK-1008,Dermalyx,Dermatology,Phase IV,Recruiting,UK,EMEA,2022-05-16,2026-01-06,315,False
+NCT100260,MRK-1007,Pulmocare,Respiratory,Phase II,Completed,South Africa,EMEA,2021-09-21,2022-08-28,542,False
+NCT100261,MRK-1006,Vaxishield,Vaccines,Phase III,Terminated,Mexico,North America,2021-02-19,2025-01-07,125,
+NCT100262,MRK-1001,Cardiozin,Cardiology,Phase II,Terminated,USA,North America,2025-08-03,2027-04-02,1164,False
+NCT100263,MRK-1005,Neuroplex,Neurology,Phase IV,Active,USA,North America,2021-02-17,2025-01-04,260,
+NCT100264,MRK-1004,Glucostat,Endocrinology,Phase III,Terminated,Brazil,Latin America,2025-03-11,2028-04-18,678,
+NCT100265,MRK-1006,Vaxishield,Vaccines,Phase IV,Terminated,Australia,APAC,2023-01-13,2024-01-29,1070,
+NCT100266,MRK-1008,Dermalyx,Dermatology,Phase IV,Recruiting,India,APAC,2023-02-27,2026-10-21,660,True
+NCT100267,MRK-1003,Immunext,Immunology,Phase III,Active,Canada,North America,2025-03-16,2026-10-18,875,False
+NCT100268,MRK-1004,Glucostat,Endocrinology,Phase III,Completed,Chile,Latin America,2021-10-03,2024-12-26,1042,
+NCT100269,MRK-1008,Dermalyx,Dermatology,Phase II,Suspended,Brazil,Latin America,2022-12-13,2026-03-07,366,True
+NCT100270,MRK-1001,Cardiozin,Cardiology,Phase IV,Active,USA,North America,2019-07-18,2023-07-28,33,True
+NCT100271,MRK-1002,Oncavera,Oncology,Phase IV,Completed,Germany,EMEA,2021-06-14,2022-04-13,1055,
+NCT100272,MRK-1008,Dermalyx,Dermatology,Phase IV,Recruiting,Brazil,Latin America,2019-01-28,2019-08-30,1109,
+NCT100273,MRK-1005,Neuroplex,Neurology,Phase II,Recruiting,Japan,APAC,2024-08-19,2025-08-31,901,
+NCT100274,MRK-1003,Immunext,Immunology,Phase III,Completed,UK,EMEA,2025-12-13,2027-12-10,1098,False
+NCT100275,MRK-1002,Oncavera,Oncology,Phase II,Active,South Korea,APAC,2024-02-24,2026-04-28,1177,
+NCT100276,MRK-1002,Oncavera,Oncology,Phase IV,Suspended,USA,North America,2023-07-19,2026-09-15,796,True
+NCT100277,MRK-1001,Cardiozin,Cardiology,Phase III,Suspended,Germany,EMEA,2024-08-09,2025-08-19,908,
+NCT100278,MRK-1001,Cardiozin,Cardiology,Phase III,Recruiting,UK,EMEA,2025-05-10,2026-04-07,993,
+NCT100279,MRK-1005,Neuroplex,Neurology,Phase II,Suspended,USA,North America,2022-07-12,2023-10-30,52,
+NCT100280,MRK-1007,Pulmocare,Respiratory,Phase II,Suspended,Canada,North America,2020-10-27,2023-06-30,1174,
+NCT100281,MRK-1006,Vaxishield,Vaccines,Phase III,Recruiting,Chile,Latin America,2020-07-27,2021-08-11,180,False
+NCT100282,MRK-1004,Glucostat,Endocrinology,Phase III,Recruiting,Canada,North America,2025-10-14,2029-10-31,832,False
+NCT100283,MRK-1008,Dermalyx,Dermatology,Phase IV,Terminated,Brazil,Latin America,2022-12-28,2024-07-10,1152,
+NCT100284,MRK-1007,Pulmocare,Respiratory,Phase I,Recruiting,Mexico,North America,2022-04-24,2024-04-21,524,True
+NCT100285,MRK-1007,Pulmocare,Respiratory,Phase I,Recruiting,South Africa,EMEA,2022-07-21,2023-01-27,758,False
+NCT100286,MRK-1008,Dermalyx,Dermatology,Phase I,Active,Australia,APAC,2020-02-23,2023-01-20,291,False
+NCT100287,MRK-1007,Pulmocare,Respiratory,Phase I,Suspended,USA,North America,2020-01-03,2023-11-07,744,False
+NCT100288,MRK-1007,Pulmocare,Respiratory,Phase I,Suspended,Canada,North America,2023-08-22,2025-06-29,814,
+NCT100289,MRK-1003,Immunext,Immunology,Phase III,Completed,Brazil,Latin America,2020-07-22,2023-10-24,570,True
+NCT100290,MRK-1002,Oncavera,Oncology,Phase III,Terminated,South Africa,EMEA,2022-02-04,2023-01-07,882,False
+NCT100291,MRK-1005,Neuroplex,Neurology,Phase IV,Recruiting,South Africa,EMEA,2025-08-29,2026-11-29,420,False
+NCT100292,MRK-1001,Cardiozin,Cardiology,Phase III,Terminated,Argentina,Latin America,2025-12-15,2028-04-28,798,False
+NCT100293,MRK-1003,Immunext,Immunology,Phase IV,Completed,Australia,APAC,2025-10-06,2027-04-02,431,False
+NCT100294,MRK-1006,Vaxishield,Vaccines,Phase III,Terminated,South Korea,APAC,2025-06-16,2027-07-10,516,False
+NCT100295,MRK-1006,Vaxishield,Vaccines,Phase II,Suspended,Mexico,North America,2021-03-29,2021-11-19,1137,
+NCT100296,MRK-1008,Dermalyx,Dermatology,Phase IV,Terminated,South Africa,EMEA,2022-04-08,2023-07-17,161,
+NCT100297,MRK-1005,Neuroplex,Neurology,Phase IV,Terminated,France,EMEA,2026-05-21,2027-04-17,335,False
+NCT100298,MRK-1008,Dermalyx,Dermatology,Phase I,Completed,Chile,Latin America,2024-09-06,2028-03-08,876,
+NCT100299,MRK-1002,Oncavera,Oncology,Phase II,Suspended,USA,North America,2026-05-17,2027-02-11,747,
