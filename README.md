@@ -2,15 +2,8 @@
 
 **An end-to-end AWS data platform for pharma — clinical, safety & commercial data in, AI-driven insight out.**
 
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-S3%20%7C%20Glue%20%7C%20Lambda%20%7C%20Redshift-E8853B?style=flat-square&logo=amazonaws&logoColor=white">
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-transformations-EA6B4B?style=flat-square&logo=dbt&logoColor=white">
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-IaC-5C4EE5?style=flat-square&logo=terraform&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-pandas%20%7C%20scikit--learn-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="CI" src="https://img.shields.io/badge/CI-GitHub%20Actions-24292E?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-1B8A5A?style=flat-square">
-</p>
+<img width="1760" height="1000" alt="architecture_diagram" src="https://github.com/user-attachments/assets/7af19da6-fd9f-49e8-aedb-a8ffbd75a849" />
+
 
 Every day, a pharma company generates clinical trial results, adverse-event reports, shipment
 records, and sales data — in different shapes, different systems, different urgency levels. This
