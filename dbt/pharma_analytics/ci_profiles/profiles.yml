@@ -1,0 +1,15 @@
+# Used only by CI (.github/workflows/ci.yml) to run `dbt compile` against a
+# throwaway local Postgres service container, so model SQL is syntax- and
+# ref-checked on every PR without needing real Redshift credentials.
+pharma_analytics:
+  target: ci
+  outputs:
+    ci:
+      type: postgres
+      host: localhost
+      user: dbt
+      password: dbt
+      port: 5432
+      dbname: pharma_analytics
+      schema: raw
+      threads: 4
