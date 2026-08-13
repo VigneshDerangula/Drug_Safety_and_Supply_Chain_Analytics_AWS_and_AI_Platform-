@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated data & model artifacts (regenerate via scripts, do not commit)
+data/*.csv
+ai_ml/*.joblib
+
+# dbt
+dbt/pharma_analytics/target/
+dbt/pharma_analytics/dbt_packages/
+dbt/pharma_analytics/logs/
+
+# Terraform
+infrastructure/terraform/.terraform/
+infrastructure/terraform/*.tfstate
+infrastructure/terraform/*.tfstate.backup
+infrastructure/terraform/.terraform.lock.hcl
+
+# Lambda build artifacts
+etl/lambda/*.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
