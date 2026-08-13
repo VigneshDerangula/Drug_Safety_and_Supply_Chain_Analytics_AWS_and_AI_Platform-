@@ -20,11 +20,6 @@ marts, and two ML models — an adverse-event severity classifier and a demand f
 top and turn the data into decisions. A parallel Lambda path triages new safety reports the moment
 they land, because drug-safety signals can't wait for the nightly batch.
 
-Built to mirror the kind of data engineering work behind pharma analytics teams — the AWS stack,
-orchestration, and governed-data practices referenced in Merck & Co.–style Data Engineer job
-descriptions: **S3, Glue, Lambda, Redshift, IAM, Airflow, dbt, CI/CD, and applied ML on top of it
-all.**
-
 ## Why this project exists
 
 Pharma data platforms live under three constraints that shaped every design decision here:
@@ -41,9 +36,8 @@ Pharma data platforms live under three constraints that shaped every design deci
 
 ## Architecture
 
-<p align="center">
-  <img src="architecture/assets/architecture_diagram.svg" alt="PharmaPulse architecture diagram: source systems flow into an S3 raw zone, through AWS Glue PySpark jobs into staging and curated S3 zones, into Redshift, through dbt into an AI/ML layer (adverse event NLP classifier and demand forecasting), and out to a BI layer. A parallel Lambda and SNS path handles real-time adverse-event triage. Apache Airflow orchestrates the daily batch DAG, and GitHub Actions runs CI." width="100%">
-</p>
+<img width="1760" height="1000" alt="architecture_diagram" src="https://github.com/user-attachments/assets/ba407e5e-c1cf-478d-a020-f8599c38c000" />
+
 
 Two paths, one warehouse:
 
