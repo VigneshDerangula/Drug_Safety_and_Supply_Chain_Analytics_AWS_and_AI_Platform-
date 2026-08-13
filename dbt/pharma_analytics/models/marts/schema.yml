@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: dim_drugs
+    description: One row per drug code seen in either safety or supply/demand data
+    columns:
+      - name: drug_code
+        tests: [unique, not_null]
+
+  - name: fct_adverse_events
+    description: Grain of one row per adverse event case, ready for BI
+    columns:
+      - name: case_id
+        tests: [unique, not_null]
+      - name: severity_label
+        tests:
+          - accepted_values:
+              values: ["mild", "moderate", "severe", "life-threatening"]
+
+  - name: fct_adverse_events_monthly
+    description: Monthly adverse event counts and seriousness rate, by drug and region
+
+  - name: fct_drug_demand
+    description: Monthly shipped-vs-sold variance, by drug and region, for supply chain planning
