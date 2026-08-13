@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw tables loaded into Redshift via S3 COPY from the Glue curated zone
+    schema: raw
+    tables:
+      - name: adverse_events
+        description: One row per adverse event case, enriched with active-trial context (curated zone)
+        columns:
+          - name: case_id
+            tests: [unique, not_null]
+          - name: drug_code
+            tests: [not_null]
+      - name: supply_demand
+        description: Monthly units shipped vs. units sold, by drug and region (curated zone)
