@@ -1,0 +1,22 @@
+# Example ~/.dbt/profiles.yml entry — not used automatically by dbt, copy/adapt it.
+pharma_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: redshift
+      host: "{{ env_var(\"REDSHIFT_HOST\") }}"
+      user: "{{ env_var(\"REDSHIFT_USER\") }}"
+      password: "{{ env_var(\"REDSHIFT_PASSWORD\") }}"
+      port: 5439
+      dbname: pharma_analytics
+      schema: raw
+      threads: 4
+    prod:
+      type: redshift
+      host: "{{ env_var(\"REDSHIFT_HOST\") }}"
+      user: "{{ env_var(\"REDSHIFT_USER\") }}"
+      password: "{{ env_var(\"REDSHIFT_PASSWORD\") }}"
+      port: 5439
+      dbname: pharma_analytics
+      schema: raw
+      threads: 8
